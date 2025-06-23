@@ -42,7 +42,7 @@ TFM-Dashproject/
 ## 📬 Contact
 
 📧 federico.salva99@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/federico-salvà-05780a245) 
+🔗 [LinkedIn]([www.linkedin.com/in/federico-salvà-05780a245](https://www.linkedin.com/in/federico-salvà-05780a245/)) 
 
 ---
 
