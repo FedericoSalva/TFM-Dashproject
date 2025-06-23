@@ -1,0 +1,96 @@
+RUOLO;PROFILO;DESCRIZIONE;PESO CON/SENZA PALLA;KPI CON PALLA;PESO KPI CON;KPI SENZA PALLA;PESO KPI SENZA
+GOALKEEPER;Playmaker Keeper;Goalkeeper involved in build-up play, capable of short passing under pressure and actively participating outside the penalty area;30/70;PA ;9;PSxG+/-;25
+;;;;Att (GK);8;Salvadas;18
+;;;;Long. Prom.;7;% Salvadas ;17
+;;;;% Cmp;6;DistProm ;10
+;;;;;;;
+;Shot-Stopper;Goalkeeper focused on shot-stopping, with excellent reflexes and positioning to cover shooting angles;10/90;% Cmp;10;PaC% ;36
+;;;;;;% Salvadas;27
+;;;;;;PSxG+/-;18
+;;;;;;Salvadas;9
+;;;;;;;
+CENTRE BACK;Guardian;Physical center-back with strong positional awareness, dominant in aerial duels and positional defending;20/80;% Cmp;8;Tkl(Desafios);24
+;;;;PA ;7;3.º cent.;20
+;;;;Long. Prom.;3;% de ganados;20
+;;;;Cmp;2;Recup. ;16
+;;;;;;;
+;Deep Distributor;Center-back with excellent vision and build-up ability, leading the team's play from the back;70/30;PrgP ;25;Int;12
+;;;;1/3;21;3.º cent.;11
+;;;;Camb.;17;TklG;4
+;;;;% Cmp (largos);7;Recup.;3
+;;;;;;;
+;Enforcer;Aggressive center-back, excelling in tackles, pressing, and intercepting passes;15/85;PrgP ;6;Int ;30
+;;;;% Cmp;5;Recup.;25
+;;;;Dist. prg.;3;% de ganados;17
+;;;;Toques;1;Tkl(Desafios);13
+;;;;;;;
+FULLBACK;Sentinel Fullback;Defensive fullback, tactically disciplined, focused on providing wide defensive coverage;20/80;% Cmp;8;Recup. ;24
+;;;;Pcz;7;3.º def.;24
+;;;;% Cmp (medios);5;Tkl%;20
+;;;;;;% de ganados;12
+;;;;;;;
+;Advanced Wingback;Fullback involved in both wide play and build-up, making forward runs and creating chances;70/30;PrgC;26;3.º cent.;14
+;;;;Exitosa%;18;Tkl%;8
+;;;;PrgR ;16;Recup.;5
+;;;;1/3;10;% de ganados;3
+;;;;;;;
+;Overlapping Runner;Dynamic fullback constantly making overlapping runs, seeking to exploit depth;60/40;Ataq. Pen.;20;3.º cent.;14
+;;;;CrAP;17;Int;10
+;;;;Dist. prg.;16;TklG ;9
+;;;;Exitosa%;7;% de ganados;7
+;;;;;;;
+MIDFIELDER;Pivot Master;Deep-lying midfielder, shielding the defense. Excels in ball recovery and possession retention;25/75;% Cmp;10;Int ;26
+;;;;% Cmp (cortos);9;3.º cent.;23
+;;;;Long. Prom.;6;Recup.;19
+;;;;;;Tkl%;7
+;Maestro;Midfielder constantly involved in possession. Distributes, connects lines, and carries the ball;75/25;Toques;26;Int;13
+;;;;PrgP;23;3.º cent.;7
+;;;;1/3;19;% de ganados;4
+;;;;% Cmp (medios);7;Recup.;1
+;;;;;;;
+;Box-to-Box;Dynamic midfielder covering the entire pitch, making attacking runs and recovering defensively;65/35;PrgC;22;Tkl ;16
+;;;;Exitosa%;17;Int;13
+;;;;xG + xAG;17;Recup.;11
+;;;;PrgR ;9;% de ganados ;5
+;;;;;;;
+ATTACKING MIDFIELDER;Diez;Creative and technical attacking midfielder. Combines tactical intelligence with vision for decisive plays and through balls;90/10;xAG ;35;Recup.;5
+;;;;PPA;22;3.º ataq.;5
+;;;;PassLive;15;;
+;;;;SCA90;10;;
+;;;;T/90;8;;
+;;;;;;;
+;Space Invader;Offensive midfielder who exploits spaces, attacks depth and provides goal-scoring threat from deep;75/25;npxG;26;Recup.;15
+;;;;T/90;23;3.º ataq.;10
+;;;;Ataq. Pen.;19;;
+;;;;PrgC ;7;;
+;;;;;;;
+WINGER;Key Passer;Assist-focused winger, specialist in crosses and key passes. Emphasizes final ball delivery and service to strikers;85/15;xAG ;30;Int ;9
+;;;;CrAP;25;FR;6
+;;;;PassLive;21;;
+;;;;1/3;9;;
+;;;;;;;
+;Creative Winger;Pure dribbling winger. 1v1 specialist, takes on defenders and looks for shooting opportunities;80/20;Exitosa% ;32;FR;14
+;;;;SCA90;20;3.º ataq.;6
+;;;;xG ;15;;
+;;;;PrgC ;8;;
+;;;;CrAP;5;;
+;;;;;;;
+;;;;;;;
+STRIKER;Falso Nueve;Mobile striker, combining dropping deep and running in behind. Creative forward who supports build-up play;80/20;xG + xAG  ;25;FR;10
+;;;;PrgP;18;Recup.;6
+;;;;PrgC;15;3.º ataq.;4
+;;;;GCA90;12;;
+;;;;1/3;10;;
+;;;;;;;
+;Aerial Dominator;Physical striker dominant in aerial play. Target man for crosses and high balls;70/30;PrgR ;25;% de ganados;20
+;;;;xG;15;Recup.;5
+;;;;T/90;15;Int;5
+;;;;G/T ;10;;
+;;;;Ataq. Pen.;5;;
+;;;;;;;
+;Lethal Striker;Pure finisher. Attacks space behind defense. Minimal involvement in build-up play;85/15;npxG ;34;% de ganados;9
+;;;;TalArc/90;26;FR;6
+;;;;G/T ;17;;
+;;;;Ataq. Pen.;8;;
+BONUS;;;;;;;
+;Valverde;Giocatori versatili che hanno punteggi elevati in 2 o più profili diversi;Variabile;Mix di KPI da profili multipli;Variabile;Mix di KPI da profili multipli;Variabile
