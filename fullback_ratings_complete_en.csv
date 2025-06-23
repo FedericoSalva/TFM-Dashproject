@@ -1,0 +1,711 @@
+Player;Team;League;Sentinel_Fullback;Advanced_Wingback;Overlapping_Runner;Age;Nationality;Height;Foot;Market Value;Contract Until;Position;Annual Salary;Release Clause
+Aarón Martín;Genoa;Serie_A;99.0;85.7;91.8;28;Spain;1,78m;left;6.500.000,00 €;Jun 30, 2026;Left-Back;€1.280.000.00;0,00 €
+Antonee Robinson;Fulham;EPL;97.9;99.0;99.0;27;United States, England;1,83m;left;35.000.000,00 €;Jun 30, 2028;Left-Back;€3.083.523.00;0,00 €
+Maximilian Mittelstädt;Stuttgart;Bundesliga;97.7;96.3;99.0;28;Germany;1,80m;left;20.000.000,00 €;Jun 30, 2028;Left-Back;€1.890.000.00;0,00 €
+Noussair Mazraoui;Manchester_United;EPL;96.7;84.1;94.4;27;Morocco, Netherlands;1,83m;right;32.000.000,00 €;Jun 30, 2028;Right-Back;;
+Diogo Dalot;Manchester_United;EPL;95.8;87.1;86.5;26;Portugal;1,83m;right;35.000.000,00 €;Jun 30, 2028;Right-Back;;
+Alejandro Grimaldo;Bayer_Leverkusen;Bundesliga;92.4;97.8;94.5;29;Spain;1,71m;left;40.000.000,00 €;Jun 30, 2027;Left-Back;€6.000.000.00;0,00 €
+Tyrick Mitchell;Crystal_Palace;EPL;95.4;81.4;86.1;25;England, Jamaica;1,81m;left;25.000.000,00 €;Jun 30, 2025;Left-Back;;
+Omar El Hilali;Espanyol;La_Liga;94.6;79.6;99.0;21;Morocco, Spain;1,83m;right;10.000.000,00 €;Jun 30, 2027;Right-Back;€210.000.00;0,00 €
+Daniel Muñoz;Crystal_Palace;EPL;94.5;84.3;97.5;28;Colombia;1,81m;right;25.000.000,00 €;Jun 30, 2028;Right-Back;;
+Rayan Aït-Nouri;Wolverhampton_Wanderers;EPL;94.3;87.0;82.4;23;Algeria, France;1,80m;left;35.000.000,00 €;Jun 30, 2026;Left-Back;€616.705.00;0,00 €
+Tommaso Augello;Cagliari;Serie_A;94.0;88.7;94.6;30;Italy;1,80m;left;1.800.000,00 €;Jun 30, 2025;Left-Back;€930.000.00;0,00 €
+Vanderson;Monaco;Ligue_1;92.4;94.2;99.0;23;Brazil;1,73m;right;20.000.000,00 €;Jun 30, 2028;Right-Back;€3.000.000.00;0,00 €
+Arthur Masuaku;Beşiktaş;Süper_Lig;92.0;30.0;75.9;;;;;;;;;
+Maximilian Wittek;Bochum;Bundesliga;91.8;79.3;93.1;29;Germany;1,73m;left;2.000.000,00 €;Jun 30, 2026;Left-Back;€800.000.00;0,00 €
+Zeki Yavru;Samsunspor;Süper_Lig;91.6;30.0;85.3;33;Türkiye;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€600.000.00;0,00 €
+Dodô;Fiorentina;Serie_A;91.6;99.0;86.8;26;Brazil;1,66m;right;22.000.000,00 €;Jun 30, 2027;Right-Back;€1.920.000.00;0,00 €
+Antonino Gallo;Lecce;Serie_A;90.4;79.8;88.2;25;Italy;1,83m;left;4.500.000,00 €;Jun 30, 2026;Left-Back;€960.000.00;0,00 €
+Pervis Estupiñán;Brighton_and_Hove_Albion;EPL;90.1;82.1;91.2;27;Ecuador, Spain;1,75m;left;30.000.000,00 €;Jun 30, 2027;Left-Back;€3.083.523.00;0,00 €
+Kenny Lala;Brest;Ligue_1;90.0;89.0;92.6;33;France, Martinique;1,78m;right;2.500.000,00 €;Jun 30, 2027;Right-Back;€720.000.00;0,00 €
+Aaron Wan-Bissaka;West_Ham_United;EPL;89.9;96.2;96.8;27;England, DR Congo;1,83m;right;22.000.000,00 €;Jun 30, 2031;Right-Back;€5.550.342.00;0,00 €
+Jackson Tchatchoua;Hellas_Verona;Serie_A;89.8;91.6;75.7;23;Cameroon, Belgium;1,80m;right;8.000.000,00 €;Jun 30, 2027;Right-Back;€450.000.00;0,00 €
+Neco Williams;Nottingham_Forest;EPL;89.7;72.1;74.2;24;Wales;1,83m;right;20.000.000,00 €;Jun 30, 2026;Right-Back;;
+Ola Aina;Nottingham_Forest;EPL;89.6;74.7;75.1;28;Nigeria, England;1,84m;right;20.000.000,00 €;Jun 30, 2025;Right-Back;;
+Pedro Porro;Tottenham_Hotspur;EPL;89.5;80.7;99.0;25;Spain;1,73m;right;45.000.000,00 €;Jun 30, 2028;Right-Back;€5.241.990.00;0,00 €
+Lucas Digne;Aston_Villa;EPL;89.0;72.4;87.1;31;France;1,78m;left;12.000.000,00 €;Jun 30, 2026;Left-Back;;
+Destiny Udogie;Tottenham_Hotspur;EPL;88.9;80.5;73.2;22;Italy, Nigeria;1,88m;left;45.000.000,00 €;Jun 30, 2030;Left-Back;€4.625.285.00;0,00 €
+Rasmus Kristensen;Eintracht_Frankfurt;Bundesliga;88.8;87.4;82.3;27;Denmark;1,87m;right;10.000.000,00 €;Jun 30, 2025;Right-Back;€3.020.000.00;0,00 €
+Gideon Mensah;Auxerre;Ligue_1;88.0;83.1;97.2;26;Ghana;1,78m;left;3.500.000,00 €;Jun 30, 2026;Left-Back;€750.000.00;0,00 €
+Leif Davis;Ipswich_Town;EPL;88.0;70.1;74.9;25;England;1,82m;left;25.000.000,00 €;Jun 30, 2028;Left-Back;;
+Clinton Mata;Lyon;Ligue_1;87.9;71.0;88.8;32;Angola, Belgium;1,80m;right;4.000.000,00 €;Jun 30, 2026;Right-Back;€1.100.000.00;0,00 €
+Theo Hernández;Milan;Serie_A;87.8;92.0;74.3;27;France, Spain;1,84m;left;40.000.000,00 €;Jun 30, 2026;Left-Back;€5.130.000.00;0,00 €
+Philipp Treu;St_Pauli;Bundesliga;87.5;80.7;76.4;24;Germany;1,73m;right;5.000.000,00 €;-;Left-Back;€180.000.00;0,00 €
+Adrien Truffert;Rennes;Ligue_1;87.2;90.9;91.9;23;France;1,76m;left;15.000.000,00 €;Jun 30, 2026;Left-Back;€1.000.000.00;0,00 €
+Léo Pétrot;Saint_Etienne;Ligue_1;87.0;75.8;84.4;28;France;1,88m;left;1.000.000,00 €;Jun 30, 2025;Left-Back;€420.000.00;0,00 €
+Emanuele Valeri;Parma;Serie_A;87.0;79.8;83.7;26;Italy;1,80m;left;3.000.000,00 €;Jun 30, 2027;Left-Back;€930.000.00;0,00 €
+Giovanni Di Lorenzo;Napoli;Serie_A;86.8;83.5;84.1;31;Italy;1,83m;right;15.000.000,00 €;Jun 30, 2028;Right-Back;€5.560.000.00;0,00 €
+Kilian Fischer;Wolfsburg;Bundesliga;86.8;75.3;69.9;24;Germany;1,82m;both;6.000.000,00 €;Jun 30, 2027;Right-Back;€870.000.00;0,00 €
+Trent Alexander-Arnold;Liverpool;EPL;86.4;79.6;96.4;26;England;1,75m;right;75.000.000,00 €;Jun 30, 2025;Right-Back;€11.100.684.00;0,00 €
+Kingsley Ehizibue;Udinese;Serie_A;86.3;80.6;80.7;29;Netherlands, Nigeria;1,89m;right;3.000.000,00 €;Jun 30, 2026;Right-Back;€900.000.00;0,00 €
+Florent Hanin;Angers;Ligue_1;86.3;77.0;99.0;35;France;1,77m;left;0,00 €;Jun 30, 2025;Left-Back;€540.000.00;0,00 €
+Jon Aramburu;Real_Sociedad;La_Liga;86.3;70.6;88.9;22;Venezuela, Spain;1,76m;right;12.000.000,00 €;Jun 30, 2030;Right-Back;€1.350.000.00;60.000.000,00 €
+Loïc Nego;Le_Havre;Ligue_1;86.2;85.6;86.8;34;Hungary, France;1,81m;right;0,00 €;Jun 30, 2025;Right-Back;€400.000.00;0,00 €
+Milos Kerkez;Bournemouth;EPL;85.8;89.6;93.7;21;Hungary, Serbia;1,80m;left;35.000.000,00 €;Jun 30, 2028;Left-Back;€1.850.114.00;0,00 €
+Melvin Bard;Nice;Ligue_1;85.4;76.3;81.1;24;France;1,73m;left;12.000.000,00 €;Jun 30, 2028;Left-Back;€1.090.000.00;0,00 €
+Valentin Rosier;Leganes;La_Liga;85.0;76.8;85.3;28;France, Guadeloupe;1,75m;right;3.000.000,00 €;Jun 30, 2025;Right-Back;;
+Omar Traoré;Heidenheim;Bundesliga;84.9;94.1;79.6;27;Germany, Togo;1,87m;right;4.000.000,00 €;Jun 30, 2026;Right-Back;€300.000.00;0,00 €
+Nathaniel Brown;Eintracht_Frankfurt;Bundesliga;84.5;75.3;69.4;21;Germany, United States;1,80m;left;15.000.000,00 €;Jun 30, 2030;Left-Back;€1.250.000.00;0,00 €
+Kelvin Amian;Nantes;Ligue_1;84.4;76.1;74.6;27;France, Cote d'Ivoire;1,80m;right;2.500.000,00 €;Jun 30, 2028;Right-Back;€900.000.00;0,00 €
+Lewis Hall;Newcastle_United;EPL;84.3;78.6;79.8;20;England;1,79m;left;30.000.000,00 €;-;Left-Back;€431.693.00;0,00 €
+Andrea Cambiaso;Juventus;Serie_A;84.1;89.4;68.9;25;Italy;1,82m;both;40.000.000,00 €;Jun 30, 2029;Left-Back;€4.440.000.00;0,00 €
+Sergi Cardona;Villareal;La_Liga;84.0;81.0;98.7;25;Spain;1,86m;both;8.000.000,00 €;Jun 30, 2027;Left-Back;;
+Felix Passlack;Bochum;Bundesliga;83.9;75.1;71.9;26;Germany;1,70m;right;2.500.000,00 €;Jun 30, 2025;Right-Back;€1.000.000.00;0,00 €
+Sergio Akieme;Reims;Ligue_1;83.8;72.8;68.7;27;Spain, Equatorial Guinea;1,75m;left;7.000.000,00 €;Jun 30, 2028;Left-Back;€900.000.00;0,00 €
+Jonathan Clauss;Nice;Ligue_1;83.7;80.5;95.2;32;France;1,78m;right;6.000.000,00 €;Jun 30, 2026;Right-Back;€3.280.000.00;0,00 €
+Mathías Olivera;Napoli;Serie_A;83.7;76.7;75.2;27;Uruguay, Spain;1,85m;left;18.000.000,00 €;Jun 30, 2030;Left-Back;€2.560.000.00;0,00 €
+Djibril Sidibé;Toulouse;Ligue_1;83.5;73.9;87.2;32;France, Mali;1,83m;right;1.200.000,00 €;Jun 30, 2025;Right-Back;€1.460.000.00;0,00 €
+Julian Ryerson;Dortmund;Bundesliga;83.5;85.5;83.1;27;Norway, United States;1,83m;right;20.000.000,00 €;Jun 30, 2028;Right-Back;€5.000.000.00;0,00 €
+Nahuel Tenaglia;Alaves;La_Liga;83.5;80.8;93.4;29;Argentina, Italy;1,81m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€450.000.00;0,00 €
+Giuseppe Pezzella;Empoli;Serie_A;83.1;83.1;85.1;27;Italy;1,87m;left;2.500.000,00 €;Jun 30, 2026;Left-Back;€930.000.00;0,00 €
+Diego Rico;Getafe;La_Liga;82.9;78.5;99.0;32;Spain;1,83m;left;1.300.000,00 €;Jun 30, 2026;Left-Back;€1.240.000.00;0,00 €
+Pablo Maffeo;Mallorca;La_Liga;82.4;75.4;88.9;27;Argentina, Spain;1,72m;right;5.000.000,00 €;Jun 30, 2027;Right-Back;€980.000.00;0,00 €
+Matt Doherty;Wolverhampton_Wanderers;EPL;82.4;71.7;67.2;33;Ireland;1,85m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€3.083.523.00;0,00 €
+Dennis Appiah;Saint_Etienne;Ligue_1;82.3;80.1;81.4;32;France, Ghana;1,79m;right;0,00 €;Jun 30, 2026;Right-Back;€660.000.00;0,00 €
+Nélson Semedo;Wolverhampton_Wanderers;EPL;82.2;78.1;76.3;31;Portugal, Cape Verde;1,77m;right;10.000.000,00 €;Jun 30, 2025;Right-Back;€4.933.637.00;0,00 €
+Djed Spence;Tottenham_Hotspur;EPL;81.3;75.4;69.2;24;England, Jamaica;1,84m;right;15.000.000,00 €;Jun 30, 2028;Right-Back;€3.083.523.00;0,00 €
+Pedro Pereira;Monza;Serie_A;81.1;83.0;75.2;27;Portugal;1,85m;right;1.800.000,00 €;Jun 30, 2025;Right-Back;€380.000.00;0,00 €
+Achraf Hakimi;Paris_Saint_Germain;Ligue_1;81.0;99.0;87.6;26;Morocco, Spain;1,81m;right;65.000.000,00 €;Jun 30, 2029;Right-Back;€13.200.000.00;0,00 €
+Uğur Çiftçi;Sivasspor;Süper_Lig;81.0;30.0;70.9;33;Türkiye;1,79m;left;0,00 €;Jun 30, 2027;Left-Back;€200.000.00;0,00 €
+Oliver Braude;Heerenveen;Eredivisie;80.9;70.8;73.9;21;Norway;1,74m;right;3.500.000,00 €;Jun 30, 2027;Right-Back;€150.000.00;0,00 €
+Ramy Bensebaini;Dortmund;Bundesliga;80.7;66.8;71.0;30;Algeria;1,87m;left;7.000.000,00 €;Jun 30, 2027;Left-Back;€4.500.000.00;0,00 €
+Andrew Robertson;Liverpool;EPL;80.6;76.1;78.1;31;Scotland;1,78m;left;20.000.000,00 €;Jun 30, 2026;Left-Back;€9.867.275.00;0,00 €
+Nicolas Cozza;Nantes;Ligue_1;80.5;65.2;74.2;26;France, Italy;1,78m;left;3.500.000,00 €;Jun 30, 2025;Left-Back;€1.150.000.00;0,00 €
+Calvin Verdonk;NEC_Nijmegen;Eredivisie;80.5;71.7;82.6;28;Indonesia, Netherlands;1,74m;left;2.500.000,00 €;Jun 30, 2028;Left-Back;€580.000.00;0,00 €
+Robin Gosens;Fiorentina;Serie_A;80.4;69.8;76.4;30;Germany, Netherlands;1,83m;left;8.000.000,00 €;Jun 30, 2025;Left-Back;€3.700.000.00;0,00 €
+Jules Koundé;Barcelona;La_Liga;80.4;89.6;87.8;26;France, Benin;1,80m;right;60.000.000,00 €;Jun 30, 2027;Right-Back;€13.550.000.00;1.000.000.000,00 €
+Mitchell Weiser;Werder_Bremen;Bundesliga;80.3;93.8;89.0;31;Germany, Algeria;1,77m;right;5.000.000,00 €;-;Right-Back;€1.980.000.00;0,00 €
+Gabriel Suazo;Toulouse;Ligue_1;80.3;84.6;94.5;27;Chile;1,78m;left;4.000.000,00 €;Jun 30, 2026;Left-Back;€600.000.00;0,00 €
+Nicolás Tagliafico;Lyon;Ligue_1;79.8;64.4;74.4;32;Argentina, Italy;1,71m;left;7.000.000,00 €;Jun 30, 2025;Left-Back;€3.640.000.00;0,00 €
+Marcos Alonso;Celta_Vigo;La_Liga;79.7;84.8;85.5;34;Spain;1,88m;left;1.800.000,00 €;Jun 30, 2025;Left-Back;€3.120.000.00;0,00 €
+Gabriele Zappa;Cagliari;Serie_A;79.7;81.1;82.1;25;Italy;1,87m;right;4.000.000,00 €;Jun 30, 2030;Right-Back;€1.110.000.00;0,00 €
+Joe Scally;Monchengladbach;Bundesliga;79.7;80.3;74.7;22;United States;1,84m;right;10.000.000,00 €;Jun 30, 2027;Right-Back;€1.200.000.00;0,00 €
+Ainsley Maitland-Niles;Lyon;Ligue_1;79.7;75.3;79.6;27;England, Jamaica;1,80m;right;10.000.000,00 €;Jun 30, 2027;Right-Back;€2.200.000.00;0,00 €
+Carlens Arcus;Angers;Ligue_1;79.6;73.2;80.1;28;Haiti;1,76m;right;1.500.000,00 €;Jun 30, 2026;Right-Back;€390.000.00;0,00 €
+Marc Cucurella;Chelsea;EPL;79.3;72.1;73.0;26;Spain;1,73m;left;30.000.000,00 €;Jun 30, 2028;Left-Back;€10.792.332.00;0,00 €
+Ki-Jana Hoever;Auxerre;Ligue_1;79.2;77.2;82.8;23;Netherlands, Suriname;1,83m;right;4.500.000,00 €;Jun 30, 2025;Right-Back;€1.500.000.00;0,00 €
+Malo Gusto;Chelsea;EPL;79.2;70.3;67.2;21;France, Martinique;1,78m;right;35.000.000,00 €;Jun 30, 2030;Right-Back;€2.775.171.00;0,00 €
+Hassane Kamara;Udinese;Serie_A;79.2;73.8;79.6;31;Cote d'Ivoire, France;1,70m;left;3.500.000,00 €;Jun 30, 2026;Left-Back;€1.150.000.00;0,00 €
+Vitaliy Mykolenko;Everton;EPL;79.0;68.6;92.9;25;Ukraine;1,80m;left;28.000.000,00 €;Jun 30, 2026;Left-Back;€3.576.887.00;0,00 €
+Kyle Walker-Peters;Southampton;EPL;78.8;88.8;66.8;28;England, Jamaica;1,73m;right;18.000.000,00 €;Jun 30, 2025;Right-Back;€1.233.409.00;0,00 €
+Johan Mojica;Mallorca;La_Liga;78.7;74.3;91.0;32;Colombia, Spain;1,85m;left;2.200.000,00 €;Jun 30, 2027;Left-Back;€1.040.000.00;0,00 €
+Angeliño;Roma;Serie_A;78.6;88.0;94.2;28;Spain;1,71m;left;15.000.000,00 €;Jun 30, 2028;Left-Back;€3.700.000.00;0,00 €
+Lorenz Assignon;Rennes;Ligue_1;78.4;92.4;83.9;24;France, Togo;1,81m;right;9.000.000,00 €;Jun 30, 2028;Right-Back;€1.280.000.00;0,00 €
+Nuno Mendes;Paris_Saint_Germain;Ligue_1;78.3;83.9;79.5;22;Portugal;1,83m;left;55.000.000,00 €;Jun 30, 2029;Left-Back;€10.000.000.00;0,00 €
+Jure Balkovec;Alanyaspor;Süper_Lig;78.3;30.0;53.0;30;Slovenia;1,85m;left;1.000.000,00 €;Jun 30, 2026;Left-Back;€770.000.00;0,00 €
+Liberato Cacace;Empoli;Serie_A;78.2;73.3;64.7;24;New Zealand, Italy;1,83m;left;3.000.000,00 €;Jun 30, 2026;Left-Back;€320.000.00;0,00 €
+Enzo Tchato;Montpellier;Ligue_1;77.7;75.6;81.0;22;Cameroon, France;1,82m;right;2.500.000,00 €;Jun 30, 2027;Right-Back;€120.000.00;0,00 €
+Christopher Trimmel;Union_Berlin;Bundesliga;77.7;62.6;71.5;38;Austria;1,89m;right;0,00 €;Jun 30, 2026;Right-Back;€900.000.00;0,00 €
+Carlos Romero;Espanyol;La_Liga;77.5;70.6;71.8;23;Spain;1,74m;left;3.000.000,00 €;Jun 30, 2025;Left-Back;€450.000.00;0,00 €
+Jonas Föhrenbach;Heidenheim;Bundesliga;77.3;72.1;76.0;29;Germany;1,84m;left;2.000.000,00 €;Jun 30, 2027;Left-Back;€520.000.00;0,00 €
+Juan Miranda;Bologna;Serie_A;77.1;75.0;94.7;25;Spain;1,85m;left;11.000.000,00 €;Jun 30, 2027;Left-Back;€2.220.000.00;0,00 €
+Alphonso Davies;Bayern_Munich;Bundesliga;77.0;96.0;65.7;24;Canada, Liberia;1,83m;left;50.000.000,00 €;Jun 30, 2030;Left-Back;€15.000.000.00;0,00 €
+James Justin;Leicester_City;EPL;76.7;68.8;78.1;27;England, St. Lucia;1,83m;both;15.000.000,00 €;Jun 30, 2026;Right-Back;€1.850.114.00;0,00 €
+Domagoj Bradarić;Hellas_Verona;Serie_A;76.3;67.2;64.1;25;Croatia;1,78m;left;4.000.000,00 €;Jun 30, 2025;Left-Back;€1.280.000.00;0,00 €
+Nuno Tavares;Lazio;Serie_A;76.2;86.4;78.3;25;Portugal, Cape Verde;1,83m;left;25.000.000,00 €;Jun 30, 2025;Left-Back;€3.700.000.00;0,00 €
+David Raum;RB_Leipzig;Bundesliga;76.2;72.2;73.8;27;Germany;1,81m;left;25.000.000,00 €;Jun 30, 2027;Left-Back;€7.550.000.00;50.000.000,00 €
+Pep Chavarría;Rayo_Vallecano;La_Liga;76.1;72.8;76.5;27;Spain;1,74m;left;3.500.000,00 €;Jun 30, 2027;Left-Back;€350.000.00;0,00 €
+Manolis Saliakas;St_Pauli;Bundesliga;76.1;70.3;81.0;28;Greece;1,77m;right;2.800.000,00 €;-;Right-Back;€840.000.00;0,00 €
+Zeki Çelik;Roma;Serie_A;76.1;79.0;78.4;28;Türkiye;1,80m;right;5.000.000,00 €;Jun 30, 2026;Right-Back;€2.560.000.00;0,00 €
+Kiko Femenía;Villareal;La_Liga;76.0;81.4;90.0;34;Spain;1,74m;right;1.200.000,00 €;Jun 30, 2025;Right-Back;;
+Souffian El Karouani;Utrecht;Eredivisie;75.6;78.8;82.9;24;Morocco, Netherlands;1,78m;left;7.000.000,00 €;Jun 30, 2026;Left-Back;€180.000.00;0,00 €
+Lukas Kübler;Freiburg;Bundesliga;75.5;61.4;76.2;32;Germany;1,82m;right;2.000.000,00 €;-;Right-Back;€390.000.00;0,00 €
+Matty Cash;Aston_Villa;EPL;75.5;72.3;67.4;27;Poland, England;1,85m;right;28.000.000,00 €;Jun 30, 2027;Right-Back;;
+Dimitri Foulquier;Valencia;La_Liga;75.3;68.7;67.4;32;Guadeloupe, France;1,83m;right;2.000.000,00 €;Jun 30, 2025;Right-Back;€1.870.000.00;0,00 €
+Stefano Sabelli;Genoa;Serie_A;75.3;67.8;79.5;32;Italy;1,76m;right;1.500.000,00 €;Jun 30, 2026;Right-Back;€650.000.00;0,00 €
+Alexander Prass;Hoffenheim;Bundesliga;75.3;70.3;73.1;23;Austria;1,80m;left;6.500.000,00 €;Jun 30, 2028;Left-Back;€2.080.000.00;0,00 €
+Alejandro Balde;Barcelona;La_Liga;75.3;89.0;62.8;21;Spain, Dominican Republic;1,75m;left;60.000.000,00 €;Jun 30, 2028;Left-Back;€1.670.000.00;1.000.000.000,00 €
+Timothy Castagne;Fulham;EPL;75.2;63.7;66.2;29;Belgium;1,85m;right;15.000.000,00 €;Jun 30, 2027;Right-Back;€4.008.580.00;0,00 €
+Miguel Gutiérrez;Girona;La_Liga;75.0;86.3;88.6;23;Spain;1,80m;left;25.000.000,00 €;Jun 30, 2027;Left-Back;€1.240.000.00;35.000.000,00 €
+Yuri Berchiche;Athletic_Club;La_Liga;74.8;73.1;72.6;35;Spain, Algeria;1,81m;left;1.500.000,00 €;Jun 30, 2025;Left-Back;€4.280.000.00;100.000.000,00 €
+Florent Hadergjonaj;Alanyaspor;Süper_Lig;74.8;30.0;72.1;30;Kosovo, Switzerland;1,82m;right;1.600.000,00 €;Jun 30, 2025;Right-Back;€1.200.000.00;0,00 €
+Vasilios Zagaritis;Almere_City;Eredivisie;74.7;74.8;79.9;24;Greece;1,78m;left;0,00 €;Jun 30, 2026;Left-Back;€400.000.00;0,00 €
+Joël Veltman;Brighton_and_Hove_Albion;EPL;74.4;62.2;65.4;33;Netherlands;1,84m;right;7.000.000,00 €;Jun 30, 2025;Right-Back;€3.083.523.00;0,00 €
+Caner Erkin;Eyüpspor;Süper_Lig;74.4;30.0;47.6;;;;;;;;;
+Ashley Young;Everton;EPL;74.0;64.6;75.9;39;England, Jamaica;1,75m;both;0,00 €;Jun 30, 2025;Right-Back;€2.466.819.00;0,00 €
+Deiver Machado;Lens;Ligue_1;73.9;73.6;77.6;31;Colombia;1,80m;left;3.500.000,00 €;Jun 30, 2026;Left-Back;€540.000.00;0,00 €
+Manu Sánchez;Alaves;La_Liga;73.7;71.6;81.0;24;Spain;1,71m;left;6.000.000,00 €;Jun 30, 2025;Left-Back;€1.000.000.00;0,00 €
+MT;Santa_Clara;Primeira_Liga;73.4;68.8;69.8;24;Brazil;1,85m;left;3.000.000,00 €;Jun 30, 2028;Left-Back;€250.000.00;0,00 €
+Adrià Pedrosa;Sevilla;La_Liga;73.4;72.0;73.1;26;Spain;1,72m;left;7.000.000,00 €;Jun 30, 2028;Left-Back;€1.100.000.00;0,00 €
+Denzel Dumfries;Internazionale;Serie_A;73.3;74.6;62.1;29;Netherlands, Aruba;1,88m;right;28.000.000,00 €;Jun 30, 2028;Right-Back;€5.130.000.00;0,00 €
+Óscar Mingueza;Celta_Vigo;La_Liga;72.9;81.4;79.8;25;Spain;1,84m;right;20.000.000,00 €;Jun 30, 2026;Right-Back;€1.150.000.00;0,00 €
+Álvaro Carreras;Benfica;Primeira_Liga;72.8;88.7;83.8;22;Spain;1,86m;left;28.000.000,00 €;Jun 30, 2029;Left-Back;;
+Aurélio Buta;Reims;Ligue_1;72.7;66.1;67.5;28;Portugal, Angola;1,72m;right;5.000.000,00 €;Jun 30, 2025;Right-Back;€480.000.00;0,00 €
+Phillipp Mwene;Mainz_05;Bundesliga;72.6;83.8;84.5;31;Austria, Kenya;1,70m;right;1.800.000,00 €;Jun 30, 2026;Left-Back;€900.000.00;0,00 €
+Joseph Rosales;Minnesota_Utd;MLS;72.6;68.4;71.1;24;Honduras;1,80m;left;2.500.000,00 €;Dec 31, 2027;Left-Back;;
+Tiago Esgaio;Arouca;Primeira_Liga;72.4;65.8;75.4;29;Portugal;1,75m;right;0,00 €;Jun 30, 2027;Right-Back;€120.000.00;0,00 €
+Rico Lewis;Manchester_City;EPL;71.9;69.4;54.3;20;England;1,70m;right;40.000.000,00 €;Jun 30, 2028;Right-Back;;
+Brayann Pereira;NEC_Nijmegen;Eredivisie;71.8;65.3;65.3;21;France, Congo;1,72m;right;1.300.000,00 €;Jun 30, 2027;Right-Back;€60.000.00;0,00 €
+Hans Hateboer;Rennes;Ligue_1;71.7;73.2;78.5;31;Netherlands;1,87m;right;3.000.000,00 €;Jun 30, 2026;Right-Back;€1.460.000.00;0,00 €
+João Mendes;Vitoria_Guimaraes;Primeira_Liga;71.3;77.5;74.4;25;Portugal;1,79m;left;2.500.000,00 €;Jun 30, 2028;Left-Back;€300.000.00;0,00 €
+João Mendes;Vitoria_Guimaraes;Primeira_Liga;71.3;69.8;74.4;25;Portugal;1,79m;left;2.500.000,00 €;Jun 30, 2028;Left-Back;€300.000.00;0,00 €
+João Mendes;Vitoria_Guimaraes;Primeira_Liga;71.3;69.8;74.4;25;Portugal;1,79m;left;2.500.000,00 €;Jun 30, 2028;Left-Back;€340.000.00;0,00 €
+Lucas Vázquez;Real_Madrid;La_Liga;71.3;77.5;66.8;33;Spain;1,73m;right;3.500.000,00 €;Jun 30, 2025;Right-Back;€9.380.000.00;0,00 €
+João Mendes;Vitoria_Guimaraes;Primeira_Liga;71.3;77.5;74.4;25;Portugal;1,79m;left;2.500.000,00 €;Jun 30, 2028;Left-Back;€340.000.00;0,00 €
+Javi López;Real_Sociedad;La_Liga;71.2;67.2;65.3;23;Spain;1,83m;left;7.500.000,00 €;Jun 30, 2030;Left-Back;€720.000.00;0,00 €
+Josha Vagnoman;Stuttgart;Bundesliga;71.2;64.8;61.6;24;Germany, Cote d'Ivoire;1,90m;right;12.000.000,00 €;Jun 30, 2026;Right-Back;€940.000.00;0,00 €
+Federico Dimarco;Internazionale;Serie_A;71.2;78.4;71.3;27;Italy;1,75m;left;60.000.000,00 €;Jun 30, 2027;Left-Back;€7.410.000.00;0,00 €
+Luis Pérez;Valladolid;La_Liga;71.1;72.9;92.1;30;Spain;1,73m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;€520.000.00;0,00 €
+Alberto Moreno;Como;Serie_A;71.1;64.1;63.8;32;Spain;1,71m;left;1.800.000,00 €;Jun 30, 2025;Left-Back;€1.300.000.00;0,00 €
+Julian Lelieveld;RKC_Waalwijk;Eredivisie;71.1;64.2;65.3;27;Netherlands;1,78m;right;0,00 €;Jun 30, 2025;Right-Back;€60.000.00;0,00 €
+Marius Wolf;Augsburg;Bundesliga;70.5;72.1;76.5;29;Germany;1,88m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€2.080.000.00;0,00 €
+Kai Wagner;Philadelphia_Union;MLS;70.5;58.0;72.6;28;Germany;1,82m;left;5.000.000,00 €;Dec 31, 2026;Left-Back;€772.341.00;1.765.350,00 €
+Lutsharel Geertruida;RB_Leipzig;Bundesliga;70.4;60.5;64.2;24;Netherlands, Curacao;1,84m;right;27.000.000,00 €;Jun 30, 2029;Right-Back;€4.720.000.00;0,00 €
+Omar Richards;Rio_Ave;Primeira_Liga;70.4;63.0;65.7;27;England, Jamaica;1,74m;left;2.500.000,00 €;Jun 30, 2025;Left-Back;€1.870.000.00;0,00 €
+Christian Günter;Freiburg;Bundesliga;70.1;64.3;75.3;32;Germany;1,84m;left;4.000.000,00 €;-;Left-Back;€1.020.000.00;0,00 €
+Mats Köhlert;Heerenveen;Eredivisie;70.1;67.4;75.6;27;Germany;1,69m;left;4.000.000,00 €;Jun 30, 2025;Left-Back;€120.000.00;0,00 €
+Hamdi Akujobi;Almere_City;Eredivisie;70.1;64.1;67.4;25;Netherlands, Nigeria;1,75m;right;0,00 €;Jun 30, 2025;Right-Back;€120.000.00;0,00 €
+Lewie Coyle;Hull_City;Championship;69.8;64.0;70.2;29;England;1,73m;right;1.600.000,00 €;Jun 30, 2026;Right-Back;€462.528.00;0,00 €
+Jorrel Hato;Ajax;Eredivisie;69.8;63.6;58.6;19;Netherlands, Curacao;1,82m;left;30.000.000,00 €;Jun 30, 2028;Left-Back;€1.020.000.00;0,00 €
+Raphaël Guerreiro;Bayern_Munich;Bundesliga;69.3;69.2;52.7;31;Portugal, France;1,70m;left;10.000.000,00 €;Jun 30, 2026;Left-Back;€8.000.000.00;0,00 €
+Mauro Júnior;PSV_Eindhoven;Eredivisie;69.2;67.2;63.0;25;Brazil;1,71m;left;12.000.000,00 €;Jun 30, 2029;Left-Back;€780.000.00;0,00 €
+Cláudio Winck;Kasımpaşa;Süper_Lig;69.0;30.0;71.9;;;;;;;;€380.000.00;0,00 €
+Quentin Merlin;Marseille;Ligue_1;68.9;68.5;59.2;22;France;1,74m;left;12.000.000,00 €;Jun 30, 2028;Left-Back;€1.200.000.00;0,00 €
+Bart van Rooij;Twente;Eredivisie;68.8;67.1;74.9;23;Netherlands;1,74m;right;6.000.000,00 €;Jun 30, 2028;Right-Back;€690.000.00;0,00 €
+Tom Rothe;Union_Berlin;Bundesliga;68.7;59.7;61.1;20;Germany;1,93m;left;10.000.000,00 €;-;Left-Back;€950.000.00;0,00 €
+Kenny Tete;Fulham;EPL;68.5;61.2;65.0;29;Netherlands, Mozambique;1,80m;right;15.000.000,00 €;Jun 30, 2025;Right-Back;€3.083.523.00;0,00 €
+Ali Abdi;Nice;Ligue_1;68.4;64.0;62.9;31;Tunisia;1,83m;left;3.000.000,00 €;Jun 30, 2027;Left-Back;€720.000.00;0,00 €
+Marnon Busch;Heidenheim;Bundesliga;68.4;58.5;61.3;30;Germany;1,82m;right;1.200.000,00 €;Jun 30, 2027;Right-Back;€750.000.00;0,00 €
+Wagner Pina;Estoril;Primeira_Liga;68.3;70.7;71.4;22;Cape Verde, Portugal;1,80m;right;5.000.000,00 €;Jun 30, 2027;Right-Back;€80.000.00;0,00 €
+Javi Hernández;Leganes;La_Liga;68.3;66.4;62.5;27;Spain;1,80m;left;2.000.000,00 €;Jun 30, 2027;Left-Back;;
+Siebe Horemans;Utrecht;Eredivisie;68.3;59.9;83.4;26;Belgium;1,86m;right;2.500.000,00 €;Jun 30, 2027;Right-Back;€490.000.00;0,00 €
+Kieran Trippier;Newcastle_United;EPL;68.2;62.8;58.6;34;England;1,73m;right;5.000.000,00 €;Jun 30, 2026;Right-Back;€7.400.456.00;0,00 €
+Sergi Palencia;Los_Angeles_FC;MLS;68.1;61.1;70.3;29;Spain;1,72m;right;2.500.000,00 €;Dec 31, 2025;Right-Back;€308.940.00;0,00 €
+Emil Holm;Bologna;Serie_A;68.0;62.3;60.3;24;Sweden;1,91m;right;8.000.000,00 €;Jun 30, 2028;Right-Back;€1.030.000.00;0,00 €
+Felix Agu;Werder_Bremen;Bundesliga;67.9;64.5;66.7;25;Germany, Nigeria;1,80m;right;6.000.000,00 €;Jun 30, 2027;Left-Back;€1.150.000.00;9.000.000,00 €
+Myles Lewis-Skelly;Arsenal;EPL;67.8;61.7;49.0;18;England, Barbados;1,78m;left;28.000.000,00 €;-;Left-Back;€246.682.00;0,00 €
+Mimeirhel Benita;Heracles_Almelo;Eredivisie;67.6;58.2;61.6;21;Netherlands, Curacao;1,80m;right;1.000.000,00 €;Jun 30, 2025;Right-Back;€90.000.00;0,00 €
+Lukas Ullrich;Monchengladbach;Bundesliga;67.5;59.3;59.0;21;Germany;1,80m;left;8.000.000,00 €;Jun 30, 2027;Left-Back;€400.000.00;0,00 €
+Ruben Aguilar;Lens;Ligue_1;67.4;65.0;59.5;32;France, Spain;1,72m;right;4.000.000,00 €;Jun 30, 2026;Right-Back;€1.640.000.00;0,00 €
+Sandro Cruz;Gil_Vicente_FC;Primeira_Liga;67.4;67.5;70.4;23;Angola, Portugal;1,82m;left;0,00 €;Jun 30, 2027;Left-Back;€180.000.00;0,00 €
+Ryan Manning;Southampton;EPL;67.4;54.4;60.4;28;Ireland;1,73m;left;3.500.000,00 €;Jun 30, 2027;Left-Back;€925.057.00;0,00 €
+Trai Hume;Sunderland;Championship;67.3;61.7;73.3;23;Northern Ireland;1,80m;right;10.000.000,00 €;Jun 30, 2027;Right-Back;€185.011.00;0,00 €
+Alessandro Zanoli;Genoa;Serie_A;67.2;73.7;65.5;24;Italy;1,88m;right;6.000.000,00 €;Jun 30, 2025;Right-Back;€740.000.00;0,00 €
+Carlos Augusto;Internazionale;Serie_A;67.2;64.5;55.1;26;Brazil, Italy;1,84m;left;22.000.000,00 €;Jun 30, 2028;Left-Back;€2.820.000.00;0,00 €
+Seiya Maikuma;AZ_Alkmaar;Eredivisie;67.1;63.1;68.4;27;Japan;1,79m;right;3.000.000,00 €;Jun 30, 2028;Right-Back;€780.000.00;0,00 €
+Youssouf Sabaly;Real_Betis;La_Liga;66.9;62.5;60.8;32;Senegal, France;1,73m;right;2.000.000,00 €;Jun 30, 2026;Right-Back;€850.000.00;0,00 €
+Romain Perraud;Real_Betis;La_Liga;66.8;70.8;70.2;27;France;1,73m;left;5.000.000,00 €;Jun 30, 2029;Left-Back;€1.880.000.00;0,00 €
+Lilian Raolisoa;Angers;Ligue_1;66.7;61.7;65.1;24;France, Madagascar;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€150.000.00;0,00 €
+Matteo Darmian;Internazionale;Serie_A;66.7;65.5;61.9;35;Italy;1,83m;right;4.000.000,00 €;Jun 30, 2026;Right-Back;€3.210.000.00;0,00 €
+Nicolò Savona;Juventus;Serie_A;66.5;62.8;57.5;22;Italy;1,92m;right;14.000.000,00 €;Jun 30, 2029;Right-Back;€370.000.00;0,00 €
+Givairo Read;Feyenoord;Eredivisie;66.4;63.7;60.8;18;Netherlands, Suriname;1,75m;right;12.000.000,00 €;Jun 30, 2029;Right-Back;€300.000.00;0,00 €
+Leonardo Lelo;Casa_Pia;Primeira_Liga;66.3;68.5;66.7;25;Portugal;1,75m;left;3.500.000,00 €;Jun 30, 2025;Left-Back;€80.000.00;0,00 €
+Boy Kemper;NAC_Breda;Eredivisie;66.3;64.7;64.9;25;Netherlands;1,85m;left;0,00 €;Jun 30, 2026;Left-Back;€240.000.00;0,00 €
+Valentin Gendrey;Hoffenheim;Bundesliga;66.3;58.8;60.1;24;France, Guadeloupe;1,79m;right;8.500.000,00 €;-;Right-Back;€2.260.000.00;0,00 €
+Lasse Rosenboom;Holstein_Kiel;Bundesliga;66.2;58.5;58.7;23;Germany;1,90m;right;1.000.000,00 €;-;Right-Back;€240.000.00;0,00 €
+Güray Vural;Antalyaspor;Süper_Lig;66.2;30.0;67.7;36;Türkiye;1,77m;left;0,00 €;Jun 30, 2026;Left-Back;€670.000.00;0,00 €
+Ryan Hollingshead;Los_Angeles_FC;MLS;65.8;58.4;60.9;34;United States;1,86m;right;1.000.000,00 €;Dec 31, 2025;Left-Back;€569.325.00;0,00 €
+Brooks Lennon;Atlanta_Utd;MLS;65.6;65.2;73.6;27;United States, Ireland;1,77m;right;2.500.000,00 €;Dec 31, 2025;Right-Back;€653.180.00;0,00 €
+Mickaël Tirpan;Willem_II;Eredivisie;65.5;63.7;66.1;31;Türkiye, Belgium;1,77m;right;0,00 €;Jun 30, 2026;Right-Back;€350.000.00;0,00 €
+Marc Bola;Samsunspor;Süper_Lig;65.5;30.0;91.7;27;England, DR Congo;1,85m;left;1.500.000,00 €;Jun 30, 2025;Left-Back;€700.000.00;0,00 €
+Dinis Pinto;Moreirense;Primeira_Liga;65.5;64.8;67.8;24;Portugal;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€100.000.00;0,00 €
+Ivo Pinto;Fortuna_Sittard;Eredivisie;65.5;67.6;73.1;35;Portugal;1,82m;right;0,00 €;Jun 30, 2026;Right-Back;€350.000.00;0,00 €
+Rodrigo Pinheiro;Famalicão;Primeira_Liga;65.3;63.1;67.6;22;Portugal;1,83m;right;1.500.000,00 €;Jun 30, 2028;Right-Back;€300.000.00;0,00 €
+Hasan Ali Kaldırım;Kayserispor;Süper_Lig;65.1;30.0;49.0;35;Türkiye, Germany;1,83m;left;0,00 €;Jun 30, 2025;Left-Back;€920.000.00;0,00 €
+Rafa Soares;Famalicão;Primeira_Liga;64.9;64.9;67.9;29;Portugal;1,77m;left;1.200.000,00 €;Jun 30, 2026;Left-Back;€580.000.00;0,00 €
+Joe Bryan;Millwall;Championship;64.9;56.8;68.4;31;England;1,70m;left;1.000.000,00 €;Jun 30, 2027;Left-Back;€2.004.290.00;0,00 €
+Andoni Gorosabel;Athletic_Club;La_Liga;64.9;56.6;60.7;28;Spain;1,74m;right;5.000.000,00 €;Jun 30, 2028;Right-Back;€1.560.000.00;0,00 €
+Axel Tuanzebe;Ipswich_Town;EPL;64.9;51.2;50.5;27;DR Congo, England;1,85m;right;5.000.000,00 €;Jun 30, 2025;Right-Back;;
+Saïd Bakari;Sparta_R'dam;Eredivisie;64.8;59.6;58.5;30;Comoros, France;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€320.000.00;0,00 €
+Jake O'Brien;Everton;EPL;64.6;51.6;51.9;23;Ireland;1,97m;right;15.000.000,00 €;Jun 30, 2028;Right-Back;€2.158.466.00;0,00 €
+Ben Johnson;Ipswich_Town;EPL;64.6;52.6;53.1;25;England;1,84m;right;9.000.000,00 €;Jun 30, 2028;Right-Back;;
+Harrison Burrows;Sheffield_United;Championship;64.6;61.7;62.1;23;England;1,80m;left;10.000.000,00 €;Jun 30, 2028;Left-Back;€770.881.00;0,00 €
+Mats Deijl;Go_Ahead_Eag;Eredivisie;64.5;62.3;58.0;27;Netherlands;1,81m;right;1.500.000,00 €;Jun 30, 2027;Right-Back;€240.000.00;0,00 €
+Milan van Ewijk;Coventry_City;Championship;64.4;63.5;67.5;24;Netherlands, Suriname;1,75m;right;9.000.000,00 €;Jun 30, 2027;Right-Back;€185.011.00;0,00 €
+Javi Galán;Atletico_Madrid;La_Liga;64.0;62.6;62.6;30;Spain;1,72m;left;4.000.000,00 €;Jun 30, 2026;Left-Back;€3.250.000.00;0,00 €
+Bali Mumba;Plymouth_Argyle;Championship;64.0;58.1;51.5;23;England, DR Congo;1,68m;right;2.500.000,00 €;Jun 30, 2027;Right-Back;€925.057.00;0,00 €
+Tim Leibold;Sporting_KC;MLS;64.0;55.4;57.9;31;Germany;1,74m;left;0,00 €;Dec 31, 2025;Left-Back;€529.605.00;0,00 €
+Issiaga Sylla;Montpellier;Ligue_1;63.9;63.4;60.8;31;Guinea;1,80m;left;2.000.000,00 €;Jun 30, 2025;Left-Back;€400.000.00;0,00 €
+Malte Amundsen;Columbus_Crew;MLS;63.8;58.9;66.9;27;Denmark;1,79m;left;3.000.000,00 €;Dec 31, 2027;Left-Back;€317.763.00;0,00 €
+Miki Yamane;LA_Galaxy;MLS;63.7;61.4;64.3;31;Japan;1,78m;right;1.500.000,00 €;Dec 31, 2026;Right-Back;€485.471.00;0,00 €
+Ramon Hendriks;Stuttgart;Bundesliga;63.7;57.2;55.2;23;Netherlands;1,89m;left;5.000.000,00 €;Jun 30, 2028;Left-Back;€340.000.00;0,00 €
+Juanlu Sánchez;Sevilla;La_Liga;63.6;59.5;55.3;21;Spain;1,86m;right;12.000.000,00 €;Jun 30, 2029;Right-Back;€1.250.000.00;40.000.000,00 €
+Anton Gaaei;Ajax;Eredivisie;63.5;66.1;56.1;22;Denmark;1,83m;right;6.000.000,00 €;Jun 30, 2028;Right-Back;€580.000.00;0,00 €
+Derrick Köhn;Werder_Bremen;Bundesliga;63.4;65.6;52.9;26;Germany, Ghana;1,80m;left;6.000.000,00 €;Jun 30, 2025;Left-Back;€570.000.00;0,00 €
+Marcelo Weigandt;Inter_Miami;MLS;63.3;54.3;56.5;25;Argentina;1,75m;right;2.000.000,00 €;Dec 31, 2025;Right-Back;€132.401.00;0,00 €
+Abner;Lyon;Ligue_1;63.3;63.2;54.6;24;Brazil;1,81m;left;9.000.000,00 €;Jun 30, 2029;Left-Back;€1.460.000.00;0,00 €
+Kaine Kesler-Hayden;Preston_North_End;Championship;63.1;66.9;53.3;22;England;1,75m;right;2.200.000,00 €;May 31, 2025;Right-Back;;
+Franco Escobar;Houston_Dynamo;MLS;63.0;61.2;64.8;30;Argentina, United States;1,80m;right;0,00 €;Dec 31, 2025;Right-Back;€419.271.00;0,00 €
+Jayden Bogle;Leeds_United;Championship;63.0;69.5;61.9;24;England;1,78m;right;5.500.000,00 €;Jun 30, 2028;Right-Back;€1.850.114.00;0,00 €
+Ferland Mendy;Real_Madrid;La_Liga;62.9;57.6;51.4;29;France, Senegal;1,80m;left;18.000.000,00 €;Jun 30, 2028;Left-Back;€10.420.000.00;0,00 €
+Pedro Amaral;Estoril;Primeira_Liga;62.6;56.0;61.9;27;Portugal;1,78m;left;1.000.000,00 €;Jun 30, 2026;Left-Back;€480.000.00;0,00 €
+Valentín Barco;Strasbourg;Ligue_1;62.4;52.0;47.8;20;Argentina;1,70m;left;8.000.000,00 €;Jun 30, 2025;Left-Back;€900.000.00;0,00 €
+Tomas Totland;St_Louis;MLS;62.4;60.7;65.4;25;Norway, United States;1,80m;right;1.500.000,00 €;Dec 31, 2026;Right-Back;€240.970.00;0,00 €
+Juan Foyth;Villareal;La_Liga;62.4;53.6;55.7;27;Argentina, Spain;1,87m;right;10.000.000,00 €;Jun 30, 2026;Right-Back;;
+Óscar de Marcos;Athletic_Club;La_Liga;62.3;55.6;63.2;36;Spain;1,82m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;€1.250.000.00;0,00 €
+Perry Ng;Cardiff_City;Championship;62.3;55.2;59.3;28;England, Singapore;1,80m;right;3.500.000,00 €;Jun 30, 2026;Right-Back;€925.057.00;0,00 €
+Dylan Nealis;NY_Red_Bulls;MLS;62.3;59.0;62.9;26;United States;1,81m;right;1.800.000,00 €;Dec 31, 2027;Right-Back;€218.462.00;0,00 €
+Andrew Hughes;Preston_North_End;Championship;62.1;54.9;58.6;32;Wales;1,88m;left;0,00 €;Jun 30, 2026;Left-Back;€616.705.00;0,00 €
+Yukinari Sugawara;Southampton;EPL;62.0;60.8;59.3;24;Japan;1,79m;right;12.000.000,00 €;Jun 30, 2028;Right-Back;€2.466.819.00;0,00 €
+Godfried Frimpong;Moreirense;Primeira_Liga;62.0;58.0;71.4;26;Netherlands, Ghana;1,80m;left;2.000.000,00 €;Jun 30, 2025;Left-Back;€150.000.00;0,00 €
+Jordan Zemura;Udinese;Serie_A;62.0;60.1;55.8;25;Zimbabwe, England;1,73m;left;5.000.000,00 €;Jun 30, 2027;Left-Back;€510.000.00;0,00 €
+Paul Joly;Auxerre;Ligue_1;61.9;52.9;59.0;24;France;1,82m;right;2.000.000,00 €;Jun 30, 2027;Right-Back;€720.000.00;0,00 €
+Leandro Bacuna;Groningen;Eredivisie;61.9;60.1;55.4;33;Curacao, Netherlands;1,80m;right;0,00 €;Jun 30, 2025;Right-Back;€300.000.00;0,00 €
+Nhoa Sangui;Reims;Ligue_1;61.8;59.4;47.9;19;France, Congo;1,78m;left;2.500.000,00 €;Jun 30, 2027;Left-Back;€120.000.00;0,00 €
+Ricardo Rodríguez;Real_Betis;La_Liga;61.7;57.4;53.8;32;Switzerland, Chile;1,82m;left;2.500.000,00 €;Jun 30, 2026;Left-Back;€2.500.000.00;0,00 €
+Nahuel Molina;Atletico_Madrid;La_Liga;61.7;66.9;63.7;27;Argentina;1,75m;right;25.000.000,00 €;Jun 30, 2027;Right-Back;€1.200.000.00;100.000.000,00 €
+Jeremy Ngakia;Watford;Championship;61.4;52.5;55.1;24;DR Congo, England;1,84m;right;1.500.000,00 €;Jun 30, 2027;Right-Back;€740.046.00;0,00 €
+Callum Brittain;Blackburn_Rovers;Championship;61.4;58.3;58.8;27;England;1,79m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€616.705.00;0,00 €
+Filipe Ferreira;Boavista;Primeira_Liga;61.4;55.0;59.4;34;Portugal;1,78m;left;0,00 €;Jun 30, 2025;Left-Back;€150.000.00;0,00 €
+Kevin O'Toole;New_York_City_FC;MLS;61.3;55.2;59.1;26;United States, Ireland;1,78m;;0,00 €;Dec 31, 2025;Left-Back;€154.468.00;0,00 €
+Gökhan Sazdağı;Kayserispor;Süper_Lig;61.2;30.0;99.0;30;Türkiye;1,80m;right;1.000.000,00 €;Jun 30, 2026;Right-Back;€400.000.00;0,00 €
+Max Lowe;Sheffield_Wednesday;Championship;61.2;49.6;57.1;27;England;1,75m;left;2.500.000,00 €;-;Left-Back;€1.048.398.00;0,00 €
+Josh Tymon;Swansea_City;Championship;61.2;68.9;64.4;25;England;1,80m;left;3.200.000,00 €;Jun 30, 2026;Left-Back;€616.705.00;0,00 €
+Josh Key;Swansea_City;Championship;61.1;63.1;58.2;25;England, Ireland;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€431.693.00;0,00 €
+Thomas Ouwejan;NEC_Nijmegen;Eredivisie;61.0;55.2;61.4;28;Netherlands;1,83m;left;1.200.000,00 €;Jun 30, 2027;Left-Back;€750.000.00;0,00 €
+Kyle Walker;Milan;Serie_A;60.9;55.0;46.5;34;England;1,83m;right;6.000.000,00 €;Jun 30, 2025;Right-Back;€4.630.000.00;0,00 €
+Adrià Altimira;Leganes;La_Liga;60.7;54.4;49.7;24;Spain;1,70m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;;
+Álex Muñoz;Las_Palmas;La_Liga;60.6;51.0;61.5;30;Spain;1,87m;left;1.200.000,00 €;Jun 30, 2026;Left-Back;€620.000.00;0,00 €
+Weverson;Arouca;Primeira_Liga;60.6;64.7;63.3;24;Brazil;1,85m;left;1.000.000,00 €;Jun 30, 2025;Left-Back;€120.000.00;0,00 €
+Antoine Hainaut;Parma;Serie_A;60.5;54.4;50.5;23;France;1,87m;right;1.000.000,00 €;Jun 30, 2026;Right-Back;€260.000.00;0,00 €
+Ian Maatsen;Aston_Villa;EPL;60.5;55.1;49.8;23;Netherlands, Suriname;1,78m;left;28.000.000,00 €;Jun 30, 2030;Left-Back;;
+Kellen Fisher;Norwich_City;Championship;60.4;55.8;54.2;21;England;1,82m;right;0,00 €;Jun 30, 2028;Right-Back;€462.528.00;0,00 €
+Pedro Malheiro;Trabzonspor;Süper_Lig;60.4;30.0;88.9;24;Portugal;1,79m;right;5.500.000,00 €;Jun 30, 2028;Right-Back;€1.380.000.00;0,00 €
+Wouter Prins;Groningen;Eredivisie;60.3;45.6;50.8;21;Netherlands;1,73m;left;0,00 €;Jun 30, 2027;Left-Back;€90.000.00;0,00 €
+Claudio Bravo;Portland_Timbers;MLS;60.3;56.0;59.7;28;Argentina;1,79m;left;1.800.000,00 €;Dec 31, 2026;Left-Back;€286.869.00;0,00 €
+Raheem Edwards;CF_Montréal;MLS;60.3;51.9;53.3;;;;;;;;;
+Dennis Cirkin;Sunderland;Championship;60.2;58.4;57.1;23;England, Ireland;1,82m;left;6.000.000,00 €;Jun 30, 2026;Left-Back;€616.705.00;0,00 €
+Daniel Lovitz;Nashville_SC;MLS;60.1;50.8;61.1;33;United States;1,78m;left;0,00 €;Dec 31, 2025;Left-Back;€490.983.00;0,00 €
+Mërgim Vojvoda;Torino;Serie_A;60.1;59.0;57.6;;;;;;;;;
+Guilherme Biro;Austin;MLS;60.0;56.5;60.0;25;Brazil;1,84m;left;1.000.000,00 €;Dec 31, 2027;Left-Back;€176.535.00;0,00 €
+Faissal Al Mazyani;RKC_Waalwijk;Eredivisie;59.9;53.5;54.3;20;Morocco, Belgium;1,80m;right;0,00 €;Jun 30, 2027;Right-Back;€90.000.00;0,00 €
+Paulo Victor;Farense;Primeira_Liga;59.9;54.9;58.1;24;Brazil;1,84m;left;1.000.000,00 €;Jun 30, 2026;Left-Back;€280.000.00;0,00 €
+Benjamin Henrichs;RB_Leipzig;Bundesliga;59.8;56.2;53.8;28;Germany, Ghana;1,85m;right;17.000.000,00 €;Jun 30, 2028;Right-Back;€7.550.000.00;0,00 €
+Neto Borges;Middlesbrough;Championship;59.7;56.0;53.9;28;Brazil;1,85m;left;3.000.000,00 €;Jun 30, 2027;Left-Back;€1.233.409.00;0,00 €
+Keegan Rosenberry;Colorado_Rapids;MLS;59.6;55.7;62.7;31;United States;1,73m;;1.200.000,00 €;Dec 31, 2027;Right-Back;€353.070.00;0,00 €
+Julián Aude;LA_Galaxy;MLS;59.6;53.3;54.5;22;Argentina, Italy;1,80m;left;3.500.000,00 €;Dec 31, 2027;Left-Back;€286.869.00;0,00 €
+Cody Drameh;Hull_City;Championship;59.5;52.6;50.9;23;England, The Gambia;1,81m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€555.034.00;0,00 €
+Mattia De Sciglio;Empoli;Serie_A;59.5;46.2;46.8;32;Italy;1,83m;right;1.000.000,00 €;Jun 30, 2025;Right-Back;€930.000.00;0,00 €
+José Gomes;Nacional;Primeira_Liga;59.3;57.4;62.7;28;Portugal;1,85m;left;0,00 €;Jun 30, 2027;Left-Back;€120.000.00;0,00 €
+David Møller Wolfe;AZ_Alkmaar;Eredivisie;59.3;66.4;58.4;23;Norway;1,87m;left;6.000.000,00 €;Jun 30, 2028;Left-Back;€420.000.00;0,00 €
+Sergio Carreira;Celta_Vigo;La_Liga;59.1;61.3;55.3;24;Spain;1,70m;right;3.000.000,00 €;Jun 30, 2025;Right-Back;€600.000.00;0,00 €
+Rafael Santos;Orlando_City;MLS;59.1;57.2;61.1;27;Brazil;1,80m;left;0,00 €;Dec 31, 2025;Left-Back;€286.866.00;0,00 €
+Nathan Harriel;Philadelphia_Union;MLS;59.0;57.1;64.4;24;United States;1,80m;right;1.200.000,00 €;Dec 31, 2025;Right-Back;€211.842.00;0,00 €
+Lucas Hernández;Paris_Saint_Germain;Ligue_1;58.9;50.9;49.9;29;France, Spain;1,84m;left;30.000.000,00 €;Jun 30, 2028;Left-Back;€13.200.000.00;0,00 €
+Leonardo Spinazzola;Napoli;Serie_A;58.8;67.0;51.8;32;Italy;1,86m;right;3.500.000,00 €;Jun 30, 2026;Left-Back;€3.330.000.00;0,00 €
+Luke Ayling;Middlesbrough;Championship;58.8;54.4;56.9;33;England;1,83m;right;0,00 €;Jun 30, 2026;Right-Back;€1.850.114.00;0,00 €
+Nathan Byrne;Charlotte;MLS;58.8;57.9;57.7;32;England;1,80m;right;1.000.000,00 €;Dec 31, 2026;Right-Back;€494.298.00;0,00 €
+Yanis Zouaoui;Le_Havre;Ligue_1;58.8;59.4;55.2;27;France, Algeria;1,83m;left;0,00 €;Jun 30, 2027;Left-Back;€250.000.00;0,00 €
+DeAndre Yedlin;FC_Cincinnati;MLS;58.7;50.8;54.9;31;United States, Latvia;1,73m;right;2.000.000,00 €;Dec 31, 2025;Right-Back;€750.274.00;0,00 €
+Falaye Sacko;Montpellier;Ligue_1;58.7;50.4;47.5;30;Mali;1,80m;right;2.000.000,00 €;Jun 30, 2026;Right-Back;€140.000.00;0,00 €
+Adam Smith;Bournemouth;EPL;58.6;51.3;52.0;34;England;1,74m;right;1.000.000,00 €;Jun 30, 2026;Right-Back;€2.466.819.00;0,00 €
+Kenneth Paal;Queens_Park_Rangers;Championship;58.5;49.0;57.0;27;Suriname, Netherlands;1,74m;left;2.800.000,00 €;Jun 30, 2025;Left-Back;€498.108.00;0,00 €
+Jake Davis;Sporting_KC;MLS;58.5;60.2;67.7;23;United States;1,78m;right;2.000.000,00 €;Dec 31, 2027;Right-Back;€105.921.00;0,00 €
+Ridle Baku;Wolfsburg;Bundesliga;58.4;57.8;54.4;;;;;;;;;
+Dean James;Go_Ahead_Eag;Eredivisie;58.4;56.6;50.8;25;Indonesia, Netherlands;1,77m;left;1.000.000,00 €;Jun 30, 2028;Left-Back;€150.000.00;0,00 €
+Jack Stacey;Norwich_City;Championship;58.0;57.1;54.3;29;England;1,80m;right;2.800.000,00 €;Jun 30, 2026;Right-Back;€2.158.466.00;0,00 €
+Alexander Bah;Benfica;Primeira_Liga;58.0;60.7;60.3;27;Denmark, The Gambia;1,83m;right;12.000.000,00 €;Jun 30, 2029;Right-Back;€1.630.000.00;60.000.000,00 €
+Luca Netz;Monchengladbach;Bundesliga;57.9;50.6;49.6;21;Germany;1,84m;left;7.000.000,00 €;Jun 30, 2026;Left-Back;€2.400.000.00;0,00 €
+Samuele Birindelli;Monza;Serie_A;57.9;59.1;53.4;25;Italy;1,76m;right;3.000.000,00 €;Jun 30, 2026;Right-Back;€830.000.00;0,00 €
+Alfie Gilchrist;Sheffield_United;Championship;57.9;49.9;49.0;21;England;1,83m;right;8.000.000,00 €;May 31, 2025;Right-Back;€431.693.00;0,00 €
+Stefan Lainer;Monchengladbach;Bundesliga;57.9;53.5;47.8;32;Austria;1,75m;right;1.800.000,00 €;Jun 30, 2026;Right-Back;€2.500.000.00;0,00 €
+Diogo Travassos;Estrela;Primeira_Liga;57.8;61.5;59.7;21;Portugal;1,76m;right;0,00 €;Jun 30, 2025;Right-Back;;
+Rúben Lima;Estrela;Primeira_Liga;57.8;55.9;64.2;35;Portugal;1,77m;left;0,00 €;Jun 30, 2026;Left-Back;€250.000.00;0,00 €
+Leonidas Stergiou;Stuttgart;Bundesliga;57.7;56.7;50.0;23;Switzerland, Greece;1,81m;right;5.000.000,00 €;Jun 30, 2028;Right-Back;€190.000.00;0,00 €
+Adama Boiro;Athletic_Club;La_Liga;57.6;51.7;49.5;22;Spain, Senegal;1,83m;left;2.500.000,00 €;Jun 30, 2029;Left-Back;€210.000.00;0,00 €
+Antoine Mendy;Nice;Ligue_1;57.6;50.7;49.3;20;Senegal, France;1,87m;right;3.000.000,00 €;Jun 30, 2028;Right-Back;€120.000.00;0,00 €
+Jordan Amavi;Brest;Ligue_1;57.6;55.4;51.1;31;France;1,76m;left;2.000.000,00 €;Jun 30, 2025;Left-Back;€1.090.000.00;0,00 €
+Peter Kioso;Oxford_United;Championship;57.5;49.4;52.2;25;DR Congo, Ireland;1,83m;right;0,00 €;-;Right-Back;€493.364.00;0,00 €
+Darnell Furlong;West_Bromwich_Albion;Championship;57.5;56.4;57.6;29;England, Montserrat;1,83m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€1.541.762.00;0,00 €
+Lars Ritzka;St_Pauli;Bundesliga;57.4;43.3;47.2;26;Germany;1,85m;left;0,00 €;-;Left-Back;€140.000.00;0,00 €
+Patrick Dorgu;Manchester_United;EPL;57.4;50.8;46.0;20;Denmark, Nigeria;1,85m;left;25.000.000,00 €;Jun 30, 2030;Left-Back;;
+Kane Wilson;Derby_County;Championship;57.3;59.4;51.1;25;England;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€400.858.00;0,00 €
+Adam Aznou;Valladolid;La_Liga;57.3;50.0;47.5;18;Morocco, Spain;1,78m;left;3.000.000,00 €;Jun 30, 2025;Left-Back;€310.000.00;0,00 €
+Archie Gray;Tottenham_Hotspur;EPL;57.3;51.2;50.7;19;England, Scotland;1,87m;right;35.000.000,00 €;Jun 30, 2030;Right-Back;€4.625.285.00;0,00 €
+Jasper Dahlhaus;Fortuna_Sittard;Eredivisie;57.3;57.5;57.6;23;Netherlands;1,76m;left;0,00 €;Jun 30, 2026;Left-Back;€120.000.00;0,00 €
+Denso Kasius;AZ_Alkmaar;Eredivisie;57.2;56.0;54.4;22;Netherlands;1,83m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€880.000.00;0,00 €
+Steven Moreira;Columbus_Crew;MLS;57.2;51.8;51.7;30;Cape Verde, France;1,80m;right;1.800.000,00 €;Dec 31, 2025;Right-Back;€706.140.00;0,00 €
+Riccardo Calafiori;Arsenal;EPL;57.2;55.5;49.5;22;Italy;1,88m;left;40.000.000,00 €;Jun 30, 2029;Left-Back;€7.400.456.00;0,00 €
+Junior Firpo;Leeds_United;Championship;57.2;61.6;56.3;28;Dominican Republic, Spain;1,84m;left;6.500.000,00 €;Jun 30, 2025;Left-Back;€3.700.228.00;0,00 €
+Greg Leigh;Oxford_United;Championship;57.2;52.2;52.6;30;Jamaica, England;1,81m;left;0,00 €;-;Left-Back;€185.011.00;0,00 €
+Tayvon Gray;New_York_City_FC;MLS;57.0;54.8;57.2;22;Jamaica, United States;1,80m;right;2.000.000,00 €;Dec 31, 2025;Right-Back;€308.936.00;0,00 €
+Owen Beck;Blackburn_Rovers;Championship;57.0;51.4;48.4;22;Wales;1,77m;left;1.300.000,00 €;May 31, 2025;Left-Back;€215.847.00;0,00 €
+Sam Vines;Colorado_Rapids;MLS;57.0;58.0;53.0;25;United States;1,77m;left;1.500.000,00 €;Dec 31, 2027;Left-Back;€750.274.00;0,00 €
+Jay Dasilva;Coventry_City;Championship;56.9;55.1;50.9;27;Wales, England;1,70m;left;2.200.000,00 €;Jun 30, 2027;Left-Back;€616.705.00;0,00 €
+Alfonso Espino;Rayo_Vallecano;La_Liga;56.8;49.4;49.2;33;Uruguay, Spain;1,72m;left;1.500.000,00 €;Jun 30, 2026;Left-Back;€580.000.00;0,00 €
+Devin Padelford;Minnesota_Utd;MLS;56.8;49.5;53.7;22;United States;1,83m;left;0,00 €;Dec 31, 2025;Left-Back;;
+Marcus Coco;Nantes;Ligue_1;56.8;48.5;52.2;28;Guadeloupe, France;1,84m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;€720.000.00;0,00 €
+Álex Valle;Como;Serie_A;56.8;52.8;46.8;21;Spain;1,78m;left;4.500.000,00 €;Jun 30, 2025;Left-Back;€560.000.00;0,00 €
+Yan Couto;Dortmund;Bundesliga;56.7;56.6;48.6;22;Brazil, Portugal;1,68m;right;20.000.000,00 €;Jun 30, 2025;Right-Back;€1.140.000.00;0,00 €
+Nick Lima;NE_Revolution;MLS;56.7;49.8;53.1;;;;;;;;;
+Fabiano Parisi;Fiorentina;Serie_A;56.3;50.1;46.6;24;Italy;1,78m;left;5.000.000,00 €;Jun 30, 2028;Left-Back;€2.780.000.00;0,00 €
+André Geraldes;Casa_Pia;Primeira_Liga;56.2;49.1;44.4;34;Portugal;1,81m;right;0,00 €;Jun 30, 2027;Right-Back;€280.000.00;0,00 €
+Nordi Mukiele;Bayer_Leverkusen;Bundesliga;56.2;54.6;50.8;27;France, DR Congo;1,87m;right;10.000.000,00 €;Jun 30, 2025;Right-Back;;
+Paul Marie;SJ_Earthquakes;MLS;56.2;53.1;54.2;30;France;1,75m;right;1.000.000,00 €;Dec 31, 2026;Right-Back;€264.803.00;0,00 €
+George Tanner;Bristol_City;Championship;56.1;45.5;49.0;25;England;1,81m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€493.364.00;0,00 €
+Luke Thomas;Leicester_City;EPL;56.1;45.1;45.9;23;England;1,81m;left;6.000.000,00 €;Jun 30, 2026;Left-Back;€925.057.00;0,00 €
+Anfernee Dijksteel;Middlesbrough;Championship;56.1;57.2;51.6;28;Suriname, Netherlands;1,83m;right;1.200.000,00 €;Jun 30, 2025;Right-Back;€367.651.00;0,00 €
+Jon Gallagher;Austin;MLS;56.0;57.6;59.9;29;Ireland;1,75m;right;2.500.000,00 €;Dec 31, 2026;Right-Back;€331.003.00;0,00 €
+Matheus Pereira;Santa_Clara;Primeira_Liga;56.0;58.9;55.4;24;Brazil;1,72m;left;1.500.000,00 €;Jun 30, 2028;Left-Back;€250.000.00;0,00 €
+Gerard Martín;Barcelona;La_Liga;55.9;49.1;47.0;23;Spain;1,86m;left;7.500.000,00 €;Jun 30, 2028;Left-Back;€420.000.00;100.000.000,00 €
+Ridle Baku;RB_Leipzig;Bundesliga;55.9;63.3;55.1;27;Germany, DR Congo;1,76m;right;7.000.000,00 €;Jun 30, 2027;Right-Back;€2.270.000.00;0,00 €
+Jordi Alba;Inter_Miami;MLS;55.8;60.1;55.7;36;Spain;1,70m;left;1.800.000,00 €;Dec 31, 2025;Left-Back;€1.103.344.00;0,00 €
+Sacha Boey;Bayern_Munich;Bundesliga;55.8;51.3;41.8;24;France;1,78m;right;18.000.000,00 €;Jun 30, 2028;Right-Back;€3.000.000.00;0,00 €
+Kévin Rodrigues;Kasımpaşa;Süper_Lig;55.7;30.0;84.3;;;;;;;;€840.000.00;0,00 €
+Yan Valery;Sheffield_Wednesday;Championship;55.7;55.1;58.4;26;Tunisia, France;1,85m;right;1.000.000,00 €;Jun 30, 2027;Right-Back;€1.233.409.00;0,00 €
+Raoul Petretta;Toronto_FC;MLS;55.7;51.8;54.1;28;Italy;1,76m;left;0,00 €;Dec 31, 2025;Left-Back;€595.806.00;0,00 €
+Oliver Scarles;West_Ham_United;EPL;55.5;43.1;41.1;19;England;1,80m;left;4.000.000,00 €;Jun 30, 2028;Left-Back;;
+Álvaro Tejero;Espanyol;La_Liga;55.5;50.4;54.7;28;Spain;1,74m;both;2.000.000,00 €;Jun 30, 2025;Right-Back;€620.000.00;0,00 €
+Shaq Moore;Nashville_SC;MLS;55.5;50.5;51.2;;;;;;;;;
+Griffin Dorsey;Houston_Dynamo;MLS;55.4;62.4;55.1;26;United States;1,82m;right;0,00 €;Dec 31, 2025;Right-Back;€419.271.00;0,00 €
+Bashir Humphreys;Burnley;Championship;55.4;45.5;48.9;22;England, Uganda;1,86m;left;6.500.000,00 €;May 31, 2025;Left-Back;€616.705.00;0,00 €
+Théo Sainte-Luce;Montpellier;Ligue_1;55.3;51.7;48.7;26;France, Guadeloupe;1,76m;left;0,00 €;Jun 30, 2027;Left-Back;€360.000.00;0,00 €
+Connor Roberts;Burnley;Championship;55.2;57.4;56.0;29;Wales;1,75m;right;4.500.000,00 €;Jun 30, 2027;Right-Back;€1.850.114.00;0,00 €
+Luca Pellegrini;Lazio;Serie_A;55.1;53.6;53.1;26;Italy;1,78m;left;2.500.000,00 €;Jun 30, 2025;Left-Back;€2.410.000.00;0,00 €
+Craig Forsyth;Derby_County;Championship;55.0;45.7;49.8;36;Scotland;1,89m;left;0,00 €;Jun 30, 2025;Left-Back;€431.693.00;0,00 €
+Zak Swanson;Portsmouth;Championship;54.9;48.6;52.6;24;England, United States;1,89m;right;0,00 €;Jun 30, 2025;Right-Back;€215.847.00;0,00 €
+Cristiano Biraghi;Torino;Serie_A;54.8;41.5;41.1;32;Italy;1,85m;left;2.000.000,00 €;Jun 30, 2025;Left-Back;€3.150.000.00;0,00 €
+Callum Elder;Derby_County;Championship;54.8;50.8;53.9;30;Australia, Scotland;1,80m;left;0,00 €;Jun 30, 2026;Left-Back;€400.858.00;0,00 €
+Cameron Pring;Bristol_City;Championship;54.7;56.7;52.1;27;England;1,85m;left;2.500.000,00 €;Jun 30, 2026;Left-Back;€925.057.00;0,00 €
+Brad Potts;Preston_North_End;Championship;54.7;49.8;48.9;30;England;1,88m;right;1.500.000,00 €;Jun 30, 2026;Right-Back;€740.046.00;0,00 €
+Juan Familia-Castillo;RKC_Waalwijk;Eredivisie;54.7;51.8;57.0;25;Dominican Republic, Netherlands;1,75m;left;0,00 €;Jun 30, 2026;Left-Back;€150.000.00;0,00 €
+James Bree;Southampton;EPL;54.7;49.9;50.4;27;England;1,78m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€616.705.00;0,00 €
+Boyd Lucassen;NAC_Breda;Eredivisie;54.6;51.3;52.7;26;Netherlands;1,73m;right;0,00 €;Jun 30, 2027;Right-Back;€200.000.00;0,00 €
+Nuno Santos;Vitoria_Guimaraes;Primeira_Liga;54.6;59.9;51.4;;;;;;;;€520.000.00;0,00 €
+Iñigo Lekue;Athletic_Club;La_Liga;54.5;50.2;45.1;32;Spain;1,80m;right;2.500.000,00 €;Jun 30, 2025;Right-Back;€1.000.000.00;45.000.000,00 €
+Alejandro Francés;Girona;La_Liga;54.5;52.9;52.0;22;Spain;1,82m;right;2.500.000,00 €;Jun 30, 2029;Right-Back;€520.000.00;0,00 €
+Amari'i Bell;Luton_Town;Championship;54.5;51.3;51.0;31;Jamaica, England;1,80m;left;2.200.000,00 €;-;Left-Back;€616.705.00;0,00 €
+Reece James;Chelsea;EPL;54.4;46.0;47.1;25;England;1,80m;right;30.000.000,00 €;Jun 30, 2028;Right-Back;€15.417.616.00;0,00 €
+Mitchell Dijks;Fortuna_Sittard;Eredivisie;54.4;52.4;52.1;32;Netherlands;1,94m;left;0,00 €;Jun 30, 2026;Left-Back;€590.000.00;0,00 €
+João Ferreira;Braga;Primeira_Liga;54.3;57.2;55.8;24;Portugal;1,85m;right;4.000.000,00 €;Jun 30, 2025;Right-Back;€960.000.00;0,00 €
+Aitor Ruibal;Real_Betis;La_Liga;54.3;51.1;47.1;29;Spain;1,76m;right;3.500.000,00 €;Jun 30, 2028;Right-Back;€1.200.000.00;0,00 €
+Hugo Bueno;Feyenoord;Eredivisie;54.3;57.2;47.0;22;Spain;1,80m;left;8.000.000,00 €;Jun 30, 2025;Left-Back;€620.000.00;0,00 €
+Matheus Reis;Sporting_CP;Primeira_Liga;54.3;59.2;51.9;30;Brazil;1,84m;left;7.000.000,00 €;Jun 30, 2026;Left-Back;€1.150.000.00;0,00 €
+Aaron Cresswell;West_Ham_United;EPL;54.3;56.7;48.1;35;England;1,70m;left;0,00 €;Jun 30, 2025;Left-Back;€3.083.523.00;0,00 €
+Junior Tchamadeu;Stoke_City;Championship;54.2;53.7;51.5;21;Cameroon, England;1,80m;right;0,00 €;Jun 30, 2027;Right-Back;€308.352.00;0,00 €
+Henri Koudossou;Augsburg;Bundesliga;54.0;53.6;50.0;25;Germany, Togo;1,80m;both;1.500.000,00 €;Jun 30, 2026;Right-Back;€280.000.00;0,00 €
+Connor Ogilvie;Portsmouth;Championship;53.9;51.8;60.9;29;England;1,84m;left;0,00 €;Jun 30, 2026;Left-Back;€308.352.00;0,00 €
+Lucas Lima;Başakşehir;Süper_Lig;53.8;30.0;65.3;33;Brazil;1,79m;left;0,00 €;Jun 30, 2025;Left-Back;€2.030.000.00;0,00 €
+Ulisses Garcia;Marseille;Ligue_1;53.8;50.8;49.8;29;Switzerland, Cape Verde;1,82m;left;4.000.000,00 €;Jun 30, 2028;Left-Back;€900.000.00;0,00 €
+Jannes Wieckhoff;Heracles_Almelo;Eredivisie;53.8;49.9;47.1;24;Germany;1,88m;right;0,00 €;Jun 30, 2026;Right-Back;€150.000.00;0,00 €
+Allan Nyom;Getafe;La_Liga;53.6;49.1;44.2;36;Cameroon, France;1,89m;right;0,00 €;Jun 30, 2025;Right-Back;€620.000.00;0,00 €
+Thierry Correia;Valencia;La_Liga;53.5;48.0;44.8;26;Portugal, Cape Verde;1,76m;right;6.000.000,00 €;Jun 30, 2026;Right-Back;€1.840.000.00;0,00 €
+Ben White;Arsenal;EPL;53.5;39.3;42.4;27;England;1,86m;right;50.000.000,00 €;Jun 30, 2028;Right-Back;€9.250.570.00;0,00 €
+Reinildo Mandava;Atletico_Madrid;La_Liga;53.5;45.5;45.3;31;Mozambique;1,80m;left;8.000.000,00 €;Jun 30, 2025;Left-Back;€800.000.00;0,00 €
+Yusuf Özdemir;Alanyaspor;Süper_Lig;53.4;30.0;62.8;24;Türkiye;1,81m;left;2.600.000,00 €;Jun 30, 2028;Left-Back;€50.000.00;0,00 €
+Miguel Lopes;Estrela;Primeira_Liga;53.3;51.0;52.5;38;Portugal;1,83m;right;0,00 €;Jun 30, 2026;Right-Back;€180.000.00;0,00 €
+Enric Franquesa;Leganes;La_Liga;53.3;48.8;44.2;28;Spain;1,75m;left;1.500.000,00 €;Jun 30, 2026;Left-Back;;
+Amadou Dante;Arouca;Primeira_Liga;53.2;50.5;50.3;24;Mali;1,78m;left;1.500.000,00 €;Jun 30, 2025;Left-Back;€300.000.00;0,00 €
+Kiliann Sildillia;Freiburg;Bundesliga;53.1;52.8;49.9;22;France, Guadeloupe;1,86m;right;10.000.000,00 €;Jun 30, 2026;Right-Back;€320.000.00;0,00 €
+Sherel Floranus;Zwolle;Eredivisie;53.1;47.7;52.0;26;Curacao, Netherlands;1,81m;right;0,00 €;Jun 30, 2027;Right-Back;€350.000.00;0,00 €
+Patrick van Aanholt;Sparta_R'dam;Eredivisie;52.9;50.6;51.5;34;Netherlands, Curacao;1,76m;left;0,00 €;Jun 30, 2026;Left-Back;€580.000.00;0,00 €
+Zorhan Bassong;Sporting_KC;MLS;52.8;49.4;50.9;25;Canada, Belgium;1,80m;left;0,00 €;Dec 31, 2025;Left-Back;€79.190.00;0,00 €
+Yasser Larouci;Watford;Championship;52.7;55.2;52.6;24;Algeria, France;1,76m;left;3.200.000,00 €;Jun 30, 2025;Left-Back;€616.705.00;0,00 €
+Álex Moreno;Nottingham_Forest;EPL;52.6;47.5;44.7;31;Spain;1,79m;left;11.000.000,00 €;May 31, 2025;Left-Back;;
+Murat Paluli;Sivasspor;Süper_Lig;52.6;30.0;72.4;30;Türkiye;1,75m;right;0,00 €;Jun 30, 2026;Right-Back;€230.000.00;0,00 €
+Aske Adelgaard;Go_Ahead_Eag;Eredivisie;52.5;53.0;44.8;21;Denmark;1,75m;left;0,00 €;Jun 30, 2028;Left-Back;€180.000.00;0,00 €
+Kyle Duncan;NY_Red_Bulls;MLS;52.5;47.9;47.3;27;United States, Jamaica;1,77m;right;1.200.000,00 €;Dec 31, 2025;Right-Back;€441.338.00;0,00 €
+Hamari Traoré;Real_Sociedad;La_Liga;52.5;48.3;43.7;33;Mali;1,75m;right;3.000.000,00 €;Jun 30, 2026;Right-Back;€2.400.000.00;0,00 €
+Daniel Svensson;Dortmund;Bundesliga;52.5;45.9;42.5;23;Sweden;1,83m;left;5.500.000,00 €;Jun 30, 2025;Left-Back;€840.000.00;0,00 €
+Conor Bradley;Liverpool;EPL;52.3;48.0;41.9;21;Northern Ireland;1,81m;right;25.000.000,00 €;Jun 30, 2027;Right-Back;€4.625.285.00;0,00 €
+D.J. Taylor;Minnesota_Utd;MLS;52.3;45.4;49.0;27;United States;1,75m;;1.000.000,00 €;Dec 31, 2025;Right-Back;;
+Aihen Muñoz;Real_Sociedad;La_Liga;52.2;49.8;47.1;27;Spain;1,75m;left;5.000.000,00 €;Jun 30, 2027;Left-Back;€860.000.00;50.000.000,00 €
+Pasquale Mazzocchi;Napoli;Serie_A;52.2;52.5;44.0;29;Italy;1,83m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€1.850.000.00;0,00 €
+Gijs Smal;Feyenoord;Eredivisie;52.1;52.8;45.7;27;Netherlands;1,83m;left;7.000.000,00 €;Jun 30, 2028;Left-Back;€980.000.00;0,00 €
+Pol Valentín;Sheffield_Wednesday;Championship;52.0;51.6;50.0;28;Spain;1,81m;right;0,00 €;Jun 30, 2025;Right-Back;€123.341.00;0,00 €
+Vladimír Coufal;West_Ham_United;EPL;52.0;44.9;48.4;32;Czech Republic;1,74m;right;7.000.000,00 €;Jun 30, 2025;Right-Back;€2.158.466.00;0,00 €
+Haydon Roberts;Bristol_City;Championship;51.8;49.8;46.2;22;England;1,84m;left;0,00 €;Jun 30, 2026;Left-Back;€92.506.00;0,00 €
+Filippo Terracciano;Milan;Serie_A;51.8;39.4;40.5;22;Italy;1,86m;right;4.500.000,00 €;Jun 30, 2028;Right-Back;€1.480.000.00;0,00 €
+DeJuan Jones;NE_Revolution;MLS;51.8;47.8;45.9;;;;;;;;;
+Matthew Sorinola;Plymouth_Argyle;Championship;51.7;46.9;44.3;24;England, Nigeria;1,73m;right;0,00 €;-;Right-Back;€308.352.00;0,00 €
+David Jurásek;Hoffenheim;Bundesliga;51.6;45.9;46.7;24;Czech Republic;1,83m;left;7.000.000,00 €;Jun 30, 2025;Left-Back;€1.920.000.00;80.000.000,00 €
+Pierre Cornud;Saint_Etienne;Ligue_1;51.5;44.3;43.8;28;France;1,77m;left;1.000.000,00 €;Jun 30, 2026;Left-Back;€450.000.00;0,00 €
+Jordan Williams;Portsmouth;Championship;51.4;45.0;44.0;25;England;1,79m;right;0,00 €;Jun 30, 2027;Right-Back;€370.023.00;0,00 €
+Davide Calabria;Bologna;Serie_A;51.4;39.0;41.6;28;Italy;1,76m;right;7.500.000,00 €;Jun 30, 2025;Right-Back;€1.850.000.00;0,00 €
+Joel Bagan;Cardiff_City;Championship;51.4;45.5;43.4;23;Ireland, England;1,88m;left;0,00 €;Jun 30, 2026;Left-Back;€92.506.00;0,00 €
+Bas Kuipers;Twente;Eredivisie;51.4;46.7;46.9;30;Netherlands;1,80m;left;1.300.000,00 €;Jun 30, 2028;Left-Back;€450.000.00;0,00 €
+Lucas Soares;Santa_Clara;Primeira_Liga;51.4;49.1;53.5;27;Brazil;1,74m;right;0,00 €;Jun 30, 2027;Right-Back;€280.000.00;0,00 €
+Lorenzo De Silvestri;Bologna;Serie_A;51.3;42.3;43.9;36;Italy;1,87m;right;0,00 €;Jun 30, 2025;Right-Back;€370.000.00;0,00 €
+Luuk Wouters;RKC_Waalwijk;Eredivisie;51.2;46.0;45.3;25;Netherlands;1,90m;left;0,00 €;Jun 30, 2026;Left-Back;€150.000.00;0,00 €
+Üzeyir Ergün;BB_Bodrumspor;Süper_Lig;51.2;30.0;54.3;32;Türkiye;1,78m;right;0,00 €;Jun 30, 2026;Right-Back;€100.000.00;0,00 €
+Harrison Ashby;Queens_Park_Rangers;Championship;51.1;43.2;43.2;23;Scotland, England;1,79m;right;1.200.000,00 €;May 31, 2025;Right-Back;€431.693.00;0,00 €
+Sam Long;Oxford_United;Championship;51.0;44.9;47.5;30;England;1,80m;right;0,00 €;Jun 30, 2026;Right-Back;€185.011.00;0,00 €
+Ryan Andrews;Watford;Championship;50.9;52.4;49.2;20;England;-;right;2.000.000,00 €;Jun 30, 2028;Right-Back;€370.023.00;0,00 €
+Martim Fernandes;Porto;Primeira_Liga;50.8;56.4;53.1;19;Portugal;1,81m;right;10.000.000,00 €;Jun 30, 2028;Right-Back;€300.000.00;0,00 €
+Héctor Bellerín;Real_Betis;La_Liga;50.8;51.0;46.2;30;Spain;1,78m;right;3.000.000,00 €;Jun 30, 2028;Right-Back;€3.120.000.00;0,00 €
+Boyd Reith;Sparta_R'dam;Eredivisie;50.7;46.9;46.3;26;Netherlands;1,76m;right;0,00 €;Jun 30, 2027;Right-Back;€240.000.00;0,00 €
+Arthur;Bayer_Leverkusen;Bundesliga;50.2;47.4;44.2;22;Brazil;1,74m;right;7.000.000,00 €;Jun 30, 2028;Right-Back;;
+Sam Byram;Leeds_United;Championship;50.0;46.8;42.3;31;England;1,83m;right;1.000.000,00 €;Jun 30, 2025;Left-Back;€1.233.409.00;0,00 €
+Brian Oliván;Espanyol;La_Liga;49.8;49.6;52.0;31;Spain;1,75m;left;2.000.000,00 €;Jun 30, 2025;Left-Back;€540.000.00;0,00 €
+Joe Edwards;Plymouth_Argyle;Championship;49.8;44.9;43.2;34;England;1,73m;right;0,00 €;Jun 30, 2026;Right-Back;€616.705.00;0,00 €
+Enda Stevens;Stoke_City;Championship;49.7;45.7;43.6;34;Ireland;1,83m;left;0,00 €;Jun 30, 2025;Left-Back;€925.057.00;0,00 €
+Eric Miller;Portland_Timbers;MLS;49.6;40.4;40.6;32;United States;1,86m;right;0,00 €;Dec 31, 2025;Right-Back;€79.190.00;0,00 €
+Juan Bernat;Getafe;La_Liga;49.5;47.0;43.1;32;Spain;1,70m;left;2.500.000,00 €;Jun 30, 2025;Left-Back;€3.740.000.00;0,00 €
+Femi Seriki;Sheffield_United;Championship;49.4;48.2;44.4;23;England, Nigeria;1,83m;right;0,00 €;Jun 30, 2027;Right-Back;€616.705.00;0,00 €
+Mitja Ilenič;New_York_City_FC;MLS;49.3;46.8;47.0;20;Slovenia;1,80m;right;1.800.000,00 €;Dec 31, 2026;Right-Back;€211.842.00;0,00 €
+Yuri Ribeiro;Blackburn_Rovers;Championship;49.3;42.6;42.4;28;Portugal, Switzerland;1,78m;left;1.200.000,00 €;Jun 30, 2027;Left-Back;€770.881.00;0,00 €
+Daiki Hashioka;Luton_Town;Championship;49.1;40.3;42.5;25;Japan;1,84m;right;2.000.000,00 €;-;Right-Back;€925.057.00;0,00 €
+Pol Lirola;Marseille;Ligue_1;49.0;49.1;43.4;27;Spain;1,83m;right;4.000.000,00 €;Jun 30, 2026;Right-Back;€1.000.000.00;0,00 €
+Jake Bidwell;Coventry_City;Championship;48.9;51.8;51.9;32;England;1,83m;left;1.200.000,00 €;Jun 30, 2027;Left-Back;€616.705.00;0,00 €
+Jahkeele Marshall-Rutty;Toronto_FC;MLS;48.8;46.1;42.1;;;;;;;;;
+Olivier Mbaizo;Philadelphia_Union;MLS;48.6;46.2;45.7;27;Cameroon;1,78m;;0,00 €;Dec 31, 2026;Right-Back;€308.936.00;0,00 €
+Jhoanner Chávez;Lens;Ligue_1;48.6;47.8;47.1;23;Ecuador;1,82m;left;4.000.000,00 €;Jun 30, 2028;Left-Back;€450.000.00;0,00 €
+João Tomé;Rio_Ave;Primeira_Liga;48.6;42.6;42.0;22;Portugal;1,85m;right;0,00 €;Jun 30, 2027;Right-Back;€120.000.00;0,00 €
+Kyle Smith;Orlando_City;MLS;48.4;45.9;43.0;33;United States;1,84m;;0,00 €;Dec 31, 2025;Right-Back;€255.976.00;0,00 €
+Richie Laryea;Toronto_FC;MLS;48.4;44.2;39.2;30;Canada, Ghana;1,75m;right;1.000.000,00 €;Dec 31, 2026;Right-Back;€873.848.00;0,00 €
+Morgan Fox;Queens_Park_Rangers;Championship;48.3;42.6;40.8;31;Wales, England;1,85m;left;0,00 €;Jun 30, 2025;Left-Back;€925.057.00;0,00 €
+Cenk Şen;BB_Bodrumspor;Süper_Lig;48.3;30.0;89.8;24;Türkiye;1,70m;left;0,00 €;Jun 30, 2026;Left-Back;€150.000.00;0,00 €
+Terry Devlin;Portsmouth;Championship;48.2;42.6;44.9;21;Northern Ireland;1,80m;right;0,00 €;Jun 30, 2028;Right-Back;€185.011.00;0,00 €
+Tomás Tavares;AVS_Futebol;Primeira_Liga;48.1;42.7;44.8;24;Portugal, Cape Verde;1,82m;right;1.000.000,00 €;Jun 30, 2025;Right-Back;€480.000.00;0,00 €
+Adrián Marín;Braga;Primeira_Liga;48.1;44.0;45.3;28;Spain;1,81m;left;2.000.000,00 €;Jun 30, 2026;Left-Back;€480.000.00;0,00 €
+Ryan Nyambe;Derby_County;Championship;48.0;46.1;42.7;27;Namibia, England;1,83m;right;1.000.000,00 €;Jun 30, 2027;Right-Back;€493.364.00;0,00 €
+Pedro Carvalho;Estoril;Primeira_Liga;48.0;47.2;42.1;22;Portugal;1,69m;right;0,00 €;Jun 30, 2028;Right-Back;€70.000.00;0,00 €
+Akil Watts;St_Louis;MLS;48.0;45.2;43.8;25;United States;1,83m;;0,00 €;Dec 31, 2025;Right-Back;€65.403.00;0,00 €
+John Nelson;LA_Galaxy;MLS;48.0;48.6;46.0;26;United States;1,75m;left;0,00 €;Dec 31, 2025;Left-Back;€242.736.00;0,00 €
+Ross McCrorie;Bristol_City;Championship;47.7;45.3;45.2;27;Scotland;1,87m;right;1.800.000,00 €;Jun 30, 2026;Right-Back;€308.352.00;0,00 €
+Hiroki Sekine;Reims;Ligue_1;47.7;48.3;44.0;22;Japan;1,87m;right;0,00 €;Jun 30, 2029;Right-Back;€280.000.00;0,00 €
+Maxime Busi;NAC_Breda;Eredivisie;47.4;48.3;46.6;25;Belgium;1,82m;right;1.200.000,00 €;Jun 30, 2025;Right-Back;€1.180.000.00;0,00 €
+Alvas Powell;FC_Cincinnati;MLS;47.4;43.9;41.3;30;Jamaica;1,82m;right;0,00 €;Dec 31, 2025;Right-Back;€220.669.00;0,00 €
+Tariq Lamptey;Brighton_and_Hove_Albion;EPL;47.3;45.4;41.6;24;Ghana, England;1,63m;right;12.000.000,00 €;Jun 30, 2025;Right-Back;€2.158.466.00;0,00 €
+Quilindschy Hartman;Feyenoord;Eredivisie;47.2;44.6;41.8;23;Netherlands, Curacao;1,83m;left;18.000.000,00 €;Jun 30, 2026;Left-Back;€720.000.00;0,00 €
+Noah Allen;Inter_Miami;MLS;47.2;40.9;38.7;21;Greece, United States;1,75m;left;1.000.000,00 €;Dec 31, 2025;Left-Back;€79.190.00;0,00 €
+Jonathan Dean;Chicago_Fire;MLS;47.1;45.8;45.3;27;United States;1,73m;right;0,00 €;Dec 31, 2025;Right-Back;€101.508.00;0,00 €
+Reuell Walters;Luton_Town;Championship;47.0;42.5;39.3;20;England, Germany;1,86m;right;4.000.000,00 €;-;Right-Back;€308.352.00;0,00 €
+Rick Karsdorp;PSV_Eindhoven;Eredivisie;46.9;44.2;43.6;30;Netherlands;1,84m;right;4.000.000,00 €;Jun 30, 2025;Right-Back;€2.950.000.00;0,00 €
+James Morris;Watford;Championship;46.8;40.6;39.2;23;England;1,83m;left;0,00 €;Jun 30, 2026;Left-Back;€123.341.00;0,00 €
+Mats Rots;Heracles_Almelo;Eredivisie;46.5;44.3;40.3;19;Netherlands;1,90m;left;0,00 €;Jun 30, 2025;Left-Back;€120.000.00;0,00 €
+Aaron Meijers;RKC_Waalwijk;Eredivisie;46.4;41.0;40.1;37;Netherlands;1,76m;left;0,00 €;Jun 30, 2025;Left-Back;€120.000.00;0,00 €
+Iván Fresneda;Sporting_CP;Primeira_Liga;46.4;46.3;42.3;20;Spain;1,83m;right;8.000.000,00 €;Jun 30, 2028;Right-Back;€1.150.000.00;0,00 €
+Harry Pickering;Blackburn_Rovers;Championship;46.3;41.5;41.4;26;England;1,73m;left;4.000.000,00 €;Jun 30, 2027;Left-Back;€925.057.00;0,00 €
+Joe Rankin-Costello;Blackburn_Rovers;Championship;46.2;44.2;42.9;25;England;1,83m;right;1.500.000,00 €;Jun 30, 2027;Right-Back;€524.199.00;0,00 €
+Murray Wallace;Millwall;Championship;46.1;39.3;36.1;32;Scotland;1,88m;left;0,00 €;-;Left-Back;€367.651.00;0,00 €
+Ryan Giles;Hull_City;Championship;46.0;42.5;39.5;;;;;;;;;
+Denzel Hall;Heerenveen;Eredivisie;46.0;42.1;40.8;23;Netherlands, Jamaica;1,80m;right;0,00 €;Jun 30, 2027;Right-Back;€150.000.00;0,00 €
+Eliano Reijnders;Zwolle;Eredivisie;45.8;46.2;42.2;24;Indonesia, Netherlands;1,68m;right;0,00 €;Jun 30, 2027;Right-Back;€50.000.00;0,00 €
+Rob Nizet;Willem_II;Eredivisie;45.7;45.5;41.0;23;Belgium, Senegal;1,77m;left;0,00 €;Jun 30, 2025;Left-Back;€100.000.00;0,00 €
+Žan Kolmanič;Austin;MLS;45.6;42.3;42.0;25;Slovenia;1,78m;left;1.000.000,00 €;Dec 31, 2026;Left-Back;€308.936.00;0,00 €
+Javier Manquillo;Celta_Vigo;La_Liga;45.6;35.1;37.8;31;Spain;1,78m;right;1.800.000,00 €;Jun 30, 2025;Right-Back;€1.140.000.00;0,00 €
+Kazu;Gil_Vicente_FC;Primeira_Liga;45.5;40.7;39.5;25;Brazil;1,75m;left;0,00 €;Jun 30, 2026;Left-Back;€110.000.00;0,00 €
+Iván Balliu;Rayo_Vallecano;La_Liga;45.2;45.6;43.8;33;Albania, Spain;1,72m;right;1.500.000,00 €;Jun 30, 2027;Right-Back;€620.000.00;0,00 €
+Joe Bennett;Oxford_United;Championship;45.0;39.7;35.7;35;England;1,78m;left;0,00 €;Jun 30, 2025;Left-Back;€400.858.00;0,00 €
+Tymoteusz Puchacz;Plymouth_Argyle;Championship;44.8;42.4;42.1;26;Poland;1,83m;left;1.700.000,00 €;Jun 30, 2025;Left-Back;€1.110.068.00;0,00 €
+Bruno Gaspar;Vitoria_Guimaraes;Primeira_Liga;44.8;39.7;40.7;32;Angola, Portugal;1,80m;right;0,00 €;Jun 30, 2026;Right-Back;€220.000.00;0,00 €
+Antonio Candela;Valladolid;La_Liga;44.8;45.5;42.6;25;Italy;1,85m;right;2.000.000,00 €;Jun 30, 2025;Right-Back;€1.250.000.00;0,00 €
+Kyle Naughton;Swansea_City;Championship;44.5;43.4;40.0;36;England, Ireland;1,81m;right;0,00 €;Jun 30, 2025;Right-Back;€1.233.409.00;0,00 €
+Hidde ter Avest;Oxford_United;Championship;44.5;40.5;38.8;27;Netherlands;1,82m;right;1.500.000,00 €;-;Right-Back;€616.705.00;0,00 €
+Andrew Gutman;Chicago_Fire;MLS;44.5;41.4;40.2;28;United States;1,80m;left;0,00 €;Dec 31, 2026;Left-Back;€529.605.00;0,00 €
+Caleb Wiley;Watford;Championship;44.4;41.6;38.5;20;United States;1,80m;left;8.000.000,00 €;May 31, 2025;Left-Back;€616.705.00;0,00 €
+Peyton Miller;NE_Revolution;MLS;44.3;41.6;39.9;17;United States;1,70m;left;0,00 €;Dec 31, 2027;Left-Back;€63.024.00;0,00 €
+Nathanael Ogbeta;Plymouth_Argyle;Championship;44.3;43.5;38.6;24;England, Nigeria;1,84m;left;0,00 €;-;Left-Back;€308.352.00;0,00 €
+Taylor Washington;Nashville_SC;MLS;44.1;42.3;42.9;31;United States;1,78m;;0,00 €;Dec 31, 2025;Left-Back;€79.190.00;0,00 €
+Jahkeele Marshall-Rutty;CF_Montréal;MLS;43.8;43.8;38.5;;;;;;;;;
+Jayden Reid;St_Louis;MLS;43.7;43.9;42.2;23;United States;1,80m;left;0,00 €;Dec 31, 2025;Left-Back;€63.024.00;0,00 €
+Sam McCallum;Sheffield_United;Championship;43.7;43.0;41.2;24;England;1,77m;left;1.200.000,00 €;Jun 30, 2028;Left-Back;€925.057.00;0,00 €
+Ronald Hernández;Atlanta_Utd;MLS;43.5;44.9;40.2;27;Venezuela;1,72m;right;0,00 €;Dec 31, 2025;Right-Back;€397.204.00;0,00 €
+Jayden Meghoma;Preston_North_End;Championship;43.4;36.7;33.7;18;England, Nigeria;1,76m;;0,00 €;May 31, 2025;Left-Back;€308.352.00;0,00 €
+Abdulsamet Burak;Adana_Demirspor;Süper_Lig;42.9;30.0;74.2;28;Türkiye;1,85m;left;0,00 €;Jun 30, 2025;Left-Back;€130.000.00;0,00 €
+Pedro Amador;Atlanta_Utd;MLS;42.8;39.9;40.4;26;Portugal;1,81m;left;0,00 €;Dec 31, 2026;Left-Back;€182.714.00;0,00 €
+Umut Meraş;Eyüpspor;Süper_Lig;42.5;30.0;73.9;;;;;;;;;
+Kaan Ayhan;Galatasaray;Süper_Lig;42.5;30.0;56.0;30;Türkiye, Germany;1,85m;right;4.200.000,00 €;Jun 30, 2026;Right-Back;€2.500.000.00;0,00 €
+Liam Palmer;Sheffield_Wednesday;Championship;42.4;34.9;34.9;33;Scotland, England;1,88m;right;0,00 €;Jun 30, 2025;Right-Back;€740.046.00;0,00 €
+Lucien Mahovo;Norwich_City;Championship;42.0;38.2;35.9;19;England, Zimbabwe;-;left;0,00 €;Jun 30, 2028;Left-Back;;
+Erdoğan Yeşilyurt;Antalyaspor;Süper_Lig;41.7;30.0;46.4;31;Türkiye, Germany;1,75m;both;1.000.000,00 €;Jun 30, 2026;Right-Back;€600.000.00;0,00 €
+Mert Müldür;Fenerbahçe;Süper_Lig;41.7;30.0;76.6;;;;;;;;€2.000.000.00;0,00 €
+Kobe Franklin;Toronto_FC;MLS;40.9;37.6;35.9;21;Canada;1,73m;right;0,00 €;Dec 31, 2025;Right-Back;€79.190.00;0,00 €
+Brandon Bye;NE_Revolution;MLS;39.6;38.6;38.8;29;United States;1,80m;;2.500.000,00 €;Dec 31, 2025;Right-Back;€331.003.00;0,00 €
+Jhon Espinoza;Kasımpaşa;Süper_Lig;39.5;30.0;40.2;;;;;;;;€330.000.00;0,00 €
+Ismail Jakobs;Galatasaray;Süper_Lig;38.5;30.0;43.7;25;Senegal, Germany;1,84m;left;7.000.000,00 €;Jun 30, 2025;Left-Back;€3.500.000.00;0,00 €
+Lionel Carole;Kayserispor;Süper_Lig;38.2;30.0;67.9;34;France, Martinique;1,80m;left;0,00 €;Jun 30, 2025;Left-Back;€580.000.00;0,00 €
+Emre Taşdemir;Gaziantep_FK;Süper_Lig;38.2;30.0;36.1;29;Türkiye;1,76m;left;0,00 €;Jun 30, 2025;Left-Back;€300.000.00;0,00 €
+Jonas Svensson;Beşiktaş;Süper_Lig;37.4;30.0;78.0;;;;;;;;;
+Ömer Ali Şahiner;Başakşehir;Süper_Lig;36.6;30.0;42.0;33;Türkiye;1,75m;right;0,00 €;Jun 30, 2025;Right-Back;€330.000.00;0,00 €
+Bünyamin Balcı;Antalyaspor;Süper_Lig;36.0;30.0;56.2;24;Türkiye;1,73m;right;2.000.000,00 €;Jun 30, 2027;Right-Back;€500.000.00;0,00 €
+Bright Osayi-Samuel;Fenerbahçe;Süper_Lig;36.0;30.0;42.8;;;;;;;;€3.000.000.00;0,00 €
+Mustafa Eskihellaç;Gaziantep_FK;Süper_Lig;35.3;30.0;49.1;;;;;;;;;
+Kerim Alıcı;Hatayspor;Süper_Lig;33.8;30.0;38.1;27;Türkiye;1,83m;right;0,00 €;Jun 30, 2026;Right-Back;€250.000.00;0,00 €
+Ömürcan Artan;Gaziantep_FK;Süper_Lig;33.3;30.0;39.6;25;Türkiye;1,79m;right;0,00 €;Jun 30, 2027;Right-Back;€70.000.00;0,00 €
+Ege Bilsel;BB_Bodrumspor;Süper_Lig;33.3;30.0;53.9;21;Türkiye;1,75m;right;1.000.000,00 €;Jun 30, 2028;Right-Back;€100.000.00;0,00 €
+Jayden Oosterwolde;Fenerbahçe;Süper_Lig;32.7;30.0;36.3;;;;;;;;€1.330.000.00;0,00 €
+Mustafa Eskihellaç;Trabzonspor;Süper_Lig;32.5;30.0;43.0;28;Türkiye;1,75m;right;1.500.000,00 €;Jun 30, 2027;Left-Back;€550.000.00;0,00 €
+Elias Jelert;Galatasaray;Süper_Lig;31.9;30.0;35.4;21;Denmark;1,78m;right;7.500.000,00 €;Jun 30, 2029;Right-Back;€1.500.000.00;0,00 €
+Isaac Schmidt;Leeds_United;Championship;30.0;30.0;30.0;25;Switzerland, Nigeria;1,72m;right;2.200.000,00 €;Jun 30, 2028;Right-Back;€616.705.00;0,00 €
+Ryo Hatsuse;Sheffield_Wednesday;Championship;30.0;30.0;30.0;27;Japan;1,80m;both;0,00 €;-;Left-Back;;
+Danilo Veiga;Lecce;Serie_A;30.0;30.0;30.0;22;Portugal, Brazil;1,83m;right;1.000.000,00 €;Jun 30, 2027;Right-Back;€460.000.00;0,00 €
+Daniel Oyegoke;Hellas_Verona;Serie_A;30.0;30.0;30.0;22;England, Nigeria;1,88m;right;0,00 €;Jun 30, 2028;Right-Back;€260.000.00;0,00 €
+Matty Jacob;Hull_City;Championship;30.0;30.0;30.0;23;England;1,80m;left;0,00 €;Jun 30, 2027;Left-Back;€215.847.00;0,00 €
+Davide Faraoni;Hellas_Verona;Serie_A;30.0;30.0;30.0;33;Italy;1,80m;right;1.000.000,00 €;Jun 30, 2025;Right-Back;€930.000.00;0,00 €
+Curtis Ofori;NY_Red_Bulls;MLS;30.0;30.0;30.0;19;Ghana, United States;1,78m;left;0,00 €;Dec 31, 2025;Left-Back;€79.190.00;0,00 €
+Tyronne Ebuehi;Empoli;Serie_A;30.0;30.0;30.0;29;Nigeria, Netherlands;1,87m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;€640.000.00;0,00 €
+David Schnegg;D.C_United;MLS;30.0;30.0;30.0;26;Austria;1,85m;left;1.500.000,00 €;Dec 31, 2026;Left-Back;€353.070.00;0,00 €
+Harry Clarke;Sheffield_United;Championship;30.0;30.0;30.0;24;England;1,80m;right;5.000.000,00 €;May 31, 2025;Right-Back;€616.705.00;0,00 €
+Jamie Shackleton;Sheffield_United;Championship;30.0;30.0;30.0;25;England;1,68m;right;1.500.000,00 €;Jun 30, 2027;Right-Back;€462.528.00;0,00 €
+Conner Antley;D.C_United;MLS;30.0;30.0;30.0;30;United States;1,85m;;0,00 €;Dec 31, 2025;Right-Back;€79.190.00;0,00 €
+Henry Wingo;Toronto_FC;MLS;30.0;30.0;30.0;29;United States;1,83m;right;0,00 €;Dec 31, 2026;Right-Back;€397.204.00;0,00 €
+Rhys Norrington-Davies;Sheffield_United;Championship;30.0;30.0;30.0;26;Wales, Saudi Arabia;1,81m;left;2.500.000,00 €;Jun 30, 2027;Left-Back;€1.541.762.00;0,00 €
+Martin Frese;Hellas_Verona;Serie_A;30.0;30.0;30.0;27;Denmark;1,79m;left;2.000.000,00 €;Jun 30, 2027;Left-Back;€520.000.00;0,00 €
+Zak Sturge;Millwall;Championship;30.0;30.0;30.0;20;England, Guyana;1,88m;left;0,00 €;May 31, 2025;Left-Back;€308.352.00;0,00 €
+Cyrus Christie;Swansea_City;Championship;30.0;30.0;30.0;32;Ireland, England;1,88m;right;0,00 €;Jun 30, 2025;Right-Back;€462.528.00;0,00 €
+Nathan Tjoe-A-On;Swansea_City;Championship;30.0;30.0;30.0;23;Indonesia, Netherlands;1,82m;left;0,00 €;Jun 30, 2026;Left-Back;€123.341.00;0,00 €
+Kristian Pedersen;Swansea_City;Championship;30.0;30.0;30.0;30;Denmark;1,89m;left;0,00 €;Jun 30, 2025;Left-Back;€1.110.068.00;0,00 €
+Jamar Ricketts;SJ_Earthquakes;MLS;30.0;30.0;30.0;23;United States;1,75m;left;0,00 €;Dec 31, 2025;Left-Back;€63.024.00;0,00 €
+Junior Sambia;Empoli;Serie_A;30.0;30.0;30.0;28;France, Central African Republic;1,85m;right;1.400.000,00 €;Jun 30, 2025;Right-Back;€1.920.000.00;0,00 €
+Marco Sala;Lecce;Serie_A;30.0;30.0;30.0;25;Italy;1,82m;left;1.000.000,00 €;Jun 30, 2025;Left-Back;€280.000.00;0,00 €
+Dawid Bugaj;CF_Montréal;MLS;30.0;30.0;30.0;20;Poland, Norway;1,85m;right;0,00 €;Dec 31, 2026;Right-Back;€211.842.00;0,00 €
+Calum Scanlon;Millwall;Championship;30.0;30.0;30.0;20;England;-;;0,00 €;May 31, 2025;Left-Back;€92.506.00;0,00 €
+Michael Halliday;Orlando_City;MLS;30.0;30.0;30.0;;;;;;;;;
+Alessandro Florenzi;Milan;Serie_A;30.0;30.0;30.0;34;Italy;1,73m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;€5.560.000.00;0,00 €
+Drew Baiera;New_York_City_FC;MLS;30.0;30.0;30.0;18;United States, Italy;1,75m;;0,00 €;Dec 31, 2027;Right-Back;€63.024.00;0,00 €
+Mërgim Vojvoda;Como;Serie_A;30.0;30.0;30.0;30;Kosovo, Albania;1,87m;right;3.000.000,00 €;Jun 30, 2028;Right-Back;€1.390.000.00;0,00 €
+Marco Sala;Como;Serie_A;30.0;30.0;30.0;;;;;;;;;
+Devyne Rensch;Roma;Serie_A;30.0;30.0;30.0;22;Netherlands, Suriname;1,81m;right;12.000.000,00 €;Jun 30, 2029;Right-Back;€2.220.000.00;0,00 €
+Logan Ndenbe;Sporting_KC;MLS;30.0;30.0;30.0;25;Belgium;1,74m;left;1.200.000,00 €;Dec 31, 2025;Left-Back;€353.070.00;0,00 €
+Josh Wilson-Esbrand;Stoke_City;Championship;30.0;30.0;30.0;22;England, Jamaica;1,76m;left;4.000.000,00 €;May 31, 2025;Left-Back;€431.693.00;0,00 €
+Saud Abdulhamid;Roma;Serie_A;30.0;30.0;30.0;25;Saudi Arabia;1,75m;right;4.000.000,00 €;Jun 30, 2028;Right-Back;€1.850.000.00;0,00 €
+Luca Petrasso;Orlando_City;MLS;30.0;30.0;30.0;;;;;;;;;
+Ryan Giles;Middlesbrough;Championship;30.0;30.0;30.0;25;England;1,83m;left;4.500.000,00 €;May 31, 2025;Left-Back;€2.158.466.00;0,00 €
+Oliver Sonne;Burnley;Championship;30.0;30.0;30.0;24;Peru, Denmark;1,84m;right;3.000.000,00 €;Jun 30, 2029;Right-Back;€524.199.00;0,00 €
+Shurandy Sambo;Burnley;Championship;30.0;30.0;30.0;23;Netherlands, Curacao;1,74m;right;2.000.000,00 €;Jun 30, 2028;Left-Back;€370.023.00;0,00 €
+Gianluca Frabotta;West_Bromwich_Albion;Championship;30.0;30.0;30.0;25;Italy;1,87m;left;1.200.000,00 €;Jun 30, 2027;Left-Back;€1.233.409.00;0,00 €
+Chase Gasper;Chicago_Fire;MLS;30.0;30.0;30.0;29;United States;1,83m;left;0,00 €;Dec 31, 2025;Left-Back;€441.338.00;0,00 €
+Davide Calabria;Milan;Serie_A;30.0;30.0;30.0;;;;;;;;€1.850.000.00;0,00 €
+Harvey Broad;Coventry_City;Championship;30.0;30.0;30.0;19;England;-;;0,00 €;-;Left-Back;€61.670.00;0,00 €
+Mathias Løvik;Parma;Serie_A;30.0;30.0;30.0;21;Norway;1,83m;left;5.000.000,00 €;Jun 30, 2029;Left-Back;;
+Omar Valencia;NY_Red_Bulls;MLS;30.0;30.0;30.0;20;Panama;1,80m;;0,00 €;Dec 31, 2027;Left-Back;€0.00;0,00 €
+Anass Salah-Eddine;Roma;Serie_A;30.0;30.0;30.0;23;Netherlands, Morocco;1,81m;left;8.000.000,00 €;Jun 30, 2028;Left-Back;€930.000.00;0,00 €
+Cohen Bramall;Portsmouth;Championship;30.0;30.0;30.0;29;England;1,78m;left;0,00 €;Jun 30, 2025;Left-Back;€308.352.00;0,00 €
+Jacob Farrell;Portsmouth;Championship;30.0;30.0;30.0;22;Australia;1,80m;left;0,00 €;Jun 30, 2028;Left-Back;€215.847.00;0,00 €
+Justin Reynolds;Chicago_Fire;MLS;30.0;30.0;30.0;20;United States;1,78m;right;0,00 €;Dec 31, 2026;Right-Back;€63.024.00;0,00 €
+Cristiano Biraghi;Fiorentina;Serie_A;30.0;30.0;30.0;;;;;;;;;
+Kacper Pasiek;Preston_North_End;Championship;30.0;30.0;30.0;19;Poland;-;left;0,00 €;Jun 30, 2025;Left-Back;;
+Jamilu Collins;Cardiff_City;Championship;30.0;30.0;30.0;30;Nigeria;1,83m;left;0,00 €;Jun 30, 2025;Left-Back;€616.705.00;0,00 €
+Vernon Addo;Lecce;Serie_A;30.0;30.0;30.0;19;Netherlands, Ghana;1,88m;left;0,00 €;Jun 30, 2027;Left-Back;€130.000.00;0,00 €
+Cristian Gamboa;Bochum;Bundesliga;30.0;30.0;30.0;35;Costa Rica;1,75m;right;0,00 €;Jun 30, 2025;Right-Back;€600.000.00;0,00 €
+Joel Ward;Crystal_Palace;EPL;30.0;30.0;30.0;35;England;1,86m;right;0,00 €;Jun 30, 2025;Right-Back;;
+Tom Pearce;CF_Montréal;MLS;30.0;30.0;30.0;27;England;1,85m;left;0,00 €;Dec 31, 2026;Left-Back;€397.204.00;0,00 €
+Jonathan Mutombo;Gil_Vicente_FC;Primeira_Liga;30.0;30.0;30.0;22;France, DR Congo;1,90m;right;0,00 €;Jun 30, 2027;Right-Back;€90.000.00;0,00 €
+Osman Kakay;Boavista;Primeira_Liga;30.0;30.0;30.0;27;Sierra Leone, England;1,80m;right;0,00 €;Jun 30, 2025;Right-Back;;
+João Aurélio;Nacional;Primeira_Liga;30.0;30.0;30.0;36;Portugal;1,82m;right;0,00 €;Jun 30, 2025;Right-Back;€120.000.00;0,00 €
+Andy Pelmard;Las_Palmas;La_Liga;30.0;30.0;30.0;25;France, Guadeloupe;1,80m;right;2.500.000,00 €;Jun 30, 2025;Right-Back;€520.000.00;0,00 €
+Mateu Morey;Mallorca;La_Liga;30.0;30.0;30.0;25;Spain;1,73m;right;0,00 €;Jun 30, 2025;Right-Back;;
+Toni Lato;Mallorca;La_Liga;30.0;30.0;30.0;27;Spain;1,71m;left;2.000.000,00 €;Jun 30, 2027;Left-Back;€1.500.000.00;0,00 €
+Eric Veiga;AVS_Futebol;Primeira_Liga;30.0;30.0;30.0;28;Luxembourg, Portugal;1,83m;left;0,00 €;Jun 30, 2025;Left-Back;€90.000.00;0,00 €
+Gonçalo Costa;Estoril;Primeira_Liga;30.0;30.0;30.0;25;Portugal;1,79m;left;0,00 €;Jun 30, 2028;Left-Back;€280.000.00;0,00 €
+Leonardo Buta;Moreirense;Primeira_Liga;30.0;30.0;30.0;22;Portugal, Angola;1,82m;left;2.500.000,00 €;Jun 30, 2026;Left-Back;€580.000.00;0,00 €
+Álvaro Odriozola;Real_Sociedad;La_Liga;30.0;30.0;30.0;29;Spain;1,76m;right;1.200.000,00 €;Jun 30, 2029;Right-Back;€2.700.000.00;0,00 €
+João Mário;Benfica;Primeira_Liga;30.0;30.0;30.0;;;;;;;;;
+Leandro Santos;Benfica;Primeira_Liga;30.0;30.0;30.0;19;Portugal;1,81m;right;1.000.000,00 €;-;Right-Back;€250.000.00;0,00 €
+Samuel Dahl;Benfica;Primeira_Liga;30.0;30.0;30.0;22;Sweden;1,74m;left;7.000.000,00 €;Jun 30, 2025;Left-Back;€1.920.000.00;0,00 €
+Rivaldo;Farense;Primeira_Liga;30.0;30.0;30.0;24;Cape Verde, Portugal;1,84m;right;0,00 €;Jun 30, 2025;Right-Back;€90.000.00;0,00 €
+Hugo Novoa;Alaves;La_Liga;30.0;30.0;30.0;22;Spain;1,82m;right;2.000.000,00 €;Jun 30, 2029;Right-Back;€350.000.00;0,00 €
+Layvin Kurzawa;Boavista;Primeira_Liga;30.0;30.0;30.0;32;France, Guadeloupe;1,82m;left;1.500.000,00 €;Jun 30, 2025;Left-Back;;
+Tomás Silva;Boavista;Primeira_Liga;30.0;30.0;30.0;18;Portugal;1,75m;left;0,00 €;Jun 30, 2026;Left-Back;€90.000.00;0,00 €
+Séamus Coleman;Everton;EPL;30.0;30.0;30.0;36;Ireland;1,77m;right;0,00 €;Jun 30, 2025;Right-Back;€3.391.876.00;0,00 €
+Nathan Patterson;Everton;EPL;30.0;30.0;30.0;23;Scotland;1,89m;right;15.000.000,00 €;Jun 30, 2027;Right-Back;€1.726.773.00;0,00 €
+Pedro Bondo;Famalicão;Primeira_Liga;30.0;30.0;30.0;20;Angola;1,72m;left;0,00 €;Jun 30, 2029;Left-Back;€70.000.00;0,00 €
+Luke Shaw;Manchester_United;EPL;30.0;30.0;30.0;29;England;1,78m;left;16.000.000,00 €;Jun 30, 2027;Left-Back;;
+Harry Amass;Manchester_United;EPL;30.0;30.0;30.0;18;England;1,81m;left;0,00 €;Jun 30, 2027;Left-Back;;
+Niklas Vesterlund;Utrecht;Eredivisie;30.0;30.0;30.0;25;Denmark;1,85m;right;1.000.000,00 €;Jun 30, 2027;Right-Back;€350.000.00;0,00 €
+Kolbeinn Finnsson;Utrecht;Eredivisie;30.0;30.0;30.0;25;Iceland;1,81m;left;0,00 €;Jun 30, 2027;Left-Back;€300.000.00;0,00 €
+Takehiro Tomiyasu;Arsenal;EPL;30.0;30.0;30.0;26;Japan;1,88m;right;25.000.000,00 €;Jun 30, 2026;Right-Back;€6.167.047.00;0,00 €
+Sherel Floranus;Almere_City;Eredivisie;30.0;30.0;30.0;;;;;;;;;
+Damil Dankerlui;Almere_City;Eredivisie;30.0;30.0;30.0;28;Suriname, Netherlands;1,72m;right;0,00 €;Jun 30, 2025;Right-Back;€300.000.00;0,00 €
+Kieran Tierney;Arsenal;EPL;30.0;30.0;30.0;27;Scotland, Isle of Man;1,80m;left;10.000.000,00 €;Jun 30, 2025;Left-Back;€6.783.751.00;0,00 €
+Oleksandr Zinchenko;Arsenal;EPL;30.0;30.0;30.0;28;Ukraine;1,75m;left;22.000.000,00 €;Jun 30, 2026;Left-Back;€9.250.570.00;0,00 €
+Mees de Wit;AZ_Alkmaar;Eredivisie;30.0;30.0;30.0;27;Netherlands;1,81m;left;2.300.000,00 €;Jun 30, 2027;Left-Back;€180.000.00;0,00 €
+Elijah Dijkstra;AZ_Alkmaar;Eredivisie;30.0;30.0;30.0;18;Netherlands;1,72m;right;0,00 €;Jun 30, 2029;Right-Back;;
+Daley Sinkgraven;Fortuna_Sittard;Eredivisie;30.0;30.0;30.0;29;Netherlands;1,79m;left;0,00 €;Jun 30, 2026;Left-Back;€600.000.00;0,00 €
+Dani Morer;Moreirense;Primeira_Liga;30.0;30.0;30.0;27;Spain, Colombia;1,70m;right;0,00 €;Jun 30, 2025;Right-Back;€120.000.00;0,00 €
+Euri Carvalho;Estrela;Primeira_Liga;30.0;30.0;30.0;21;Portugal, Angola;1,85m;right;0,00 €;Jun 30, 2025;Right-Back;€60.000.00;0,00 €
+Buba Sangaré;Roma;Serie_A;30.0;30.0;30.0;17;Spain, Mali;1,83m;right;1.000.000,00 €;Jun 30, 2027;Right-Back;€280.000.00;0,00 €
+Christopher Lenz;Hoffenheim;Bundesliga;30.0;30.0;30.0;30;Germany;1,80m;left;0,00 €;-;Left-Back;€940.000.00;0,00 €
+Timothy Chandler;Eintracht_Frankfurt;Bundesliga;30.0;30.0;30.0;35;United States, Germany;1,87m;right;0,00 €;Jun 30, 2025;Right-Back;€950.000.00;0,00 €
+Oualid El Hajjam;Le_Havre;Ligue_1;30.0;30.0;30.0;34;Morocco, France;1,81m;right;0,00 €;Jun 30, 2026;Right-Back;€320.000.00;0,00 €
+Fodé Ballo-Touré;Le_Havre;Ligue_1;30.0;30.0;30.0;28;Senegal, France;1,82m;left;1.500.000,00 €;Jun 30, 2025;Left-Back;€1.280.000.00;0,00 €
+Mads Roerslev;Wolfsburg;Bundesliga;30.0;30.0;30.0;25;Denmark;1,84m;right;8.000.000,00 €;Jun 30, 2025;Right-Back;;
+Thomas Delaine;Strasbourg;Ligue_1;30.0;30.0;30.0;33;France;1,80m;left;0,00 €;Jun 30, 2025;Left-Back;€520.000.00;0,00 €
+Eduard Sobol;Strasbourg;Ligue_1;30.0;30.0;30.0;30;Ukraine;1,86m;left;1.200.000,00 €;Jun 30, 2026;Left-Back;€720.000.00;0,00 €
+Silvan Widmer;Mainz_05;Bundesliga;30.0;30.0;30.0;32;Switzerland;1,83m;right;1.500.000,00 €;Jun 30, 2026;Right-Back;€1.890.000.00;0,00 €
+Ricardo Esgaio;Sporting_CP;Primeira_Liga;30.0;30.0;30.0;31;Portugal;1,72m;right;2.000.000,00 €;Jun 30, 2026;Right-Back;€900.000.00;0,00 €
+Nikolas Veratschnig;Mainz_05;Bundesliga;30.0;30.0;30.0;22;Austria;1,80m;right;0,00 €;Jun 30, 2028;Right-Back;€280.000.00;0,00 €
+Issa Kaboré;Werder_Bremen;Bundesliga;30.0;30.0;30.0;23;Burkina Faso;1,80m;right;6.000.000,00 €;Jun 30, 2025;Right-Back;;
+Mads Pedersen;Augsburg;Bundesliga;30.0;30.0;30.0;28;Denmark;1,78m;left;2.500.000,00 €;Jun 30, 2027;Left-Back;€800.000.00;0,00 €
+Robert Gumny;Augsburg;Bundesliga;30.0;30.0;30.0;26;Poland;1,82m;right;2.000.000,00 €;Jun 30, 2025;Right-Back;€250.000.00;0,00 €
+Jordy Makengo;Freiburg;Bundesliga;30.0;30.0;30.0;23;France, DR Congo;1,91m;left;3.000.000,00 €;-;Left-Back;€220.000.00;0,00 €
+Almugera Kabar;Dortmund;Bundesliga;30.0;30.0;30.0;18;Germany, Libya;1,86m;left;1.000.000,00 €;Jun 30, 2028;Left-Back;€280.000.00;0,00 €
+Niels Nkounkou;Eintracht_Frankfurt;Bundesliga;30.0;30.0;30.0;24;France, Congo;1,80m;left;5.000.000,00 €;Jun 30, 2028;Left-Back;€700.000.00;0,00 €
+John Tolkin;Holstein_Kiel;Bundesliga;30.0;30.0;30.0;22;United States;1,70m;left;3.000.000,00 €;-;Left-Back;€850.000.00;0,00 €
+Jérôme Roussillon;Union_Berlin;Bundesliga;30.0;30.0;30.0;32;Guadeloupe, France;1,75m;left;1.200.000,00 €;-;Left-Back;€1.500.000.00;0,00 €
+Pascal Stenzel;Stuttgart;Bundesliga;30.0;30.0;30.0;29;Germany;1,83m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€940.000.00;0,00 €
+Lucas Mincarelli;Montpellier;Ligue_1;30.0;30.0;30.0;21;France;1,79m;left;0,00 €;Jun 30, 2027;Left-Back;€180.000.00;0,00 €
+Kassoum Ouattara;Monaco;Ligue_1;30.0;30.0;30.0;20;France, Cote d'Ivoire;1,76m;left;8.000.000,00 €;Jun 30, 2028;Left-Back;€400.000.00;0,00 €
+Jordan Teze;Monaco;Ligue_1;30.0;30.0;30.0;25;Netherlands, Congo;1,83m;right;12.000.000,00 €;Jun 30, 2029;Right-Back;€1.950.000.00;0,00 €
+Justin Bourgault;Brest;Ligue_1;30.0;30.0;30.0;19;France;1,85m;left;0,00 €;Jun 30, 2029;Left-Back;€90.000.00;0,00 €
+Juan Bernat;Villareal;La_Liga;30.0;30.0;30.0;;;;;;;;;
+Fabien Centonze;Nantes;Ligue_1;30.0;30.0;30.0;29;France;1,82m;right;2.000.000,00 €;Jun 30, 2027;Right-Back;€940.000.00;0,00 €
+Alfonso Pedraza;Villareal;La_Liga;30.0;30.0;30.0;29;Spain;1,84m;left;2.500.000,00 €;Jun 30, 2026;Left-Back;;
+Yoram Zague;Paris_Saint_Germain;Ligue_1;30.0;30.0;30.0;18;France, Cote d'Ivoire;1,68m;right;2.500.000,00 €;Jun 30, 2028;Right-Back;€540.000.00;0,00 €
+Mahamadou Nagida;Rennes;Ligue_1;30.0;30.0;30.0;19;Cameroon;1,76m;left;1.000.000,00 €;Jun 30, 2028;Left-Back;€120.000.00;0,00 €
+Héctor Fort;Barcelona;La_Liga;30.0;30.0;30.0;18;Spain;1,85m;right;10.000.000,00 €;Jun 30, 2026;Right-Back;€840.000.00;0,00 €
+Tiago Dias;Casa_Pia;Primeira_Liga;30.0;30.0;30.0;27;Portugal;1,75m;left;0,00 €;Jun 30, 2025;Left-Back;€120.000.00;0,00 €
+Max Aarons;Valencia;La_Liga;30.0;30.0;30.0;25;England, Jamaica;1,77m;right;12.000.000,00 €;Jun 30, 2025;Right-Back;€1.250.000.00;0,00 €
+Nuno Santos;Sporting_CP;Primeira_Liga;30.0;30.0;30.0;30;Portugal;1,77m;left;9.000.000,00 €;Jun 30, 2027;Left-Back;€1.000.000.00;60.000.000,00 €
+Harry Toffolo;Nottingham_Forest;EPL;30.0;30.0;30.0;29;England, Italy;1,83m;left;4.000.000,00 €;Jun 30, 2025;Left-Back;;
+Bart van Rooij;NEC_Nijmegen;Eredivisie;30.0;30.0;30.0;;;;;;;;;
+D'Leanu Arts;NEC_Nijmegen;Eredivisie;30.0;30.0;30.0;21;Netherlands;1,83m;right;0,00 €;-;Right-Back;€60.000.00;0,00 €
+Nathaniel Clyne;Crystal_Palace;EPL;30.0;30.0;30.0;34;England, Grenada;1,75m;right;1.500.000,00 €;Jun 30, 2025;Right-Back;;
+Mikkel Desler;Austin;MLS;30.0;30.0;30.0;30;Denmark;1,84m;right;2.000.000,00 €;Dec 31, 2027;Right-Back;€441.338.00;0,00 €
+Ziya Erdal;Sivasspor;Süper_Lig;30.0;30.0;30.0;37;Türkiye;1,82m;left;0,00 €;Jun 30, 2025;Left-Back;€100.000.00;0,00 €
+Alaaddin Okumuş;Sivasspor;Süper_Lig;30.0;30.0;30.0;29;Türkiye;1,75m;right;0,00 €;Jun 30, 2026;Right-Back;€150.000.00;0,00 €
+Julio Soler;Bournemouth;EPL;30.0;30.0;30.0;20;Argentina, Paraguay;1,75m;left;8.000.000,00 €;-;Left-Back;€925.057.00;0,00 €
+Batuhan Yavuz;Alanyaspor;Süper_Lig;30.0;30.0;30.0;20;Türkiye, Germany;1,77m;right;0,00 €;Jun 30, 2029;Right-Back;€120.000.00;0,00 €
+Pedro Lima;Wolverhampton_Wanderers;EPL;30.0;30.0;30.0;18;Brazil;1,74m;right;5.000.000,00 €;Jun 30, 2029;Right-Back;€925.057.00;0,00 €
+Yücel Gürol;Adana_Demirspor;Süper_Lig;30.0;30.0;30.0;19;Türkiye;-;left;0,00 €;Jun 30, 2025;Left-Back;;
+Yousri Sbai;NEC_Nijmegen;Eredivisie;30.0;30.0;30.0;20;Netherlands, Morocco;-;right;0,00 €;Jun 30, 2026;Right-Back;;
+Eray Korkmaz;Rizespor;Süper_Lig;30.0;30.0;30.0;21;Türkiye;1,82m;right;0,00 €;Jun 30, 2026;Right-Back;€150.000.00;0,00 €
+Arif Boşluk;Trabzonspor;Süper_Lig;30.0;30.0;30.0;21;Türkiye;1,84m;left;0,00 €;Jun 30, 2028;Left-Back;€420.000.00;0,00 €
+Ben Chilwell;Crystal_Palace;EPL;30.0;30.0;30.0;28;England, New Zealand;1,80m;left;18.000.000,00 €;May 31, 2025;Left-Back;;
+Festy Ebosele;Başakşehir;Süper_Lig;30.0;30.0;30.0;22;Ireland, Nigeria;1,80m;right;5.500.000,00 €;Jun 30, 2028;Right-Back;€580.000.00;0,00 €
+Christopher Operi;Başakşehir;Süper_Lig;30.0;30.0;30.0;28;Cote d'Ivoire, France;1,83m;left;4.000.000,00 €;Jun 30, 2027;Left-Back;€1.000.000.00;0,00 €
+Soner Gönül;Samsunspor;Süper_Lig;30.0;30.0;30.0;27;Türkiye;1,77m;left;0,00 €;Jun 30, 2025;Left-Back;€220.000.00;0,00 €
+Jonas Rouhi;Juventus;Serie_A;30.0;30.0;30.0;21;Sweden, Morocco;1,83m;left;2.000.000,00 €;Jun 30, 2028;Left-Back;€370.000.00;0,00 €
+DeJuan Jones;Columbus_Crew;MLS;30.0;30.0;30.0;;;;;;;;;
+Nick Scardina;Charlotte;MLS;30.0;30.0;30.0;23;United States;1,80m;right;0,00 €;Dec 31, 2025;Right-Back;€63.024.00;0,00 €
+Jahlane Forbes;Charlotte;MLS;30.0;30.0;30.0;23;United States;1,83m;left;0,00 €;Dec 31, 2025;Left-Back;€63.024.00;0,00 €
+Elseid Hysaj;Lazio;Serie_A;30.0;30.0;30.0;31;Albania;1,82m;right;2.000.000,00 €;Jun 30, 2026;Right-Back;€5.190.000.00;0,00 €
+Julian Gaines;Nashville_SC;MLS;30.0;30.0;30.0;22;United States;1,78m;;0,00 €;Dec 31, 2025;Right-Back;€63.024.00;0,00 €
+Derek Dodson;Minnesota_Utd;MLS;30.0;30.0;30.0;;;;;;;;;
+Brad Smith;Houston_Dynamo;MLS;30.0;30.0;30.0;;;;;;;;;
+Matthew Edwards;Atlanta_Utd;MLS;30.0;30.0;30.0;22;United States;1,78m;;0,00 €;Dec 31, 2025;Right-Back;€63.024.00;0,00 €
+Mauricio Cuevas;LA_Galaxy;MLS;30.0;30.0;30.0;22;United States, Mexico;1,70m;right;0,00 €;Dec 31, 2025;Right-Back;€110.334.00;0,00 €
+Jackson Travis;Colorado_Rapids;MLS;30.0;30.0;30.0;21;United States;1,72m;left;0,00 €;Dec 31, 2025;Left-Back;€79.190.00;0,00 €
+Reggie Cannon;Colorado_Rapids;MLS;30.0;30.0;30.0;26;United States;1,80m;right;1.500.000,00 €;Dec 31, 2027;Right-Back;€662.006.00;0,00 €
+Honest Ahanor;Genoa;Serie_A;30.0;30.0;30.0;17;Italy, Nigeria;1,84m;left;3.000.000,00 €;Jun 30, 2027;Left-Back;€190.000.00;0,00 €
+Tyson Pearce;St_Louis;MLS;30.0;30.0;30.0;17;United States;-;;0,00 €;Dec 31, 2027;Right-Back;€63.024.00;0,00 €
+Brooke Norton-Cuffy;Genoa;Serie_A;30.0;30.0;30.0;21;England, Dominica;1,81m;right;3.500.000,00 €;Jun 30, 2029;Right-Back;€930.000.00;0,00 €
+DeAndre Yedlin;Inter_Miami;MLS;30.0;30.0;30.0;;;;;;;;;
+Israel Boatwright;Inter_Miami;MLS;30.0;30.0;30.0;19;Dominican Republic, United States;1,80m;right;0,00 €;Dec 31, 2026;Right-Back;€63.024.00;0,00 €
+Caleb Kporha;Crystal_Palace;EPL;30.0;30.0;30.0;18;England, Ghana;-;right;1.000.000,00 €;Jun 30, 2029;Right-Back;;
+Abdurrahim Dursun;Antalyaspor;Süper_Lig;30.0;30.0;30.0;26;Türkiye;1,76m;left;0,00 €;Jun 30, 2026;Left-Back;€250.000.00;0,00 €
+Andrés García;Aston_Villa;EPL;30.0;30.0;30.0;22;Spain;1,85m;right;7.000.000,00 €;-;Right-Back;;
+Hussein Ali;Heerenveen;Eredivisie;30.0;30.0;30.0;23;Iraq, Sweden;1,80m;right;0,00 €;Jun 30, 2025;Right-Back;€190.000.00;0,00 €
+Sergio Reguilón;Tottenham_Hotspur;EPL;30.0;30.0;30.0;28;Spain;1,78m;left;8.000.000,00 €;Jun 30, 2025;Left-Back;€3.268.535.00;0,00 €
+Lorenzo Milani;Heracles_Almelo;Eredivisie;30.0;30.0;30.0;23;Italy;1,78m;left;0,00 €;Jun 30, 2028;Left-Back;€180.000.00;0,00 €
+Kelvin Leerdam;Heracles_Almelo;Eredivisie;30.0;30.0;30.0;34;Suriname, Netherlands;1,78m;right;0,00 €;Jun 30, 2025;Right-Back;€240.000.00;0,00 €
+Gerald Alders;Twente;Eredivisie;30.0;30.0;30.0;19;Netherlands, Namibia;1,79m;right;0,00 €;Jun 30, 2025;Right-Back;€90.000.00;0,00 €
+Mats Rots;Twente;Eredivisie;30.0;30.0;30.0;;;;;;;;;
+Jordan Lotomba;Feyenoord;Eredivisie;30.0;30.0;30.0;26;Switzerland, DR Congo;1,77m;right;8.000.000,00 €;Jun 30, 2027;Right-Back;€1.180.000.00;0,00 €
+Bart Nieuwkoop;Feyenoord;Eredivisie;30.0;30.0;30.0;29;Netherlands;1,81m;right;3.000.000,00 €;Jun 30, 2027;Right-Back;€580.000.00;0,00 €
+Tyrell Malacia;PSV_Eindhoven;Eredivisie;30.0;30.0;30.0;25;Netherlands, Curacao;1,69m;left;12.000.000,00 €;Jun 30, 2025;Left-Back;€2.350.000.00;0,00 €
+Sergiño Dest;PSV_Eindhoven;Eredivisie;30.0;30.0;30.0;24;United States, Netherlands;1,73m;right;18.000.000,00 €;Jun 30, 2028;Right-Back;€3.920.000.00;0,00 €
+Rico Henry;Brentford;EPL;30.0;30.0;30.0;27;England, Jamaica;1,70m;left;17.000.000,00 €;Jun 30, 2026;Left-Back;€2.158.466.00;0,00 €
+Michael Kayode;Brentford;EPL;30.0;30.0;30.0;20;Italy, Nigeria;1,79m;right;18.000.000,00 €;Jun 30, 2025;Right-Back;€1.850.114.00;0,00 €
+Woyo Coulibaly;Leicester_City;EPL;30.0;30.0;30.0;25;France, Mali;1,82m;both;2.000.000,00 €;Jun 30, 2029;Right-Back;€925.057.00;0,00 €
+Ricardo Pereira;Leicester_City;EPL;30.0;30.0;30.0;31;Portugal, Cape Verde;1,75m;right;5.000.000,00 €;Jun 30, 2026;Right-Back;€4.933.637.00;0,00 €
+Mike Kleijn;Sparta_R'dam;Eredivisie;30.0;30.0;30.0;20;Netherlands;1,75m;left;0,00 €;Jun 30, 2028;Left-Back;€90.000.00;0,00 €
+Thierry Lutonda;Zwolle;Eredivisie;30.0;30.0;30.0;24;Belgium, DR Congo;1,67m;left;0,00 €;Jun 30, 2026;Left-Back;€240.000.00;0,00 €
+Erdem Gökçe;Eyüpspor;Süper_Lig;30.0;30.0;30.0;;;;;;;;;
+Tristan Gooijer;Zwolle;Eredivisie;30.0;30.0;30.0;20;Netherlands;1,85m;right;2.000.000,00 €;Jun 30, 2025;Right-Back;€300.000.00;0,00 €
+Charlie Taylor;Southampton;EPL;30.0;30.0;30.0;31;England;1,83m;left;2.800.000,00 €;Jun 30, 2026;Left-Back;€1.850.114.00;0,00 €
+Welington;Southampton;EPL;30.0;30.0;30.0;24;Brazil;1,70m;left;3.500.000,00 €;-;Left-Back;€925.057.00;0,00 €
+Owen Wijndal;Ajax;Eredivisie;30.0;30.0;30.0;25;Netherlands, Suriname;1,76m;left;4.000.000,00 €;Jun 30, 2027;Left-Back;€1.440.000.00;0,00 €
+Gerald Alders;Ajax;Eredivisie;30.0;30.0;30.0;;;;;;;;;
+Luca Everink;Go_Ahead_Eag;Eredivisie;30.0;30.0;30.0;24;Netherlands;1,79m;right;0,00 €;Jun 30, 2026;Right-Back;€90.000.00;0,00 €
+Abdurrahman Üresin;Konyaspor;Süper_Lig;30.0;30.0;30.0;21;Türkiye;1,78m;right;0,00 €;Jun 30, 2028;Right-Back;€150.000.00;0,00 €
+Matt Targett;Newcastle_United;EPL;30.0;30.0;30.0;29;England, Scotland;1,83m;left;8.000.000,00 €;Jun 30, 2026;Left-Back;€6.167.047.00;0,00 €
+Onur Bulut;Beşiktaş;Süper_Lig;30.0;30.0;30.0;;;;;;;;;
+Arda Berk Özüarap;Beşiktaş;Süper_Lig;30.0;30.0;30.0;;;;;;;;;
+Emil Krafth;Newcastle_United;EPL;30.0;30.0;30.0;30;Sweden;1,84m;right;2.500.000,00 €;Jun 30, 2026;Right-Back;€3.391.876.00;0,00 €
+Anthony Uzodimma;Kayserispor;Süper_Lig;30.0;30.0;30.0;26;Nigeria;1,76m;right;0,00 €;Jun 30, 2025;Right-Back;€300.000.00;0,00 €
+Ryan Sessegnon;Fulham;EPL;30.0;30.0;30.0;24;England;1,78m;left;9.000.000,00 €;Jun 30, 2026;Left-Back;€2.775.171.00;0,00 €
+Conor Townsend;Ipswich_Town;EPL;30.0;30.0;30.0;32;England;1,83m;left;1.200.000,00 €;Jun 30, 2026;Left-Back;;
+Leo Fuhr Hjelde;Sunderland;Championship;30.0;30.0;30.0;21;Norway, England;1,90m;left;1.500.000,00 €;Jun 30, 2028;Left-Back;€308.352.00;0,00 €

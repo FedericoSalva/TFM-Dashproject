@@ -1,0 +1,696 @@
+Player,Team,League,Key_Passer,Creative_Winger,Age,Nationality,Height,Foot,Market Value,Contract Until,Position,Annual Salary,Release Clause
+Lamine Yamal,Barcelona,La_Liga,99.0,97.7,17,"Spain, Equatorial Guinea","1,80m",left,€180.000.000,"Jun 30, 2026",Right Winger,€1.670.000.00,€1.000.000.000
+Junya Ito,Reims,Ligue_1,99.0,81.8,32,Japan,"1,76m",right,€8.000.000,"Jun 30, 2026",Right Winger,€1.200.000.00,€0
+Michael Olise,Bayern_Munich,Bundesliga,97.7,99.0,23,"France, England","1,84m",left,€80.000.000,"Jun 30, 2029",Right Winger,€13.500.000.00,€0
+Raphinha,Barcelona,La_Liga,97.6,91.9,28,"Brazil, Italy","1,76m",left,€80.000.000,"Jun 30, 2027",Left Winger,€12.500.000.00,€1.000.000.000
+Mohamed Salah,Liverpool,EPL,94.9,90.8,32,Egypt,"1,75m",left,€55.000.000,"Jun 30, 2027",Right Winger,€24.668.186.00,€0
+Désiré Doué,Paris_Saint_Germain,Ligue_1,92.8,81.2,19,"France, Cote d'Ivoire","1,81m",right,€60.000.000,"Jun 30, 2029",Left Winger,€6.000.000.00,€0
+Moses Simon,Nantes,Ligue_1,91.0,86.9,29,Nigeria,"1,68m",right,€12.000.000,"Jun 30, 2026",Left Winger,€2.400.000.00,€0
+Rafael Leão,Milan,Serie_A,90.3,83.3,25,"Portugal, Angola","1,88m",right,€75.000.000,"Jun 30, 2028",Left Winger,€6.410.000.00,€175.000.000
+Carlos Vicente,Alaves,La_Liga,87.8,77.2,26,Spain,"1,79m",right,€8.000.000,"Jun 30, 2027",Right Winger,€450.000.00,€0
+Diego Moreira,Strasbourg,Ligue_1,86.6,73.6,20,"Portugal, Belgium","1,79m",left,€10.000.000,"Jun 30, 2029",Left Winger,€720.000.00,€0
+Rayan Cherki,Lyon,Ligue_1,85.4,75.9,21,"France, Algeria","1,77m",both,€35.000.000,"Jun 30, 2026",Right Winger,€4.000.000.00,€0
+Bryan Mbeumo,Brentford,EPL,85.0,81.2,25,"Cameroon, France","1,71m",left,€50.000.000,"Jun 30, 2026",Right Winger,€2.775.171.00,€0
+Anthony Caci,Mainz_05,Bundesliga,84.9,80.5,27,France,"1,84m",right,€10.000.000,"Jun 30, 2026",Right Midfield,€1.680.000.00,€0
+Dilane Bakwa,Strasbourg,Ligue_1,83.6,84.0,22,"France, DR Congo","1,80m",left,€18.000.000,"Jun 30, 2027",Right Winger,€700.000.00,€0
+Bradley Barcola,Paris_Saint_Germain,Ligue_1,82.7,76.4,22,"France, Togo","1,82m",right,€70.000.000,"Jun 30, 2028",Left Winger,€6.600.000.00,€0
+Iñaki Williams,Athletic_Club,La_Liga,81.1,75.1,30,"Ghana, Spain","1,86m",right,€20.000.000,"Jun 30, 2028",Right Winger,€11.400.000.00,€135.000.000
+Aron Dønnum,Toulouse,Ligue_1,80.9,77.4,27,Norway,"1,78m",left,€4.000.000,"Jun 30, 2028",Left Midfield,€600.000.00,€0
+Alex Iwobi,Fulham,EPL,80.8,72.1,29,"Nigeria, England","1,83m",right,€25.000.000,"Jun 30, 2028",Left Winger,€4.933.637.00,€0
+Pedro Neto,Chelsea,EPL,80.5,65.8,25,Portugal,"1,74m",left,€50.000.000,"Jun 30, 2031",Right Winger,€9.867.275.00,€0
+Josh Murphy,Portsmouth,Championship,80.3,62.3,30,"England, Ireland","1,73m",right,€0,"Jun 30, 2027",Left Winger,€308.352.00,€0
+Jacob Murphy,Newcastle_United,EPL,80.2,68.3,30,"England, Ireland","1,79m",right,€16.000.000,"Jun 30, 2027",Right Winger,€2.158.466.00,€0
+Raoul Bellanova,Atalanta,Serie_A,80.1,67.9,24,Italy,"1,88m",right,€22.000.000,"Jun 30, 2029",Right Midfield,€3.330.000.00,€0
+Matteo Politano,Napoli,Serie_A,80.0,72.6,31,Italy,"1,71m",left,€10.000.000,"Jun 30, 2027",Right Winger,€5.930.000.00,€0
+Cristian Espinoza,SJ_Earthquakes,MLS,79.9,60.0,30,"Argentina, United States","1,73m",right,€5.000.000,"Dec 31, 2025",Right Winger,€1.606.469.00,€0
+Luis Henrique,Marseille,Ligue_1,79.4,73.5,23,Brazil,"1,81m",right,€18.000.000,"Jun 30, 2028",Right Winger,€1.280.000.00,€0
+Luis Rioja,Valencia,La_Liga,79.0,75.3,31,Spain,"1,76m",left,€2.000.000,"Jun 30, 2026",Left Winger,€1.040.000.00,€0
+Sergio Gómez,Real_Sociedad,La_Liga,77.5,66.1,24,Spain,"1,71m",left,€20.000.000,"Jun 30, 2030",Right Winger,€2.300.000.00,€0
+Gaëtan Perrin,Auxerre,Ligue_1,76.7,74.8,28,France,"1,69m",right,€6.000.000,"Jun 30, 2026",Right Winger,€480.000.00,€0
+Ousmane Dembélé,Paris_Saint_Germain,Ligue_1,76.5,84.9,27,France,"1,78m",both,€75.000.000,"Jun 30, 2028",Right Winger,€18.000.000.00,€0
+Anthony Gordon,Newcastle_United,EPL,76.1,76.8,24,England,"1,83m",right,€65.000.000,-,Left Winger,€9.250.570.00,€0
+Christian Pulisic,Milan,Serie_A,74.5,83.1,26,"United States, Croatia","1,77m",right,€50.000.000,"Jun 30, 2027",Right Winger,€5.130.000.00,€0
+Álvaro García,Rayo_Vallecano,La_Liga,74.5,66.8,32,Spain,"1,67m",both,€2.500.000,"Jun 30, 2028",Left Winger,€2.080.000.00,€0
+Mason Greenwood,Marseille,Ligue_1,74.3,90.7,23,England,"1,81m",both,€35.000.000,"Jun 30, 2029",Right Winger,€5.450.000.00,€0
+Ivan Perišić,PSV_Eindhoven,Eredivisie,74.2,62.0,36,Croatia,"1,86m",both,€1.500.000,"Jun 30, 2025",Left Winger,,
+Raúl Moro,Valladolid,La_Liga,74.1,70.3,22,Spain,"1,69m",right,€5.000.000,"Jun 30, 2028",Left Winger,€1.040.000.00,€0
+Kenan Yıldız,Juventus,Serie_A,73.8,85.6,20,"Türkiye, Germany","1,87m",both,€45.000.000,"Jun 30, 2029",Left Winger,€2.960.000.00,€0
+Maghnes Akliouche,Monaco,Ligue_1,73.7,85.2,23,"France, Algeria","1,83m",left,€40.000.000,"Jun 30, 2028",Right Winger,€1.150.000.00,€0
+Davide Zappacosta,Atalanta,Serie_A,73.7,61.2,32,Italy,"1,82m",right,€6.000.000,"Jun 30, 2025",Right Midfield,€1.670.000.00,€0
+Francisco Trincão,Sporting_CP,Primeira_Liga,73.6,71.6,25,Portugal,"1,84m",left,€30.000.000,"Jun 30, 2026",Right Winger,,
+Mattia Zaccagni,Lazio,Serie_A,72.3,86.5,29,Italy,"1,77m",right,€20.000.000,"Jun 30, 2029",Left Winger,€5.560.000.00,€0
+Jeremie Frimpong,Bayer_Leverkusen,Bundesliga,72.1,77.9,24,"Netherlands, Ghana","1,72m",right,€50.000.000,"Jun 30, 2028",Right Midfield,,
+Félix Correia,Gil_Vicente_FC,Primeira_Liga,71.8,61.6,24,"Portugal, Sao Tome and Principe","1,78m",right,€4.000.000,"Jun 30, 2028",Left Winger,€460.000.00,€0
+Adama Traoré,Fulham,EPL,71.7,72.3,29,"Spain, Mali","1,78m",right,€10.000.000,"Jun 30, 2025",Right Winger,€4.008.580.00,€0
+Oliver Antman,Go_Ahead_Eag,Eredivisie,71.4,61.7,23,Finland,"1,85m",right,€4.000.000,"Jun 30, 2027",Right Winger,€200.000.00,€0
+Matteo Ruggeri,Atalanta,Serie_A,71.3,69.7,22,Italy,"1,87m",left,€20.000.000,"Jun 30, 2028",Left Midfield,€930.000.00,€0
+Vincenzo Grifo,Freiburg,Bundesliga,71.0,87.2,32,Italy,"1,80m",right,€7.500.000,-,Left Winger,€950.000.00,€0
+Nadir Zortea,Cagliari,Serie_A,70.3,67.2,25,Italy,"1,87m",right,€4.500.000,"Jun 30, 2028",Right Midfield,€930.000.00,€0
+Ludovic Blas,Rennes,Ligue_1,69.2,78.9,27,"France, Martinique","1,80m",left,€18.000.000,"Jun 30, 2027",Right Winger,€2.720.000.00,€0
+Ronald,Swansea_City,Championship,69.0,62.7,23,Brazil,"1,77m",right,€1.800.000,"Jun 30, 2027",Right Winger,€370.023.00,€0
+Gabriel Strefezza,Como,Serie_A,68.6,79.2,28,"Brazil, Italy","1,68m",right,€6.000.000,"Jun 30, 2027",Right Winger,€740.000.00,€0
+Jarrod Bowen,West_Ham_United,EPL,68.6,73.1,28,England,"1,76m",left,€45.000.000,"Jun 30, 2030",Right Winger,€9.250.570.00,€0
+Marcos Llorente,Atletico_Madrid,La_Liga,68.1,64.7,30,Spain,"1,84m",right,€28.000.000,"Jun 30, 2027",Right Midfield,€8.330.000.00,€120.000.000
+Ritsu Doan,Freiburg,Bundesliga,67.8,89.0,26,Japan,"1,72m",left,€22.000.000,"Jun 30, 2027",Right Winger,€840.000.00,€0
+Daniel James,Leeds_United,Championship,67.3,60.0,27,"Wales, England","1,71m",right,€18.000.000,"Jun 30, 2026",Right Winger,€3.083.523.00,€0
+Kerem Aktürkoğlu,Benfica,Primeira_Liga,67.3,57.1,26,Türkiye,"1,73m",right,€22.000.000,"Jun 30, 2029",Left Winger,€2.880.000.00,€0
+Keane Lewis-Potter,Brentford,EPL,67.1,65.7,24,England,"1,70m",right,€23.000.000,"Jun 30, 2031",Left Winger,€3.083.523.00,€0
+Eliesse Ben Seghir,Monaco,Ligue_1,67.0,77.3,20,"Morocco, France","1,78m",right,€30.000.000,"Jun 30, 2027",Left Winger,€600.000.00,€0
+Valentino Lazaro,Torino,Serie_A,66.5,57.2,29,Austria,"1,81m",right,€4.500.000,"Jun 30, 2025",Left Midfield,€1.920.000.00,€0
+Antoine Semenyo,Bournemouth,EPL,66.3,81.9,25,"Ghana, England","1,85m",right,€35.000.000,"Jun 30, 2029",Left Midfield,€3.083.523.00,€0
+Tom Fellows,West_Bromwich_Albion,Championship,66.0,58.1,21,England,"1,83m",right,€8.000.000,"Jun 30, 2027",Right Midfield,€370.023.00,€0
+Ángel Di María,Benfica,Primeira_Liga,65.9,59.7,37,"Argentina, Italy","1,78m",left,€3.000.000,"Jun 30, 2025",Right Winger,€3.850.000.00,€0
+Barış Alper Yılmaz,Galatasaray,Süper_Lig,65.9,89.9,24,Türkiye,"1,86m",right,€20.000.000,"Jun 30, 2027",Left Winger,,
+Leandro Trossard,Arsenal,EPL,65.5,70.1,30,Belgium,"1,72m",right,€30.000.000,"Jun 30, 2026",Left Winger,€5.550.342.00,€0
+Riccardo Orsolini,Bologna,Serie_A,65.4,74.5,28,Italy,"1,83m",left,€20.000.000,"Jun 30, 2027",Right Winger,€3.700.000.00,€0
+Takefusa Kubo,Real_Sociedad,La_Liga,65.4,83.9,23,Japan,"1,73m",left,€40.000.000,"Jun 30, 2029",Right Winger,€2.500.000.00,€60.000.000
+Manor Solomon,Leeds_United,Championship,65.2,64.4,25,"Israel, Portugal","1,70m",right,€12.000.000,"May 31, 2025",Left Winger,€2.775.171.00,€0
+Alfie Doughty,Luton_Town,Championship,65.0,51.0,25,England,"1,83m",left,€8.000.000,-,Left Midfield,€1.695.938.00,€0
+Marvin Johnson,Sheffield_Wednesday,Championship,64.9,51.0,34,England,"1,78m",left,€0,"Jun 30, 2025",Left Midfield,€616.705.00,€0
+Dango Ouattara,Bournemouth,EPL,64.8,71.8,23,Burkina Faso,"1,77m",left,€25.000.000,"Jun 30, 2028",Left Winger,€2.158.466.00,€0
+Álex Berenguer,Athletic_Club,La_Liga,64.5,73.2,29,Spain,"1,75m",right,€12.000.000,"Jun 30, 2027",Left Winger,€1.250.000.00,€0
+Salvador Agra,Boavista,Primeira_Liga,64.5,61.3,33,Portugal,"1,66m",right,€0,"Jun 30, 2025",Right Winger,€120.000.00,€0
+Gabriel Martinelli,Arsenal,EPL,64.5,63.6,23,"Brazil, Italy","1,78m",right,€55.000.000,"Jun 30, 2027",Left Winger,€11.100.684.00,€0
+Giuliano Simeone,Atletico_Madrid,La_Liga,64.3,71.8,22,"Argentina, Italy","1,73m",right,€25.000.000,"Jun 30, 2028",Right Winger,€500.000.00,€0
+Jorge de Frutos,Rayo_Vallecano,La_Liga,64.2,66.3,28,Spain,"1,73m",right,€4.000.000,"Jun 30, 2028",Right Winger,€800.000.00,€0
+Lassine Sinayoko,Auxerre,Ligue_1,63.8,69.0,25,"Mali, France","1,86m",right,€3.500.000,"Jun 30, 2026",Left Winger,€700.000.00,€0
+Alieu Fadera,Como,Serie_A,63.3,70.3,23,The Gambia,"1,82m",right,€5.000.000,"Jun 30, 2028",Left Winger,€830.000.00,€0
+Bukayo Saka,Arsenal,EPL,62.9,66.2,23,"England, Nigeria","1,78m",left,€150.000.000,"Jun 30, 2027",Right Winger,€12.025.741.00,€0
+Dennis Man,Parma,Serie_A,62.8,62.7,26,Romania,"1,83m",left,€12.500.000,"Jun 30, 2027",Right Winger,€1.920.000.00,€0
+Takumi Minamino,Monaco,Ligue_1,62.8,65.3,30,Japan,"1,72m",right,€15.000.000,"Jun 30, 2027",Left Winger,€3.910.000.00,€0
+Juan Cruz,Leganes,La_Liga,62.4,66.8,25,"Spain, Argentina","1,80m",left,€4.000.000,"Jun 30, 2028",Left Winger,,
+Jaidon Anthony,Burnley,Championship,62.4,61.2,25,"England, Jamaica","1,83m",right,€5.500.000,"May 31, 2025",Left Winger,€1.079.233.00,€0
+Igor Paixão,Feyenoord,Eredivisie,61.3,73.9,24,Brazil,"1,68m",right,€25.000.000,"Jun 30, 2029",Left Winger,€1.760.000.00,€0
+Diego López,Valencia,La_Liga,61.2,65.6,22,Spain,"1,72m",right,€10.000.000,"Jun 30, 2027",Right Winger,€800.000.00,€100.000.000
+Noa Lang,PSV_Eindhoven,Eredivisie,61.1,63.6,25,"Netherlands, Suriname","1,70m",right,€25.000.000,"Jun 30, 2028",Left Winger,€1.600.000.00,€0
+Kaoru Mitoma,Brighton_and_Hove_Albion,EPL,61.0,74.4,27,Japan,"1,78m",right,€45.000.000,"Jun 30, 2027",Left Winger,€4.933.637.00,€0
+Mohammed Kudus,West_Ham_United,EPL,60.9,77.9,24,Ghana,"1,77m",left,€50.000.000,"Jun 30, 2028",Right Winger,€5.550.342.00,€100.807.492
+Franck Honorat,Monchengladbach,Bundesliga,60.8,67.8,28,France,"1,80m",right,€12.000.000,"Jun 30, 2028",Right Winger,€1.250.000.00,€0
+Johan Bakayoko,PSV_Eindhoven,Eredivisie,60.8,65.6,22,"Belgium, Cote d'Ivoire","1,79m",left,€35.000.000,"Jun 30, 2026",Right Winger,€720.000.00,€0
+David Neres,Napoli,Serie_A,60.8,61.3,28,Brazil,"1,76m",left,€30.000.000,"Jun 30, 2028",Left Winger,€5.560.000.00,€0
+Geovany Quenda,Sporting_CP,Primeira_Liga,60.7,61.6,18,"Portugal, Guinea-Bissau","1,72m",left,€45.000.000,"Jun 30, 2027",Left Winger,€480.000.00,€100.000.000
+Roland Sallai,Galatasaray,Süper_Lig,60.7,75.6,27,Hungary,"1,83m",right,€11.000.000,"Jun 30, 2028",Right Winger,€4.170.000.00,€0
+Francisco Conceição,Juventus,Serie_A,60.5,64.3,22,Portugal,"1,70m",left,€36.000.000,"Jun 30, 2025",Right Winger,€4.630.000.00,€0
+Jack Harrison,Everton,EPL,60.4,60.1,28,England,"1,75m",left,€16.000.000,"May 31, 2025",Right Winger,€5.550.342.00,€0
+Sorba Thomas,Nantes,Ligue_1,60.2,55.0,26,"Wales, England","1,85m",right,€4.000.000,"Jun 30, 2025",Right Winger,€900.000.00,€0
+Luca Orellano,FC_Cincinnati,MLS,59.9,59.8,25,Argentina,"1,70m",left,€4.500.000,"Dec 31, 2029",Right Winger,€79.190.00,€0
+Luis Díaz,Liverpool,EPL,59.9,74.8,28,Colombia,"1,80m",right,€85.000.000,"Jun 30, 2027",Left Winger,€3.391.876.00,€0
+Zuriko Davitashvili,Saint_Etienne,Ligue_1,59.9,76.2,24,Georgia,"1,75m",right,€10.000.000,"Jun 30, 2028",Right Winger,€900.000.00,€0
+Joelson Fernandes,Hatayspor,Süper_Lig,59.8,94.9,22,"Portugal, Guinea-Bissau","1,72m",right,€1.600.000,"Jun 30, 2026",Left Winger,€430.000.00,€0
+Christopher Lungoyi,Gaziantep_FK,Süper_Lig,59.8,97.4,24,"Switzerland, DR Congo","1,82m",left,€0,"Jun 30, 2026",Left Winger,€600.000.00,€0
+Jared Stroud,D.C_United,MLS,59.7,55.8,28,United States,"1,78m",,€2.500.000,"Dec 31, 2026",Left Winger,€203.015.00,€0
+Robin Hack,Monchengladbach,Bundesliga,59.5,73.6,26,Germany,"1,78m",right,€10.000.000,"Jun 30, 2029",Left Winger,€1.040.000.00,€0
+Sebastian Nanasi,Strasbourg,Ligue_1,59.2,66.6,22,"Sweden, Hungary","1,78m",right,€15.000.000,"Jun 30, 2029",Left Midfield,€1.090.000.00,€0
+Geny Catamo,Sporting_CP,Primeira_Liga,58.7,64.1,24,Mozambique,"1,73m",left,€15.000.000,"Jun 30, 2028",Right Winger,€770.000.00,€60.000.000
+Yusuf Erdoğan,Konyaspor,Süper_Lig,58.7,82.4,32,Türkiye,"1,71m",left,€0,"Jun 30, 2026",Left Winger,€400.000.00,€0
+Anthony Elanga,Nottingham_Forest,EPL,58.4,60.5,23,"Sweden, Cameroon","1,78m",right,€35.000.000,"Jun 30, 2028",Right Winger,,
+Gustav Isaksen,Lazio,Serie_A,58.3,73.8,24,Denmark,"1,81m",left,€20.000.000,"Jun 30, 2028",Right Winger,€1.920.000.00,€0
+Phil Foden,Manchester_City,EPL,58.2,61.1,24,England,"1,71m",left,€130.000.000,"Jun 30, 2027",Right Winger,,
+Ricardo Horta,Braga,Primeira_Liga,58.1,58.2,30,Portugal,"1,73m",right,€12.000.000,"Jun 30, 2028",Right Winger,€1.000.000.00,€0
+Federico Bernardeschi,Toronto_FC,MLS,58.0,59.5,31,Italy,"1,83m",left,€4.000.000,"Dec 31, 2026",Right Winger,€2.758.360.00,€0
+Chris Führich,Stuttgart,Bundesliga,58.0,80.1,27,Germany,"1,81m",right,€18.000.000,"Jun 30, 2028",Left Winger,€2.500.000.00,€26.000.000
+Callum Hudson-Odoi,Nottingham_Forest,EPL,58.0,73.6,24,"England, Ghana","1,78m",right,€24.000.000,"Jun 30, 2026",Left Winger,,
+Nico Williams,Athletic_Club,La_Liga,57.9,74.1,22,"Spain, Ghana","1,81m",right,€70.000.000,"Jun 30, 2027",Left Winger,€10.420.000.00,€58.000.000
+Dan Ndoye,Bologna,Serie_A,57.8,88.1,24,"Switzerland, Senegal","1,84m",right,€25.000.000,"Jun 30, 2027",Right Winger,€1.030.000.00,€0
+Mario Engels,Heracles_Almelo,Eredivisie,57.6,59.9,31,Germany,"1,84m",right,€0,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Landry Dimata,Samsunspor,Süper_Lig,57.6,97.9,27,"Belgium, DR Congo","1,85m",right,€2.200.000,"Jun 30, 2026",Left Winger,€1.700.000.00,€0
+Noni Madueke,Chelsea,EPL,57.4,71.7,23,"England, Nigeria","1,82m",left,€40.000.000,"Jun 30, 2030",Right Winger,€3.083.523.00,€0
+Oladapo Afolayan,St_Pauli,Bundesliga,57.2,74.1,27,"England, Nigeria","1,80m",right,€4.000.000,-,Right Winger,€780.000.00,€0
+Gerrit Holtmann,Bochum,Bundesliga,57.1,59.6,30,"Philippines, Germany","1,85m",left,€0,"Jun 30, 2025",Left Winger,€850.000.00,€0
+Cody Gakpo,Liverpool,EPL,57.1,73.5,25,"Netherlands, Togo","1,93m",right,€70.000.000,"Jun 30, 2028",Left Winger,€7.400.456.00,€0
+Marius Bülter,Hoffenheim,Bundesliga,57.1,79.9,32,Germany,"1,88m",right,€2.500.000,"Jun 30, 2026",Left Winger,€2.100.000.00,€0
+Patrick Wimmer,Wolfsburg,Bundesliga,56.9,83.5,23,Austria,"1,82m",right,€15.000.000,"Jun 30, 2027",Right Winger,€2.000.000.00,€0
+Santiago Moreno,Portland_Timbers,MLS,56.6,59.4,25,Colombia,"1,78m",right,€3.500.000,"Dec 31, 2026",Right Winger,€485.471.00,€0
+Filip Krastev,Zwolle,Eredivisie,56.5,64.1,23,Bulgaria,"1,78m",right,€3.000.000,"Jun 30, 2025",Left Winger,€520.000.00,€0
+Daan Rots,Twente,Eredivisie,56.4,63.6,23,Netherlands,"1,79m",left,€5.000.000,"Jun 30, 2027",Right Winger,€360.000.00,€0
+Marcus Tavernier,Bournemouth,EPL,56.3,65.5,26,England,"1,78m",left,€20.000.000,"Jun 30, 2028",Left Midfield,€2.158.466.00,€0
+Martín Ojeda,Orlando_City,MLS,56.3,48.0,26,Argentina,"1,79m",left,€6.000.000,"Dec 31, 2025",Left Winger,€794.408.00,€0
+Bryan Gil,Girona,La_Liga,56.3,72.4,24,Spain,"1,75m",left,€15.000.000,"Jun 30, 2025",Left Winger,€2.500.000.00,€0
+Carlos Mané,Kayserispor,Süper_Lig,56.2,61.2,31,"Guinea-Bissau, Portugal","1,73m",right,€1.100.000,"Jun 30, 2026",Left Winger,€830.000.00,€0
+Malick Fofana,Lyon,Ligue_1,55.9,64.5,20,"Belgium, Guinea","1,69m",right,€25.000.000,"Jun 30, 2028",Left Winger,€1.000.000.00,€0
+Leroy Sané,Bayern_Munich,Bundesliga,55.8,78.0,29,"Germany, France","1,83m",left,€38.000.000,"Jun 30, 2025",Right Winger,€15.000.000.00,€0
+Farid El Melali,Angers,Ligue_1,55.7,73.2,27,Algeria,"1,68m",both,€4.000.000,"Jun 30, 2025",Left Winger,€420.000.00,€0
+Mathias Pereira Lage,Brest,Ligue_1,55.5,56.7,28,"France, Portugal","1,80m",right,€2.000.000,"Jun 30, 2025",Left Winger,€510.000.00,€0
+Jamie Leweling,Stuttgart,Bundesliga,55.4,70.2,24,"Germany, Ghana","1,85m",both,€20.000.000,"Jun 30, 2029",Right Winger,€1.800.000.00,€0
+Ansgar Knauff,Eintracht_Frankfurt,Bundesliga,55.2,73.0,23,"Germany, Ghana","1,80m",right,€10.000.000,"Jun 30, 2028",Right Winger,€540.000.00,€0
+John Mercado,AVS_Futebol,Primeira_Liga,55.2,57.1,22,Ecuador,"1,86m",left,€2.500.000,"Jun 30, 2027",Left Winger,€280.000.00,€0
+Dani Raba,Leganes,La_Liga,55.1,77.3,29,Spain,"1,85m",left,€1.800.000,"Jun 30, 2025",Right Winger,,
+Denis Bouanga,Los_Angeles_FC,MLS,55.1,64.0,30,"Gabon, France","1,80m",right,€8.000.000,"Dec 31, 2027",Left Winger,€2.577.411.00,€0
+Romain Del Castillo,Brest,Ligue_1,55.0,62.1,29,"France, Spain","1,72m",left,€8.000.000,"Jun 30, 2027",Right Winger,€1.090.000.00,€0
+Dušan Tadić,Fenerbahçe,Süper_Lig,54.9,73.7,,,,,,,,,
+Darko Lazović,Hellas_Verona,Serie_A,54.9,48.2,34,Serbia,"1,81m",right,€1.000.000,"Jun 30, 2025",Left Midfield,€830.000.00,€0
+Deian Sorescu,Gaziantep_FK,Süper_Lig,54.8,68.7,27,Romania,"1,75m",right,€2.000.000,"Jun 30, 2027",Right Winger,€590.000.00,€0
+Callum O'Dowda,Cardiff_City,Championship,54.8,54.6,30,"Ireland, England","1,80m",left,€1.500.000,"Jun 30, 2028",Left Midfield,€747.161.00,€0
+Amad Diallo,Manchester_United,EPL,54.6,70.1,22,"Cote d'Ivoire, Italy","1,73m",left,€40.000.000,"Jun 30, 2030",Right Winger,,
+Yann Gboho,Toulouse,Ligue_1,54.4,81.4,24,"France, Cote d'Ivoire","1,78m",right,€8.000.000,"Jun 30, 2026",Left Winger,€400.000.00,€0
+Kristoffer Peterson,Fortuna_Sittard,Eredivisie,54.2,58.4,30,Sweden,"1,85m",right,€0,"Jun 30, 2026",Left Winger,€250.000.00,€0
+Jason,Arouca,Primeira_Liga,54.2,55.8,30,Spain,"1,78m",right,€2.500.000,"Jun 30, 2025",Right Winger,€960.000.00,€0
+Robbie Brady,Preston_North_End,Championship,54.1,55.5,33,Ireland,"1,76m",left,€0,"Jun 30, 2025",Left Midfield,€832.551.00,€0
+Keito Nakamura,Reims,Ligue_1,54.0,68.0,24,Japan,"1,80m",right,€10.000.000,"Jun 30, 2028",Left Winger,€1.640.000.00,€0
+Josué Casimir,Le_Havre,Ligue_1,53.9,71.5,23,"Guadeloupe, France","1,78m",right,€3.500.000,"Jun 30, 2025",Right Winger,€300.000.00,€0
+Lewis Morgan,NY_Red_Bulls,MLS,53.7,56.5,28,Scotland,"1,78m",both,€5.000.000,"Dec 31, 2026",Left Winger,€1.103.344.00,€0
+Yankuba Minteh,Brighton_and_Hove_Albion,EPL,53.6,59.1,20,The Gambia,"1,80m",left,€30.000.000,"Jun 30, 2029",Right Winger,€2.466.819.00,€0
+Iván Sánchez,Valladolid,La_Liga,53.6,68.3,32,Spain,"1,69m",left,€0,"Jun 30, 2025",Right Winger,€1.080.000.00,€0
+Alireza Jahanbakhsh,Heerenveen,Eredivisie,53.5,51.9,31,"Iran, Netherlands","1,81m",right,€2.300.000,"Jun 30, 2025",Right Winger,€490.000.00,€0
+Emre Kılınç,Samsunspor,Süper_Lig,53.5,78.7,30,Türkiye,"1,74m",left,€1.700.000,"Jun 30, 2026",Left Winger,€830.000.00,€0
+Hannes Wolf,New_York_City_FC,MLS,53.5,53.9,26,Austria,"1,79m",left,€3.500.000,"Dec 31, 2027",Right Winger,€1.235.745.00,€0
+Steven Berghuis,Ajax,Eredivisie,53.5,47.8,33,Netherlands,"1,82m",left,€4.000.000,"Jun 30, 2027",Right Winger,€2.950.000.00,€0
+Tyrhys Dolan,Blackburn_Rovers,Championship,53.4,57.6,23,England,"1,70m",right,€6.000.000,"Jun 30, 2025",Right Winger,€35.579.00,€0
+Anis Hadj Moussa,Feyenoord,Eredivisie,53.1,60.1,23,"Algeria, France","1,76m",left,€12.000.000,"Jun 30, 2029",Right Winger,€490.000.00,€0
+Stephy Mavididi,Leicester_City,EPL,53.0,61.2,26,"England, DR Congo","1,82m",right,€11.000.000,"Jun 30, 2028",Left Winger,€616.705.00,€0
+Manuel Lazzari,Lazio,Serie_A,52.9,65.1,31,Italy,"1,74m",right,€4.000.000,"Jun 30, 2027",Right Midfield,€3.150.000.00,€0
+Milot Rashica,Beşiktaş,Süper_Lig,52.7,62.4,,,,,,,,,
+Mamadou Fall,Kasımpaşa,Süper_Lig,52.6,73.7,,,,,,,,€500.000.00,€0
+Karim Adeyemi,Dortmund,Bundesliga,52.6,71.6,23,"Germany, Nigeria","1,80m",left,€40.000.000,"Jun 30, 2027",Right Winger,€5.000.000.00,€0
+Patrick Roberts,Sunderland,Championship,52.5,58.1,28,England,"1,67m",left,€3.500.000,"Jun 30, 2026",Right Winger,€770.881.00,€0
+Rodrygo,Real_Madrid,La_Liga,52.4,74.8,24,"Brazil, Spain","1,74m",right,€100.000.000,"Jun 30, 2028",Right Winger,€12.500.000.00,€1.000.000.000
+Tete Morente,Lecce,Serie_A,52.3,70.2,28,Spain,"1,84m",right,€2.000.000,"Jun 30, 2027",Left Winger,€740.000.00,€0
+Paul Smyth,Queens_Park_Rangers,Championship,52.3,58.0,27,Northern Ireland,"1,75m",right,€0,"Jun 30, 2026",Right Winger,€462.528.00,€0
+Bertrand Traoré,Ajax,Eredivisie,52.3,66.0,29,Burkina Faso,"1,81m",left,€9.000.000,"Jun 30, 2026",Right Winger,€2.500.000.00,€0
+Harvey Barnes,Newcastle_United,EPL,52.3,59.0,27,"England, Scotland","1,82m",right,€30.000.000,"Jun 30, 2028",Left Winger,€4.933.637.00,€0
+Issa Soumaré,Le_Havre,Ligue_1,52.1,66.4,24,"Senegal, Mauritania","1,82m",right,€1.500.000,"Jun 30, 2026",Left Winger,€250.000.00,€0
+Julian Gressel,Inter_Miami,MLS,52.1,45.6,,,,,,,,,
+Samu,Vitoria_Guimaraes,Primeira_Liga,51.9,53.6,,,,,,,,€380.000.00,€0
+Tatsuhiro Sakamoto,Coventry_City,Championship,51.7,53.0,28,Japan,"1,70m",left,€2.500.000,"Jun 30, 2026",Right Midfield,€462.528.00,€0
+Jamie Gittens,Dortmund,Bundesliga,51.7,90.4,20,"England, Barbados","1,78m",right,€50.000.000,"Jun 30, 2028",Left Winger,,
+Yoann Cathline,Utrecht,Eredivisie,51.5,66.0,22,France,"1,76m",right,€6.000.000,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Alfonso Trezza,Arouca,Primeira_Liga,51.4,53.1,25,"Uruguay, Italy","1,66m",right,€0,"Jun 30, 2027",Right Winger,€280.000.00,€0
+Pepê,Porto,Primeira_Liga,51.3,57.8,28,"Brazil, Italy","1,75m",right,€25.000.000,"Jun 30, 2027",Right Winger,€2.100.000.00,€0
+Ephron Mason-Clark,Coventry_City,Championship,51.3,57.3,25,England,"1,78m",right,€4.500.000,"Jun 30, 2028",Left Winger,€740.046.00,€0
+Jim Allevinah,Angers,Ligue_1,50.9,60.5,30,"Gabon, France","1,72m",right,€1.800.000,"Jun 30, 2027",Right Winger,€900.000.00,€0
+Mustapha Bundu,Plymouth_Argyle,Championship,50.9,46.5,28,Sierra Leone,"1,89m",right,€0,"Jun 30, 2025",Right Winger,€616.705.00,€0
+Noah Weißhaupt,St_Pauli,Bundesliga,50.8,69.1,23,Germany,"1,81m",right,€5.000.000,"Jun 30, 2025",Left Winger,€170.000.00,€0
+Bruma,Braga,Primeira_Liga,50.8,55.7,,,,,,,,,
+Iliman Ndiaye,Everton,EPL,50.8,73.4,25,"Senegal, France","1,80m",right,€22.000.000,"Jun 30, 2029",Left Winger,€2.775.171.00,€0
+Million Manhoef,Stoke_City,Championship,50.7,54.6,23,"Netherlands, Suriname","1,79m",left,€3.500.000,"Jun 30, 2027",Right Winger,€770.881.00,€0
+Joseph Paintsil,LA_Galaxy,MLS,50.5,59.6,27,Ghana,"1,69m",right,€10.000.000,"Dec 31, 2027",Right Winger,€2.768.069.00,€0
+Serge Gnabry,Bayern_Munich,Bundesliga,50.4,69.5,29,"Germany, Cote d'Ivoire","1,76m",right,€25.000.000,"Jun 30, 2026",Left Winger,€18.870.000.00,€0
+Alexis Saelemaekers,Roma,Serie_A,50.2,56.3,25,Belgium,"1,80m",right,€17.000.000,"Jun 30, 2025",Right Winger,€1.280.000.00,€0
+Sontje Hansen,NEC_Nijmegen,Eredivisie,50.0,63.0,22,"Netherlands, Curacao","1,76m",right,€3.500.000,"Jun 30, 2027",Right Winger,€360.000.00,€0
+Alassane Ndao,Konyaspor,Süper_Lig,49.9,58.7,28,Senegal,"1,76m",right,€1.200.000,"Jun 30, 2026",Right Winger,€1.000.000.00,€0
+Óscar Aranda,Famalicão,Primeira_Liga,49.8,66.9,23,Spain,"1,81m",right,€4.000.000,"Jun 30, 2026",Left Winger,€180.000.00,€0
+Suf Podgoreanu,Heracles_Almelo,Eredivisie,49.7,55.1,23,"Israel, Romania","1,93m",right,€0,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Kevin Schade,Brentford,EPL,49.6,63.9,23,"Germany, Nigeria","1,85m",right,€27.000.000,"Jun 30, 2028",Left Winger,€616.705.00,€0
+Brennan Johnson,Tottenham_Hotspur,EPL,49.5,69.7,23,"Wales, England","1,86m",right,€50.000.000,"Jun 30, 2028",Right Winger,€4.316.933.00,€0
+Antonio Nusa,RB_Leipzig,Bundesliga,49.5,66.9,20,"Norway, Nigeria","1,83m",right,€28.000.000,"Jun 30, 2029",Left Winger,€1.500.000.00,€0
+Borna Sosa,Torino,Serie_A,49.5,52.1,27,"Croatia, Germany","1,87m",left,€6.000.000,"Jun 30, 2025",Left Midfield,€1.850.000.00,€0
+Gabri Martínez,Braga,Primeira_Liga,49.3,62.0,22,Spain,"1,85m",right,€4.000.000,"Jun 30, 2029",Left Winger,€480.000.00,€0
+Antony,Real_Betis,La_Liga,48.9,62.0,25,Brazil,"1,72m",left,€20.000.000,"Jun 30, 2025",Right Winger,€3.130.000.00,€0
+Borja Sainz,Norwich_City,Championship,48.9,67.8,24,Spain,"1,74m",right,€12.000.000,"Jun 30, 2026",Left Winger,€925.057.00,€0
+Leo Sauer,NAC_Breda,Eredivisie,48.9,65.9,19,Slovakia,"1,84m",right,€5.000.000,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Antoine Joujou,Le_Havre,Ligue_1,48.8,51.5,22,"France, Guadeloupe","1,89m",right,€2.500.000,"Jun 30, 2025",Left Winger,€170.000.00,€0
+Kingsley Coman,Bayern_Munich,Bundesliga,48.6,78.3,28,"France, Guadeloupe","1,81m",right,€35.000.000,"Jun 30, 2027",Left Winger,€17.000.000.00,€0
+Funsho Bamgboye,Hatayspor,Süper_Lig,48.5,53.3,26,"Nigeria, Hungary","1,73m",both,€0,"Jun 30, 2026",Right Winger,€250.000.00,€0
+Wilfried Gnonto,Leeds_United,Championship,48.4,59.5,21,"Italy, Cote d'Ivoire","1,70m",right,€18.000.000,"Jun 30, 2028",Right Winger,€1.850.114.00,€0
+Khvicha Kvaratskhelia,Paris_Saint_Germain,Ligue_1,48.4,53.8,24,Georgia,"1,83m",both,€80.000.000,"Jun 30, 2029",Left Winger,€16.360.000.00,€0
+Wahbi Khazri,Montpellier,Ligue_1,48.3,53.3,34,"Tunisia, France","1,76m",right,€1.500.000,"Jun 30, 2025",Left Winger,€3.000.000.00,€0
+Sayfallah Ltaief,Twente,Eredivisie,48.2,57.1,25,"Tunisia, Switzerland","1,78m",right,€2.000.000,"Jun 30, 2027",Left Winger,€360.000.00,€0
+Bilal Boutobba,Hatayspor,Süper_Lig,48.1,61.8,26,"France, Algeria","1,72m",left,€1.400.000,"Jun 30, 2026",Right Winger,€600.000.00,€0
+Kerwin Vargas,Charlotte,MLS,48.1,51.1,23,Colombia,"1,80m",right,€2.500.000,"Dec 31, 2027",Left Winger,€353.070.00,€0
+Mark Sykes,Bristol_City,Championship,48.0,50.2,27,"Ireland, Northern Ireland","1,82m",right,€1.800.000,"Jun 30, 2025",Right Midfield,€604.845.00,€0
+Miguel Rodríguez,Utrecht,Eredivisie,47.8,56.8,22,Spain,"1,79m",left,€2.000.000,"Jun 30, 2025",Right Winger,€500.000.00,€0
+Telmo Arcanjo,Vitoria_Guimaraes,Primeira_Liga,47.6,53.6,23,"Cape Verde, Portugal","1,80m",left,€1.500.000,"Jun 30, 2027",Right Winger,€120.000.00,€0
+Abu Kamara,Hull_City,Championship,47.6,52.5,21,"England, Sierra Leone","1,83m",left,€4.000.000,"Jun 30, 2028",Right Winger,€308.352.00,€0
+Iván Angulo,Orlando_City,MLS,47.6,53.7,26,Colombia,"1,79m",right,€4.000.000,"Dec 31, 2025",Left Winger,€441.341.00,€0
+Santiago Pierotti,Lecce,Serie_A,47.6,61.6,24,"Argentina, Italy","1,89m",right,€4.000.000,"Jun 30, 2027",Right Winger,€560.000.00,€0
+Rachid Ghezzal,Rizespor,Süper_Lig,47.5,52.3,32,"Algeria, France","1,82m",left,€1.000.000,"Jun 30, 2025",Right Winger,€2.500.000.00,€0
+Maren Haile-Selassie,Chicago_Fire,MLS,47.5,51.0,26,"Switzerland, Ethiopia","1,80m",right,€2.000.000,"Dec 31, 2026",Right Midfield,€303.640.00,€0
+Morgan Guilavogui,St_Pauli,Bundesliga,47.4,76.6,27,"Guinea, France","1,89m",right,€4.000.000,"Jun 30, 2025",Right Winger,€850.000.00,€0
+Koki Saito,Queens_Park_Rangers,Championship,47.4,54.2,23,Japan,"1,70m",right,€4.000.000,"Jun 30, 2025",Left Winger,€308.352.00,€0
+Denilho Cleonise,RKC_Waalwijk,Eredivisie,47.4,47.8,23,"Netherlands, Suriname","1,79m",left,€0,"Jun 30, 2026",Right Winger,€150.000.00,€0
+Garry Rodrigues,Sivasspor,Süper_Lig,47.3,64.9,34,"Cape Verde, Netherlands","1,73m",right,€0,"Jun 30, 2025",Left Winger,€750.000.00,€0
+Luca Koleosho,Burnley,Championship,47.2,50.5,20,"Italy, United States","1,75m",right,€12.000.000,"Jun 30, 2029",Right Winger,€1.233.409.00,€0
+Javi Puado,Espanyol,La_Liga,47.2,67.5,26,Spain,"1,77m",right,€8.000.000,"Jun 30, 2025",Left Winger,€380.000.00,€0
+Ilias Sebaoui,Heerenveen,Eredivisie,47.2,57.1,23,"Morocco, Belgium","1,80m",right,€1.500.000,"Jun 30, 2025",Left Winger,€360.000.00,€0
+Zakaria Aboukhlal,Toulouse,Ligue_1,46.9,65.2,25,"Morocco, Netherlands","1,79m",both,€12.000.000,"Jun 30, 2026",Right Winger,€300.000.00,€0
+Jesper Lindstrøm,Everton,EPL,46.9,44.7,25,Denmark,"1,82m",right,€20.000.000,"Jun 30, 2025",Right Winger,€3.083.523.00,€0
+Timothy Weah,Juventus,Serie_A,46.8,57.0,25,"United States, France","1,83m",right,€17.000.000,"Jun 30, 2028",Right Winger,€2.560.000.00,€0
+Dylan Mbayo,Zwolle,Eredivisie,46.6,63.1,23,"Belgium, DR Congo","1,75m",left,€2.000.000,"Jun 30, 2025",Right Winger,€80.000.00,€0
+Emmanuel Gyasi,Empoli,Serie_A,46.4,69.6,31,"Ghana, Italy","1,81m",right,€2.000.000,"Jun 30, 2025",Right Midfield,€1.110.000.00,€0
+Ben Doak,Middlesbrough,Championship,46.3,52.5,19,Scotland,"1,73m",right,€14.000.000,"May 31, 2025",Right Winger,€308.352.00,€0
+Carlos Martín,Alaves,La_Liga,46.2,52.2,23,Spain,"1,80m",right,€3.000.000,"Jun 30, 2025",Left Winger,€420.000.00,€0
+Jordan Ayew,Leicester_City,EPL,46.2,58.8,33,"Ghana, France","1,82m",right,€3.500.000,"Jun 30, 2026",Right Winger,€1.850.114.00,€0
+Abde Ezzalzouli,Real_Betis,La_Liga,46.2,76.6,23,"Morocco, Spain","1,77m",right,€12.000.000,"Jun 30, 2029",Left Winger,€800.000.00,€0
+Kiko Bondoso,Rio_Ave,Primeira_Liga,46.2,51.4,29,Portugal,"1,69m",right,€0,"Jun 30, 2025",Left Winger,€580.000.00,€0
+Mathias Honsak,Heidenheim,Bundesliga,46.0,63.0,28,Austria,"1,88m",left,€1.500.000,"Jun 30, 2027",Left Winger,€330.000.00,€0
+Jérémy Livolant,Casa_Pia,Primeira_Liga,46.0,56.3,27,France,"1,75m",right,€1.200.000,"Jun 30, 2027",Left Winger,€670.000.00,€0
+Ogün Bayrak,Göztepe,Süper_Lig,45.9,41.7,,,,,,,,€420.000.00,€0
+Ahmed Kutucu,Eyüpspor,Süper_Lig,45.9,53.3,,,,,,,,,
+Samuel Lino,Atletico_Madrid,La_Liga,45.7,62.1,25,Brazil,"1,77m",right,€25.000.000,"Jun 30, 2027",Left Winger,€1.250.000.00,€100.000.000
+Djeidi Gassama,Sheffield_Wednesday,Championship,45.6,61.8,21,"France, Mauritania","1,77m",right,€1.000.000,"Jun 30, 2026",Left Winger,€92.506.00,€0
+Ali Yavuz Kol,Adana_Demirspor,Süper_Lig,45.6,59.9,24,Türkiye,"1,75m",right,€0,"Jun 30, 2026",Left Winger,€500.000.00,€0
+Tim Skarke,Union_Berlin,Bundesliga,45.5,61.2,28,Germany,"1,81m",right,€2.500.000,-,Right Winger,€750.000.00,€0
+Nicolas Pépé,Villareal,La_Liga,45.4,57.7,29,"Cote d'Ivoire, France","1,83m",left,€6.000.000,"Jun 30, 2026",Right Winger,,
+Matt Ritchie,Portsmouth,Championship,45.3,49.7,35,"Scotland, England","1,73m",left,€0,"Jun 30, 2026",Right Midfield,€925.057.00,€0
+Jacob Shaffelburg,Nashville_SC,MLS,45.3,44.3,25,Canada,"1,81m",left,€5.000.000,"Dec 31, 2026",Left Winger,€308.936.00,€0
+Nick Doodeman,Willem_II,Eredivisie,45.3,46.4,28,Netherlands,"1,73m",right,€0,"Jun 30, 2025",Right Winger,€300.000.00,€0
+Arnaut Danjuma,Girona,La_Liga,45.3,58.4,28,"Netherlands, Nigeria","1,78m",right,€5.000.000,"Jun 30, 2025",Left Winger,€3.130.000.00,€0
+Carles Pérez,Getafe,La_Liga,45.2,57.2,27,Spain,"1,73m",left,€2.500.000,"Jun 30, 2025",Right Winger,€2.560.000.00,€0
+Dániel Sallói,Sporting_KC,MLS,45.2,46.8,28,Hungary,"1,85m",both,€3.000.000,"Dec 31, 2026",Left Winger,€1.147.478.00,€0
+Anis Mehmeti,Bristol_City,Championship,45.1,55.8,24,"Albania, England","1,80m",right,€3.500.000,"Jun 30, 2026",Left Winger,€555.034.00,€0
+Tahith Chong,Luton_Town,Championship,45.1,51.8,25,"Netherlands, Curacao","1,85m",left,€6.000.000,-,Right Winger,€1.850.114.00,€0
+Shunsuke Mito,Sparta_R'dam,Eredivisie,44.9,50.0,22,Japan,"1,64m",right,€0,"Jun 30, 2028",Right Winger,€160.000.00,€0
+Moussa Djenepo,Antalyaspor,Süper_Lig,44.8,63.9,26,Mali,"1,77m",right,€2.300.000,"Jun 30, 2025",Left Winger,€2.000.000.00,€0
+Ryan Hedges,Blackburn_Rovers,Championship,44.8,53.3,29,"Wales, England","1,85m",left,€1.000.000,"Jun 30, 2025",Right Winger,€462.528.00,€0
+Junior Kadile,Almere_City,Eredivisie,44.8,60.1,22,"France, DR Congo","1,80m",right,€0,"Jun 30, 2027",Left Winger,€350.000.00,€0
+Indiana Vassilev,St_Louis,MLS,44.6,47.9,,,,,,,,,
+Yunus Akgün,Galatasaray,Süper_Lig,44.4,42.5,24,Türkiye,"1,73m",left,€12.000.000,"Jun 30, 2026",Right Winger,€920.000.00,€0
+Filip Kostić,Fenerbahçe,Süper_Lig,44.4,42.5,,,,,,,,€4.170.000.00,€0
+Antony,Portland_Timbers,MLS,44.3,50.4,23,Brazil,"1,85m",right,€4.000.000,"Dec 31, 2026",Left Winger,€375.137.00,€0
+Elves Baldé,Farense,Primeira_Liga,44.3,49.7,25,"Guinea-Bissau, Portugal","1,69m",right,€0,"Jun 30, 2025",Right Winger,€120.000.00,€0
+Ibrahim Sadiq,AZ_Alkmaar,Eredivisie,44.2,42.9,24,Ghana,"1,67m",right,€4.000.000,"Jun 30, 2028",Right Winger,€360.000.00,€0
+Mohamed Farsi,Columbus_Crew,MLS,44.2,47.6,25,"Algeria, Canada","1,78m",right,€2.500.000,"Dec 31, 2027",Right Midfield,€308.936.00,€0
+Femi Azeez,Millwall,Championship,44.2,51.8,23,"England, Spain","1,81m",left,€0,"Jun 30, 2028",Right Winger,€431.693.00,€0
+Oğuz Aydın,Fenerbahçe,Süper_Lig,44.0,43.8,,,,,,,,€1.330.000.00,€0
+Samuel Chukwueze,Milan,Serie_A,44.0,55.5,25,Nigeria,"1,72m",left,€14.000.000,"Jun 30, 2028",Right Winger,€5.130.000.00,€0
+Matteo Cancellieri,Parma,Serie_A,43.9,58.9,23,Italy,"1,85m",left,€5.000.000,"Jun 30, 2025",Right Winger,€1.480.000.00,€0
+Mika Godts,Ajax,Eredivisie,43.9,61.4,19,Belgium,"1,76m",right,€10.000.000,"Jun 30, 2029",Left Winger,€580.000.00,€0
+Brahim Díaz,Real_Madrid,La_Liga,43.9,63.9,25,"Morocco, Spain","1,70m",both,€45.000.000,"Jun 30, 2027",Right Winger,€7.290.000.00,€0
+Calvin Harris,Colorado_Rapids,MLS,43.8,51.2,25,England,"1,83m",right,€0,"Dec 31, 2025",Right Winger,€110.334.00,€0
+Shavy Babicka,Toulouse,Ligue_1,43.7,54.0,24,Gabon,"1,79m",right,€3.000.000,"Jun 30, 2027",Right Winger,€240.000.00,€0
+Bongokuhle Hlongwane,Minnesota_Utd,MLS,43.6,52.6,24,South Africa,"1,82m",right,€4.000.000,"Dec 31, 2027",Right Winger,,
+Alex Muyl,Nashville_SC,MLS,43.6,52.6,29,United States,"1,80m",right,€1.800.000,"Dec 31, 2025",Right Winger,€463.404.00,€0
+Jadon Sancho,Chelsea,EPL,43.5,62.5,25,"England, Jamaica","1,80m",right,€30.000.000,"Jun 30, 2025",Left Winger,€6.167.047.00,€0
+Lasse Nielsen,Göztepe,Süper_Lig,43.5,36.4,,,,,,,,€100.000.00,€0
+Marcus Rashford,Manchester_United,EPL,43.5,42.5,,,,,,,,,
+Arda Güler,Real_Madrid,La_Liga,43.3,56.1,20,Türkiye,"1,75m",left,€45.000.000,"Jun 30, 2029",Right Winger,€5.200.000.00,€0
+Mitchell van Bergen,Sparta_R'dam,Eredivisie,43.3,44.4,25,Netherlands,"1,70m",right,€1.500.000,"Jun 30, 2025",Right Winger,€420.000.00,€0
+Morlaye Sylla,Arouca,Primeira_Liga,43.2,59.1,26,Guinea,"1,70m",right,€2.500.000,"Jun 30, 2025",Left Winger,€60.000.00,€0
+Robert Skov,Union_Berlin,Bundesliga,43.1,52.9,28,Denmark,"1,85m",left,€4.000.000,-,Left Midfield,€1.500.000.00,€0
+Tyler Dibling,Southampton,EPL,43.1,65.3,19,England,"1,78m",left,€25.000.000,"Jun 30, 2027",Right Winger,€308.352.00,€0
+Zinedine Ferhat,Angers,Ligue_1,43.0,50.8,32,Algeria,"1,80m",right,€1.200.000,"Jun 30, 2025",Right Winger,€1.320.000.00,€0
+Ernest Nuamah,Lyon,Ligue_1,43.0,58.2,21,Ghana,"1,78m",left,€15.000.000,"Jun 30, 2028",Right Winger,€2.720.000.00,€0
+Eren Dinkçi,Freiburg,Bundesliga,42.9,61.4,23,"Türkiye, Germany","1,88m",right,€12.000.000,-,Right Winger,€750.000.00,€0
+Callum Styles,West_Bromwich_Albion,Championship,42.7,48.3,25,"Hungary, England","1,67m",left,€2.500.000,"Jun 30, 2028",Left Midfield,€493.364.00,€0
+Jacob Trenskow,Heerenveen,Eredivisie,42.6,49.3,24,Denmark,"1,78m",left,€4.000.000,"Jun 30, 2028",Right Winger,€360.000.00,€0
+Sofiane Diop,Nice,Ligue_1,42.6,52.3,24,"Morocco, France","1,75m",right,€12.000.000,"Jun 30, 2027",Left Winger,€1.020.000.00,€0
+Jota Silva,Nottingham_Forest,EPL,42.5,46.0,25,Portugal,"1,79m",right,€14.000.000,"Jun 30, 2028",Right Winger,,
+Myles Peart-Harris,Swansea_City,Championship,42.5,47.9,22,"Jamaica, England","1,87m",,€0,"May 31, 2025",Left Winger,€308.352.00,€0
+Wes Burns,Ipswich_Town,EPL,42.4,46.6,30,Wales,"1,73m",right,€2.500.000,"Jun 30, 2026",Right Winger,,
+Rúben Macedo,Nacional,Primeira_Liga,42.4,49.7,29,"Portugal, Switzerland","1,71m",right,€0,"Jun 30, 2025",Left Winger,€120.000.00,€0
+Pedro Gonçalves,Sporting_CP,Primeira_Liga,42.3,44.3,26,Portugal,"1,73m",right,€30.000.000,"Jun 30, 2027",Left Winger,€2.400.000.00,€80.000.000
+Marco Grüll,Werder_Bremen,Bundesliga,42.0,64.5,26,Austria,"1,82m",both,€4.000.000,-,Left Winger,€950.000.00,€0
+Ander Barrenetxea,Real_Sociedad,La_Liga,41.9,54.1,23,Spain,"1,75m",right,€18.000.000,"Jun 30, 2030",Left Winger,€1.560.000.00,€75.000.000
+Chris Mueller,Chicago_Fire,MLS,41.9,45.5,28,United States,"1,75m",right,€1.000.000,"Dec 31, 2025",Right Winger,€573.742.00,€0
+Frans Krätzig,Heidenheim,Bundesliga,41.9,63.5,22,Germany,"1,77m",left,€2.000.000,"Jun 30, 2025",Left Midfield,€600.000.00,€0
+Marcus Pedersen,Torino,Serie_A,41.8,45.4,24,Norway,"1,84m",right,€3.500.000,"Jun 30, 2025",Right Midfield,,
+Arbnor Muja,Samsunspor,Süper_Lig,41.5,50.1,26,"Albania, Kosovo","1,79m",right,€3.500.000,"Jun 30, 2027",Right Winger,€1.400.000.00,€0
+Patrick Ciurria,Monza,Serie_A,41.4,48.6,30,Italy,"1,78m",both,€3.000.000,"Jun 30, 2026",Right Midfield,€1.480.000.00,€0
+Jorg Schreuders,Groningen,Eredivisie,41.3,51.1,20,Netherlands,"1,77m",right,€1.200.000,"Jun 30, 2027",Right Winger,€120.000.00,€0
+Jáder Obrian,Austin,MLS,41.3,49.3,29,Colombia,"1,66m",,€2.000.000,"Dec 31, 2026",Right Winger,€436.924.00,€0
+Yu Hirakawa,Bristol_City,Championship,41.2,52.5,24,Japan,"1,72m",right,€0,"Jun 30, 2025",Right Winger,€308.352.00,€0
+Omir Fernandez,Colorado_Rapids,MLS,41.2,52.2,,,,,,,,€507.538.00,€0
+Jacob Ramsey,Aston_Villa,EPL,41.1,60.9,23,England,"1,80m",right,€32.000.000,"Jun 30, 2027",Left Midfield,,
+Pontus Almqvist,Parma,Serie_A,41.1,53.9,25,Sweden,"1,83m",left,€2.500.000,"Jun 30, 2027",Right Winger,€1.110.000.00,€0
+Chris Willock,Cardiff_City,Championship,41.1,51.2,27,"England, Montserrat","1,78m",right,€1.800.000,"Jun 30, 2027",Left Winger,€925.057.00,€0
+Ante Rebić,Lecce,Serie_A,41.0,45.2,31,Croatia,"1,85m",right,€1.500.000,"Jun 30, 2025",Left Winger,€1.850.000.00,€0
+Zdravko Dimitrov,BB_Bodrumspor,Süper_Lig,40.9,52.3,26,Bulgaria,"1,80m",right,€0,"Jun 30, 2027",Left Winger,€250.000.00,€0
+Liel Abada,Charlotte,MLS,40.8,49.3,23,Israel,"1,72m",right,€7.000.000,"Dec 31, 2026",Right Winger,€2.030.153.00,€0
+Robert Taylor,Inter_Miami,MLS,40.8,48.9,,,,,,,,,
+Lionel Messi,Inter_Miami,MLS,40.8,54.1,37,"Argentina, Spain","1,70m",left,€20.000.000,"Dec 31, 2025",Right Winger,€10.592.101.00,€0
+Kamaldeen Sulemana,Southampton,EPL,40.7,52.0,23,Ghana,"1,75m",right,€13.000.000,"Jun 30, 2027",Left Winger,€2.466.819.00,€0
+Williot Swedberg,Celta_Vigo,La_Liga,40.7,51.8,21,Sweden,"1,87m",right,€5.000.000,"Jun 30, 2027",Left Winger,€620.000.00,€0
+David Brooks,Bournemouth,EPL,40.6,45.0,27,"Wales, England","1,73m",left,€12.000.000,"Jun 30, 2026",Right Winger,€3.083.523.00,€0
+Stephan El Shaarawy,Roma,Serie_A,40.6,58.9,32,"Italy, Egypt","1,78m",right,€5.000.000,"Jun 30, 2025",Left Winger,€4.630.000.00,€0
+Sheraldo Becker,Real_Sociedad,La_Liga,40.5,49.8,30,"Suriname, Netherlands","1,80m",right,€4.000.000,"Jun 30, 2026",Left Winger,€1.400.000.00,€0
+Badredine Bouanani,Nice,Ligue_1,40.4,49.5,20,"Algeria, France","1,77m",left,€5.000.000,"Jun 30, 2029",Right Winger,€120.000.00,€0
+Romain Faivre,Brest,Ligue_1,40.4,51.8,26,"France, Algeria","1,80m",left,€7.000.000,"Jun 30, 2025",Right Midfield,€2.180.000.00,€0
+Nicola Zalewski,Roma,Serie_A,40.3,41.1,,,,,,,,,
+Juan Cuadrado,Atalanta,Serie_A,40.3,52.2,36,"Colombia, Italy","1,76m",right,€1.000.000,"Jun 30, 2025",Right Midfield,€2.780.000.00,€0
+Coba da Costa,Getafe,La_Liga,40.3,47.7,22,"Spain, Guinea","1,82m",right,€3.000.000,"Jun 30, 2026",Left Winger,€140.000.00,€0
+Ruben van Bommel,AZ_Alkmaar,Eredivisie,40.3,54.2,20,Netherlands,"1,92m",right,€8.000.000,"Jun 30, 2027",Left Winger,€200.000.00,€0
+Yaw Yeboah,Columbus_Crew,MLS,40.3,44.0,,,,,,,,,
+Samuel Mbangula,Juventus,Serie_A,40.2,46.0,21,"Belgium, DR Congo","1,79m",right,€14.000.000,"Jun 30, 2028",Left Winger,€560.000.00,€0
+Crysencio Summerville,West_Ham_United,EPL,40.2,47.8,23,"Netherlands, Suriname","1,74m",right,€22.000.000,"Jun 30, 2029",Left Winger,€1.850.114.00,€0
+Tijjani Noslin,Lazio,Serie_A,40.2,49.3,25,Netherlands,"1,78m",right,€12.000.000,"Jun 30, 2029",Right Winger,€2.410.000.00,€70.000.000
+Hugo Álvarez,Celta_Vigo,La_Liga,40.2,56.9,21,Spain,"1,76m",right,€7.500.000,"Jun 30, 2028",Left Winger,€940.000.00,€0
+Tom Louchet,Nice,Ligue_1,40.1,45.8,22,France,"1,78m",both,€3.000.000,"Jun 30, 2027",Right Midfield,€120.000.00,€0
+Lameck Banda,Lecce,Serie_A,40.1,47.5,24,Zambia,"1,69m",right,€6.000.000,"Jun 30, 2026",Left Winger,€640.000.00,€0
+Anuar,Valladolid,La_Liga,40.1,55.8,30,"Morocco, Spain","1,73m",right,€0,"Jun 30, 2025",Right Winger,€1.500.000.00,€0
+Tanguy Coulibaly,Montpellier,Ligue_1,40.1,60.8,24,"France, Cote d'Ivoire","1,79m",left,€1.800.000,"Jun 30, 2026",Right Winger,€320.000.00,€0
+Simon Adingra,Brighton_and_Hove_Albion,EPL,40.1,48.9,23,Cote d'Ivoire,"1,75m",right,€30.000.000,"Jun 30, 2026",Left Winger,€770.881.00,€0
+Fabian Rieder,Stuttgart,Bundesliga,40.0,58.3,23,Switzerland,"1,79m",left,€7.000.000,"Jun 30, 2025",Right Winger,€1.100.000.00,€0
+Anthony Nwakaeme,Trabzonspor,Süper_Lig,40.0,45.9,36,Nigeria,"1,85m",right,€0,"Jun 30, 2026",Left Winger,€2.500.000.00,€0
+Kingsley Schindler,Samsunspor,Süper_Lig,39.9,41.7,31,"Ghana, Germany","1,83m",right,€0,"Jun 30, 2025",Right Winger,€1.330.000.00,€0
+Mitchell van Bergen,Twente,Eredivisie,39.9,46.1,,,,,,,,,
+Vasco Lopes,AVS_Futebol,Primeira_Liga,39.9,51.3,25,"Cape Verde, Portugal","1,86m",left,€0,"Jun 30, 2025",Right Winger,€70.000.00,€0
+Ricardinho,Santa_Clara,Primeira_Liga,39.9,49.8,26,Portugal,"1,78m",right,€0,"Jun 30, 2025",Left Winger,€280.000.00,€0
+Sirlord Conteh,Heidenheim,Bundesliga,39.7,55.5,28,"Germany, Ghana","1,78m",right,€1.500.000,"Jun 30, 2027",Right Winger,€380.000.00,€0
+Diego Fagúndez,LA_Galaxy,MLS,39.7,43.9,30,"Uruguay, United States","1,71m",right,€2.500.000,"Dec 31, 2025",Left Winger,€1.103.344.00,€0
+Emil Forsberg,NY_Red_Bulls,MLS,39.6,48.9,33,Sweden,"1,77m",right,€3.500.000,"Dec 31, 2026",Left Winger,€4.770.859.00,€0
+Fabrício Garcia,Estoril,Primeira_Liga,39.6,53.2,24,Cape Verde,"1,72m",left,€0,"Jun 30, 2026",Right Winger,€120.000.00,€0
+Tomás Conechny,Alaves,La_Liga,39.5,48.3,27,"Argentina, Poland","1,76m",left,€2.000.000,"Jun 30, 2028",Left Winger,€840.000.00,€0
+Halil Akbunar,Eyüpspor,Süper_Lig,39.4,45.9,,,,,,,,,
+Riccardo Sottil,Fiorentina,Serie_A,39.4,54.1,,,,,,,,€560.000.00,€0
+Mayckel Lahdo,AZ_Alkmaar,Eredivisie,39.3,47.2,22,"Sweden, Syria","1,71m",right,€3.000.000,"Jun 30, 2027",Right Winger,€60.000.00,€0
+Gonçalo Borges,Porto,Primeira_Liga,39.3,43.5,24,Portugal,"1,84m",right,€5.000.000,"Jun 30, 2027",Right Winger,€300.000.00,€50.000.000
+Jack Clarke,Ipswich_Town,EPL,39.2,58.6,24,England,"1,81m",right,€15.000.000,"Jun 30, 2029",Left Winger,,
+Gonçalo Guedes,Wolverhampton_Wanderers,EPL,39.1,45.3,28,Portugal,"1,79m",right,€13.000.000,"Jun 30, 2027",Left Winger,€5.550.342.00,€0
+Marco Matias,Farense,Primeira_Liga,39.1,43.5,35,Portugal,"1,77m",right,€0,"Jun 30, 2025",Left Winger,€160.000.00,€0
+Chidera Ejuke,Sevilla,La_Liga,38.9,55.7,27,Nigeria,"1,76m",right,€6.000.000,"Jun 30, 2027",Left Winger,€1.780.000.00,€0
+Lorenzo Insigne,Toronto_FC,MLS,38.9,47.4,33,Italy,"1,63m",right,€2.000.000,"Jun 30, 2026",Left Winger,€6.620.063.00,€0
+Ethan Nwaneri,Arsenal,EPL,38.9,52.6,18,"England, Nigeria","1,76m",left,€55.000.000,"Jun 30, 2030",Right Winger,€370.023.00,€0
+Pedro,Lazio,Serie_A,38.9,53.8,37,Spain,"1,67m",both,€1.000.000,"Jun 30, 2025",Right Winger,€2.820.000.00,€0
+Justin Njinmah,Werder_Bremen,Bundesliga,38.9,58.2,24,"Germany, Nigeria","1,85m",right,€7.000.000,"Jun 30, 2027",Right Winger,€1.150.000.00,€0
+Romaine Mundle,Sunderland,Championship,38.9,48.5,22,"England, Jamaica",-,right,€5.500.000,"Jun 30, 2028",Left Winger,€308.352.00,€0
+Célio Pompeu,St_Louis,MLS,38.9,48.6,25,Brazil,"1,78m",,€1.200.000,"Dec 31, 2026",Left Winger,€144.843.00,€0
+Amahl Pellegrino,SJ_Earthquakes,MLS,38.8,48.3,34,"Norway, Tanzania","1,90m",right,€0,"Dec 31, 2025",Left Winger,€750.274.00,€0
+Ramazan Civelek,Kayserispor,Süper_Lig,38.8,50.1,29,Türkiye,"1,71m",right,€0,"Jun 30, 2025",Right Winger,€750.000.00,€0
+Leon Bailey,Aston_Villa,EPL,38.8,52.8,27,Jamaica,"1,78m",left,€32.000.000,"Jun 30, 2027",Right Winger,,
+Gökdeniz Bayrakdar,BB_Bodrumspor,Süper_Lig,38.7,45.9,23,Türkiye,"1,81m",left,€2.100.000,"Jun 30, 2027",Right Winger,€250.000.00,€0
+Tyrese Spicer,Toronto_FC,MLS,38.7,43.3,24,Trinidad and Tobago,"1,85m",left,€0,"Dec 31, 2025",Left Winger,€63.024.00,€0
+Juho Talvitie,Heracles_Almelo,Eredivisie,38.6,52.8,20,Finland,"1,86m",left,€0,"Jun 30, 2025",Right Winger,€100.000.00,€0
+Ariel Lassiter,CF_Montréal,MLS,38.6,44.4,,,,,,,,,
+Nathan Tella,Bayer_Leverkusen,Bundesliga,38.6,63.8,25,"Nigeria, England","1,73m",right,€18.000.000,"Jun 30, 2028",Right Midfield,,
+Ernest Poku,AZ_Alkmaar,Eredivisie,38.5,48.8,21,"Netherlands, Ghana","1,76m",right,€3.000.000,"Jun 30, 2026",Right Winger,€80.000.00,€0
+Allan Saint-Maximin,Fenerbahçe,Süper_Lig,38.5,51.2,,,,,,,,€0.00,€0
+Kwadwo Baah,Watford,Championship,38.4,46.2,22,"Germany, England","1,82m",right,€0,"Jun 30, 2029",Left Winger,€647.540.00,€0
+Duncan Watmore,Millwall,Championship,38.4,48.7,31,England,"1,75m",right,€0,"Jun 30, 2025",Right Winger,€616.705.00,€0
+Cameron Harper,NY_Red_Bulls,MLS,38.2,46.5,23,"United States, Scotland","1,76m",right,€0,"Dec 31, 2027",Right Winger,€264.803.00,€0
+Morgan Whittaker,Plymouth_Argyle,Championship,38.2,47.6,,,,,,,,,
+Rafik Guitane,Estoril,Primeira_Liga,38.1,47.5,25,"Algeria, France","1,70m",left,€5.000.000,"Jun 30, 2026",Right Winger,€420.000.00,€0
+Siriki Dembélé,Oxford_United,Championship,38.1,46.1,28,"Scotland, Cote d'Ivoire","1,73m",right,€2.200.000,-,Left Winger,€925.057.00,€0
+Xande Silva,Atlanta_Utd,MLS,38.0,45.7,,,,,,,,,
+Pablo Sarabia,Wolverhampton_Wanderers,EPL,38.0,50.5,32,Spain,"1,74m",left,€7.000.000,"Jun 30, 2025",Right Winger,€5.550.342.00,€0
+Timo Werner,Tottenham_Hotspur,EPL,38.0,49.7,29,Germany,"1,80m",right,€10.000.000,"Jun 30, 2025",Left Winger,€10.175.627.00,€0
+Arvin Appiah,Nacional,Primeira_Liga,37.8,46.3,24,"England, Netherlands","1,77m",left,€0,"Jun 30, 2025",Right Winger,€280.000.00,€0
+Mamadou Diakhon,Reims,Ligue_1,37.8,52.9,19,"France, Senegal","1,80m",left,€1.500.000,"Jun 30, 2026",Left Winger,€140.000.00,€0
+Alexander Bernhardsson,Holstein_Kiel,Bundesliga,37.8,63.4,26,Sweden,"1,85m",left,€1.500.000,"Jun 30, 2027",Right Winger,€480.000.00,€0
+Grady Diangana,West_Bromwich_Albion,Championship,37.5,48.3,27,"DR Congo, England","1,80m",left,€3.800.000,"Jun 30, 2025",Right Winger,€1.257.129.00,€0
+Abdallah Sima,Brest,Ligue_1,37.5,55.5,23,Senegal,"1,88m",right,€10.000.000,"Jun 30, 2025",Left Winger,€1.300.000.00,€0
+Elias Saad,St_Pauli,Bundesliga,37.4,57.2,25,"Tunisia, Germany","1,85m",right,€4.000.000,-,Left Winger,€300.000.00,€0
+Delano Burgzorg,Middlesbrough,Championship,37.2,55.6,26,"Suriname, Netherlands","1,86m",right,€2.200.000,"Jun 30, 2028",Left Winger,€1.233.409.00,€0
+Anthony Musaba,Sheffield_Wednesday,Championship,37.2,45.5,24,"Netherlands, DR Congo","1,82m",both,€1.300.000,"Jun 30, 2025",Right Winger,€616.705.00,€0
+Younes Namli,Zwolle,Eredivisie,37.2,45.2,30,"Denmark, Morocco","1,80m",left,€1.600.000,"Jun 30, 2025",Right Winger,€490.000.00,€0
+Rodrigo Gomes,Wolverhampton_Wanderers,EPL,37.1,44.0,21,Portugal,"1,75m",right,€15.000.000,"Jun 30, 2029",Right Midfield,€1.541.762.00,€0
+Emre Mor,Eyüpspor,Süper_Lig,37.0,45.7,,,,,,,,,
+Samuel Iling-Junior,Middlesbrough,Championship,36.9,40.0,21,"England, DR Congo","1,82m",left,€11.000.000,"Jun 30, 2025",Left Winger,€925.057.00,€0
+Marcus Edwards,Burnley,Championship,36.8,44.1,26,"England, Cyprus","1,68m",left,€15.000.000,"Jun 30, 2025",Right Winger,€1.387.585.00,€0
+Darwin Machís,Valladolid,La_Liga,36.8,42.9,32,"Venezuela, Spain","1,71m",right,€1.000.000,"Jun 30, 2026",Left Winger,€1.450.000.00,€0
+Yann Karamoh,Torino,Serie_A,36.8,49.3,26,"France, Cote d'Ivoire","1,84m",right,€2.200.000,"Jun 30, 2025",Left Winger,€1.850.000.00,€0
+Lewis Koumas,Stoke_City,Championship,36.7,49.6,19,"Wales, England","1,82m",right,€1.500.000,"May 31, 2025",Left Winger,€308.352.00,€0
+Ismaël Gharbi,Braga,Primeira_Liga,36.7,48.0,21,"Spain, France","1,73m",right,€7.500.000,"Jun 30, 2029",Left Winger,€480.000.00,€0
+Oliver Edvardsen,Go_Ahead_Eag,Eredivisie,36.7,50.4,,,,,,,,,
+Jack Grealish,Manchester_City,EPL,36.6,52.7,29,"England, Ireland","1,80m",right,€35.000.000,"Jun 30, 2027",Left Winger,,
+Assane Diao,Como,Serie_A,36.5,57.8,19,"Senegal, Spain","1,85m",right,€25.000.000,"Jun 30, 2029",Right Winger,€930.000.00,€0
+Ilias Akhomach,Villareal,La_Liga,36.5,52.8,21,"Morocco, Spain","1,75m",left,€15.000.000,"Jun 30, 2026",Right Winger,,
+Edwin Mosquera,Atlanta_Utd,MLS,36.3,43.0,23,Colombia,"1,72m",right,€0,"Dec 31, 2025",Left Winger,€353.070.00,€0
+Cihan Çanak,Trabzonspor,Süper_Lig,36.3,42.2,20,"Türkiye, Belgium","1,75m",left,€3.700.000,"Jun 30, 2027",Right Winger,€780.000.00,€0
+Anwar El Ghazi,Cardiff_City,Championship,36.3,42.7,30,"Netherlands, Morocco","1,89m",right,€1.800.000,"Jun 30, 2025",Right Winger,€1.233.409.00,€0
+Ollie Tanner,Cardiff_City,Championship,36.1,46.1,22,England,"1,77m",left,€1.500.000,"Jun 30, 2027",Right Winger,€462.528.00,€0
+Tom Ince,Watford,Championship,36.1,43.8,33,"England, Barbados","1,78m",left,€0,"Jun 30, 2026",Right Winger,€1.850.114.00,€0
+João Mário,Beşiktaş,Süper_Lig,36.0,43.8,,,,,,,,,
+Ibrahim Osman,Feyenoord,Eredivisie,36.0,44.9,20,Ghana,"1,79m",right,€12.000.000,"Jun 30, 2025",Left Winger,€1.570.000.00,€0
+Mattia Felici,Cagliari,Serie_A,36.0,46.6,24,Italy,"1,82m",right,€3.000.000,"Jun 30, 2027",Left Winger,€460.000.00,€0
+Oscar Schwartau,Norwich_City,Championship,36.0,47.6,18,Denmark,"1,86m",right,€2.200.000,"Jun 30, 2028",Right Winger,€308.352.00,€0
+Harry Wilson,Fulham,EPL,36.0,47.7,28,"Wales, England","1,73m",left,€17.000.000,"Jun 30, 2026",Right Winger,€2.158.466.00,€0
+Jovane Cabral,Estrela,Primeira_Liga,35.9,46.0,26,"Cape Verde, Portugal","1,74m",right,€1.500.000,"Jun 30, 2026",Left Winger,€480.000.00,€0
+Rodrigo Riquelme,Atletico_Madrid,La_Liga,35.9,45.1,25,Spain,"1,74m",right,€18.000.000,"Jun 30, 2028",Left Winger,€620.000.00,€0
+Isaiah Jones,Luton_Town,Championship,35.9,42.9,25,"Guyana, England","1,76m",right,€5.000.000,-,Right Winger,€1.233.409.00,€0
+Oleksandr Zubkov,Trabzonspor,Süper_Lig,35.8,42.2,28,Ukraine,"1,82m",left,€8.000.000,"Jun 30, 2029",Right Winger,€1.220.000.00,€0
+Jordi Mboula,Gil_Vicente_FC,Primeira_Liga,35.8,45.3,26,"Spain, Congo","1,83m",right,€0,"Jun 30, 2026",Right Winger,€670.000.00,€0
+Patrick Joosten,Willem_II,Eredivisie,35.8,38.6,29,"Netherlands, Ghana","1,85m",right,€0,"Jun 30, 2025",Left Winger,€240.000.00,€0
+Ángel Correa,Atletico_Madrid,La_Liga,35.7,49.3,30,"Argentina, Spain","1,71m",right,€15.000.000,"Jun 30, 2026",Right Winger,€3.500.000.00,€0
+Mats Seuntjens,Groningen,Eredivisie,35.7,37.4,33,Netherlands,"1,87m",right,€0,"Jun 30, 2026",Left Winger,€400.000.00,€0
+Wilson Odobert,Tottenham_Hotspur,EPL,35.6,45.5,20,"France, Martinique","1,82m",right,€18.000.000,"Jun 30, 2029",Left Winger,€1.541.762.00,€0
+Dennis Gjengaar,NY_Red_Bulls,MLS,35.6,37.5,21,Norway,"1,76m",right,€1.500.000,"Dec 31, 2027",Right Winger,€300.110.00,€0
+Josip Brekalo,Kasımpaşa,Süper_Lig,35.6,42.7,,,,,,,,€2.670.000.00,€0
+Bernard Kamungo,FC_Dallas,MLS,35.6,43.4,23,"United States, Tanzania","1,75m",left,€1.200.000,"Dec 31, 2027",Right Winger,€79.190.00,€0
+Andros Townsend,Antalyaspor,Süper_Lig,35.4,39.6,33,England,"1,81m",left,€1.000.000,"Jun 30, 2026",Right Winger,€1.160.000.00,€0
+Pedro Brazão,BB_Bodrumspor,Süper_Lig,35.4,39.6,22,Portugal,"1,78m",left,€0,"Jun 30, 2026",Right Winger,€150.000.00,€0
+İsmail Köybaşı,Göztepe,Süper_Lig,35.4,36.1,,,,,,,,€170.000.00,€0
+Tyler Boyd,Nashville_SC,MLS,35.4,43.2,30,"United States, New Zealand","1,83m",right,€1.000.000,"Dec 31, 2026",Left Winger,€679.660.00,€0
+Jeremy Antonisse,Moreirense,Primeira_Liga,35.3,43.9,23,"Curacao, Netherlands","1,84m",right,€0,"Jun 30, 2027",Left Winger,€270.000.00,€0
+Takuma Asano,Mallorca,La_Liga,35.2,42.9,30,Japan,"1,73m",right,€2.500.000,"Jun 30, 2026",Right Winger,€840.000.00,€0
+Rochinha,Famalicão,Primeira_Liga,35.2,40.2,30,Portugal,"1,69m",right,€1.500.000,"Jun 30, 2027",Left Winger,€860.000.00,€0
+Emrah Başsan,Sivasspor,Süper_Lig,35.2,42.2,33,Türkiye,"1,77m",left,€0,"Jun 30, 2025",Right Winger,€600.000.00,€0
+Altin Zeqiri,Rizespor,Süper_Lig,35.1,38.7,24,"Kosovo, Finland","1,85m",right,€1.400.000,"Jun 30, 2026",Left Winger,€250.000.00,€0
+Lynden Gooch,Stoke_City,Championship,35.1,38.5,29,"United States, Ireland","1,73m",right,€1.200.000,"Jun 30, 2025",Right Winger,€555.034.00,€0
+Rony Lopes,Farense,Primeira_Liga,35.0,47.8,29,"Portugal, Brazil","1,74m",left,€2.000.000,"Jun 30, 2025",Right Winger,€960.000.00,€0
+Kosi Thompson,Toronto_FC,MLS,35.0,40.3,22,Canada,"1,80m",right,€0,"Dec 31, 2025",Right Midfield,€83.854.00,€0
+Amine Adli,Bayer_Leverkusen,Bundesliga,35.0,61.2,24,"Morocco, France","1,80m",left,€22.000.000,"Jun 30, 2028",Left Winger,,
+Victor Moses,Luton_Town,Championship,34.9,42.7,34,"Nigeria, England","1,77m",right,€0,"Jun 30, 2025",Right Winger,€1.541.762.00,€0
+Tomás Chancalay,NE_Revolution,MLS,34.9,44.3,26,Argentina,"1,79m",right,€2.500.000,"Dec 31, 2026",Left Winger,€838.541.00,€0
+Serdar Gürler,Başakşehir,Süper_Lig,34.9,41.4,33,"Türkiye, France","1,75m",right,€0,"Jun 30, 2025",Left Winger,€1.170.000.00,€0
+Morgan Whittaker,Middlesbrough,Championship,34.8,44.4,24,England,"1,83m",left,€11.000.000,"Jun 30, 2029",Right Winger,€1.541.762.00,€0
+Brajan Gruda,Brighton_and_Hove_Albion,EPL,34.7,46.1,20,"Germany, Albania","1,78m",left,€25.000.000,"Jun 30, 2028",Right Winger,€3.083.523.00,€0
+Paddy Lane,Portsmouth,Championship,34.7,41.2,24,"Northern Ireland, England","1,77m",left,€0,"Jun 30, 2026",Right Winger,€123.341.00,€0
+Munir El Haddadi,Leganes,La_Liga,34.7,42.9,29,"Morocco, Spain","1,77m",left,€1.500.000,"Jun 30, 2026",Right Winger,,
+Salih Kavrazlı,Adana_Demirspor,Süper_Lig,34.6,37.0,23,Türkiye,"1,78m",right,€0,"Jun 30, 2025",Left Winger,€80.000.00,€0
+Louka Prip,Konyaspor,Süper_Lig,34.6,40.5,27,Denmark,"1,82m",left,€1.100.000,"Jun 30, 2025",Right Winger,€250.000.00,€0
+Rasmus Alm,St_Louis,MLS,34.5,39.1,29,Sweden,"1,74m",,€1.800.000,"Dec 31, 2025",Right Winger,€234.350.00,€0
+Matt Phillips,Oxford_United,Championship,34.5,36.6,34,"Scotland, England","1,83m",right,€0,-,Right Winger,€1.079.233.00,€0
+Osman Bukari,Austin,MLS,34.5,42.6,26,"Ghana, Serbia","1,70m",both,€6.000.000,"Dec 31, 2027",Right Winger,€882.675.00,€0
+Isaiah Jones,Middlesbrough,Championship,34.5,41.6,,,,,,,,,
+Jed Wallace,West_Bromwich_Albion,Championship,34.5,40.0,31,England,"1,78m",right,€2.800.000,"Jun 30, 2026",Right Winger,€1.541.762.00,€0
+Kasey McAteer,Leicester_City,EPL,34.4,38.1,23,"Ireland, England","1,77m",right,€0,"Jun 30, 2028",Right Winger,€925.057.00,€0
+Florian Bianchini,Swansea_City,Championship,34.4,39.2,23,"France, DR Congo","1,82m",right,€2.000.000,"Jun 30, 2028",Right Winger,€154.176.00,€0
+Luca Langoni,NE_Revolution,MLS,34.4,37.9,23,Argentina,"1,75m",right,€5.500.000,"Dec 31, 2027",Right Winger,€538.432.00,€0
+Dante Sealy,FC_Dallas,MLS,34.4,41.1,,,,,,,,,
+Jeremy Sarmiento,Burnley,Championship,34.4,47.8,22,"Ecuador, England","1,78m",right,€7.000.000,"May 31, 2025",Left Winger,€925.057.00,€0
+Martin Terrier,Bayer_Leverkusen,Bundesliga,34.3,57.3,28,France,"1,84m",right,€17.000.000,"Jun 30, 2029",Left Winger,,
+Kamal Sowah,NAC_Breda,Eredivisie,34.3,38.0,25,"Ghana, Belgium","1,79m",left,€1.000.000,"Jun 30, 2027",Right Winger,€490.000.00,€0
+Loum Tchaouna,Lazio,Serie_A,34.3,51.6,21,"France, Chad","1,80m",left,€10.000.000,"Jun 30, 2029",Right Winger,€1.850.000.00,€60.000.000
+Junior Messias,Genoa,Serie_A,34.1,44.3,33,"Brazil, Italy","1,74m",left,€2.000.000,"Jun 30, 2025",Right Winger,€3.700.000.00,€0
+Julián Fernández,New_York_City_FC,MLS,34.1,40.7,21,Argentina,"1,83m",left,€4.500.000,"Dec 31, 2027",Right Winger,€497.829.00,€0
+Tom Watson,Sunderland,Championship,34.1,41.7,19,England,"1,90m",right,€0,"Jun 30, 2026",Left Winger,€92.506.00,€0
+Jonathan Okita,BB_Bodrumspor,Süper_Lig,33.7,36.1,28,"DR Congo, Germany","1,81m",right,€0,"Jun 30, 2027",Left Winger,€750.000.00,€0
+André Lacximicant,Estoril,Primeira_Liga,33.7,41.3,23,Portugal,"1,88m",left,€0,"Jun 30, 2028",Left Winger,€380.000.00,€0
+Liam Millar,Hull_City,Championship,33.5,40.8,25,"Canada, England","1,81m",right,€3.500.000,"Jun 30, 2027",Left Winger,€925.057.00,€0
+Bobby De Cordova-Reid,Leicester_City,EPL,33.5,32.8,32,"Jamaica, England","1,70m",right,€4.000.000,"Jun 30, 2027",Right Winger,,
+Aidomo Emakhu,Millwall,Championship,33.5,43.7,21,"Ireland, Nigeria","1,80m",right,€0,"Jun 30, 2026",Left Winger,€400.858.00,€0
+Largie Ramazani,Leeds_United,Championship,33.4,42.9,24,"Belgium, Burundi","1,68m",right,€7.500.000,"Jun 30, 2028",Left Winger,€1.079.233.00,€0
+Iuri Tavares,Charlotte,MLS,33.4,41.7,24,"Cape Verde, Portugal","1,91m",right,€1.000.000,"Dec 31, 2026",Left Winger,€79.190.00,€0
+Ibrahim Cissoko,Plymouth_Argyle,Championship,33.3,43.0,,,,,,,,,
+Álex Bermejo,Farense,Primeira_Liga,33.2,42.2,26,Spain,"1,83m",right,€0,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Nathan Broadhead,Ipswich_Town,EPL,33.1,48.8,27,Wales,"1,78m",right,€5.000.000,"Jun 30, 2026",Left Winger,,
+Silvester van der Water,RKC_Waalwijk,Eredivisie,33.0,42.6,28,Netherlands,"1,84m",left,€0,"Jun 30, 2025",Right Winger,€240.000.00,€0
+Ola Solbakken,Empoli,Serie_A,33.0,46.1,26,Norway,"1,89m",left,€2.500.000,"Jun 30, 2025",Right Winger,€900.000.00,€0
+Stephen Afrifa,Sporting_KC,MLS,32.6,42.2,24,"Canada, Ghana","1,80m",right,€0,"Dec 31, 2025",Left Winger,€63.024.00,€0
+Abdoulay Diaby,Boavista,Primeira_Liga,32.5,40.8,33,"Mali, France","1,73m",left,€0,"Jun 30, 2025",Right Winger,,
+Onel Hernández,Norwich_City,Championship,32.5,41.1,32,"Cuba, Germany","1,72m",right,€0,"Jun 30, 2025",Left Winger,€1.202.574.00,€0
+Rui Mendes,Groningen,Eredivisie,32.3,41.4,25,Portugal,"1,79m",right,€0,"Jun 30, 2027",Right Winger,€250.000.00,€0
+Lewis Dobbin,Norwich_City,Championship,32.1,37.1,22,England,"1,75m",right,€2.500.000,"May 31, 2025",Left Winger,€1.079.233.00,€0
+Juanmi,Getafe,La_Liga,32.0,47.1,31,Spain,"1,72m",right,€2.800.000,"Jun 30, 2025",Left Winger,€2.400.000.00,€0
+Chico Banza,Estrela,Primeira_Liga,31.3,42.0,26,Angola,"1,82m",right,€0,"Jun 30, 2028",Left Winger,€240.000.00,€0
+Josh Ginnelly,Swansea_City,Championship,30.0,30.0,28,England,"1,75m",left,€0,"Jun 30, 2026",Left Winger,€308.352.00,€0
+Stanley Mills,Oxford_United,Championship,30.0,30.0,21,England,"1,80m",,€0,-,Right Winger,€92.506.00,€0
+Jesper Karlsson,Lecce,Serie_A,30.0,30.0,26,Sweden,"1,79m",right,€4.500.000,"Jun 30, 2025",Left Winger,€1.030.000.00,€0
+Samuel Shashoua,Minnesota_Utd,MLS,30.0,30.0,25,"England, Venezuela","1,70m",right,€0,"Dec 31, 2025",Left Winger,,
+Jefferson Cáceres,Sheffield_United,Championship,30.0,30.0,22,Peru,"1,70m",right,€1.000.000,"Jun 30, 2027",Left Winger,€308.352.00,€0
+Loïc Mesanvi,Minnesota_Utd,MLS,30.0,30.0,21,"Togo, United States","1,73m",,€0,"Dec 31, 2025",Left Winger,,
+Nicola Sansone,Lecce,Serie_A,30.0,30.0,33,"Italy, Germany","1,74m",right,€0,"Jun 30, 2025",Left Winger,€1.000.000.00,€0
+Marco Palestra,Atalanta,Serie_A,30.0,30.0,20,Italy,"1,86m",right,€3.000.000,-,Right Midfield,€220.000.00,€0
+Camiel Neghli,Millwall,Championship,30.0,30.0,23,"Algeria, Netherlands","1,79m",left,€2.500.000,-,Right Winger,€462.528.00,€0
+Kimani Stewart-Baynes,Colorado_Rapids,MLS,30.0,30.0,20,"Canada, St. Vincent & Grenadinen","1,75m",,€0,"Dec 31, 2026",Left Winger,€63.024.00,€0
+Lawrence Ennali,Houston_Dynamo,MLS,30.0,30.0,23,Germany,"1,72m",right,€2.500.000,"Dec 31, 2026",Left Winger,€397.204.00,€0
+Nordin Amrabat,Hull_City,Championship,30.0,30.0,38,"Morocco, Netherlands","1,79m",right,€0,"Jun 30, 2025",Right Winger,€925.057.00,€0
+Joe Ward,Derby_County,Championship,30.0,30.0,29,England,"1,67m",right,€0,"Jun 30, 2026",Right Midfield,€308.352.00,€0
+Ibrahim Cissoko,Sheffield_Wednesday,Championship,30.0,30.0,22,"Netherlands, Guinea","1,88m",right,€1.500.000,"Jun 30, 2025",Left Winger,€462.528.00,€0
+Tom Barkhuizen,Derby_County,Championship,30.0,30.0,31,"England, South Africa","1,75m",right,€0,"Jun 30, 2025",Left Winger,€450.669.00,€0
+Sam Bell,Bristol_City,Championship,30.0,30.0,22,England,"1,78m",right,€1.200.000,"Jun 30, 2025",Left Winger,€118.597.00,€0
+Nicolò Cambiaghi,Bologna,Serie_A,30.0,30.0,24,Italy,"1,73m",right,€7.000.000,"Jun 30, 2029",Left Winger,€1.110.000.00,€0
+Malcolm Fry,NE_Revolution,MLS,30.0,30.0,19,United States,"1,75m",left,€0,"Dec 31, 2026",Right Winger,€63.024.00,€0
+Jesper Karlsson,Bologna,Serie_A,30.0,30.0,,,,,,,,,
+Corey Blackett-Taylor,Derby_County,Championship,30.0,30.0,27,England,"1,80m",right,€0,"Jun 30, 2027",Left Winger,€246.682.00,€0
+Nicola Zalewski,Internazionale,Serie_A,30.0,30.0,23,Poland,"1,75m",right,€10.000.000,"Jun 30, 2025",Left Midfield,€930.000.00,€0
+Louie Barry,Hull_City,Championship,30.0,30.0,21,"England, Ireland","1,74m",right,€1.800.000,"May 31, 2025",Left Winger,€431.693.00,€0
+Luke Brennan,Atlanta_Utd,MLS,30.0,30.0,20,United States,"1,80m",,€0,"Dec 31, 2027",Right Midfield,€63.024.00,€0
+Olaf Kobacki,Sheffield_Wednesday,Championship,30.0,30.0,23,Poland,"1,78m",right,€0,"Jun 30, 2028",Left Winger,€493.364.00,€0
+Rui Modesto,Udinese,Serie_A,30.0,30.0,25,"Angola, Portugal","1,81m",right,€1.800.000,"Jun 30, 2029",Right Midfield,€740.000.00,€0
+Josh Bowler,Preston_North_End,Championship,30.0,30.0,,,,,,,,,
+Ali Dembélé,Torino,Serie_A,30.0,30.0,21,"France, Mali","1,89m",right,€0,"Jun 30, 2026",Right Midfield,€280.000.00,€0
+Daniel Bennie,Queens_Park_Rangers,Championship,30.0,30.0,19,"Australia, Hongkong","1,81m",both,€0,-,Left Winger,€92.506.00,€0
+Tarik Scott,FC_Dallas,MLS,30.0,30.0,20,"Jamaica, United States","1,78m",right,€0,"Dec 31, 2025",Left Winger,€79.190.00,€0
+Adrian Benedyczak,Parma,Serie_A,30.0,30.0,24,Poland,"1,91m",both,€4.500.000,"Jun 30, 2028",Left Winger,€770.000.00,€0
+Jacob Ondrejka,Parma,Serie_A,30.0,30.0,22,Sweden,"1,79m",right,€7.000.000,"Jun 30, 2029",Left Winger,€930.000.00,€0
+Cyril Ngonge,Napoli,Serie_A,30.0,30.0,24,"Belgium, DR Congo","1,80m",left,€10.000.000,"Jun 30, 2028",Right Winger,€1.540.000.00,€0
+Lewis Dobbin,West_Bromwich_Albion,Championship,30.0,30.0,,,,,,,,,
+Maxwel Cornet,Genoa,Serie_A,30.0,30.0,28,"Cote d'Ivoire, France","1,79m",left,€8.000.000,"Jun 30, 2025",Left Winger,€1.390.000.00,€0
+David Martínez,Los_Angeles_FC,MLS,30.0,30.0,19,Venezuela,"1,78m",left,€3.000.000,"Dec 31, 2027",Right Winger,€441.338.00,€0
+Nathan Redmond,Burnley,Championship,30.0,30.0,31,"England, Jamaica","1,73m",right,€2.500.000,"Jun 30, 2025",Right Winger,€2.158.466.00,€0
+Adrian Wibowo,Los_Angeles_FC,MLS,30.0,30.0,19,"United States, Indonesia","1,82m",,€0,"Dec 31, 2025",Right Winger,€63.024.00,€0
+Benson Manuel,Burnley,Championship,30.0,30.0,28,"Angola, Belgium","1,66m",left,€4.500.000,"Jun 30, 2027",Right Winger,€1.541.762.00,€0
+Enock Agyei,Burnley,Championship,30.0,30.0,20,"Belgium, Ghana","1,72m",left,€0,"Jun 30, 2027",Right Winger,€246.682.00,€0
+Randall Leal,Nashville_SC,MLS,30.0,30.0,,,,,,,,,
+Malachi Jones,New_York_City_FC,MLS,30.0,30.0,21,"Sierra Leone, United States","1,78m",left,€0,"Dec 31, 2026",Left Winger,€63.024.00,€0
+Noah Okafor,Milan,Serie_A,30.0,30.0,,,,,,,,€1.280.000.00,€0
+Riccardo Sottil,Milan,Serie_A,30.0,30.0,25,Italy,"1,80m",right,€6.000.000,"Jun 30, 2025",Left Winger,€560.000.00,€0
+Alexis Saelemaekers,Milan,Serie_A,30.0,30.0,,,,,,,,,
+André Vidigal,Stoke_City,Championship,30.0,30.0,26,"Angola, Portugal","1,76m",right,€1.500.000,"Jun 30, 2026",Left Winger,€431.693.00,€0
+Alessio Iovine,Como,Serie_A,30.0,30.0,34,Italy,"1,74m",right,€0,-,Right Midfield,€150.000.00,€0
+Yutaro Tsukada,Orlando_City,MLS,30.0,30.0,23,Japan,"1,80m",,€0,"Dec 31, 2025",Left Winger,€63.024.00,€0
+Noah Okafor,Napoli,Serie_A,30.0,30.0,24,"Switzerland, Nigeria","1,85m",right,€15.000.000,"Jun 30, 2025",Left Winger,€1.280.000.00,€0
+Raphael Borges Rodrigues,Coventry_City,Championship,30.0,30.0,21,"Australia, Brazil","1,73m",right,€0,"Jun 30, 2028",Left Winger,€92.506.00,€0
+Kaide Gordon,Norwich_City,Championship,30.0,30.0,,,,,,,,,
+Kaide Gordon,Portsmouth,Championship,30.0,30.0,20,"England, Jamaica","1,73m",left,€1.200.000,"May 31, 2025",Right Winger,€308.352.00,€0
+Harvey Blair,Portsmouth,Championship,30.0,30.0,21,"England, Jamaica",-,right,€0,"Jun 30, 2027",Right Winger,€185.011.00,€0
+Lassi Lappalainen,CF_Montréal,MLS,30.0,30.0,,,,,,,,,
+Raoul Bellanova,Torino,Serie_A,30.0,30.0,,,,,,,,,
+Omari Forson,Monza,Serie_A,30.0,30.0,20,"England, Ghana","1,79m",left,€2.000.000,"Jun 30, 2028",Right Winger,€560.000.00,€0
+Maat Daniel Caprini,Fiorentina,Serie_A,30.0,30.0,19,"Italy, France","1,80m",right,€2.000.000,"Jun 30, 2027",Left Winger,,
+Tony Springett,Norwich_City,Championship,30.0,30.0,22,"Ireland, England","1,74m",left,€0,"Jun 30, 2025",Right Winger,€308.352.00,€0
+Abu Kamara,Norwich_City,Championship,30.0,30.0,,,,,,,,,
+Nathaniel Edwards,Toronto_FC,MLS,30.0,30.0,22,"Canada, Jamaica",-,,€0,"Dec 31, 2025",Left Midfield,€63.024.00,€0
+David Vazquez,Philadelphia_Union,MLS,30.0,30.0,19,United States,"1,75m",left,€0,"Dec 31, 2027",Right Midfield,€63.024.00,€0
+Kevin Martins,Monza,Serie_A,30.0,30.0,20,"Italy, Nigeria","1,80m",right,€1.500.000,"Jun 30, 2027",Right Winger,€130.000.00,€0
+Josh Bowler,Luton_Town,Championship,30.0,30.0,26,England,"1,84m",left,€1.200.000,"May 31, 2025",Right Winger,€925.057.00,€0
+Keita Baldé,Monza,Serie_A,30.0,30.0,30,"Senegal, Spain","1,78m",both,€1.000.000,"Jun 30, 2025",Left Winger,€560.000.00,€0
+Florinel Coman,Cagliari,Serie_A,30.0,30.0,27,Romania,"1,82m",right,€6.000.000,"Jun 30, 2025",Left Winger,€2.000.000.00,€0
+Jakub Jankto,Cagliari,Serie_A,30.0,30.0,29,Czech Republic,"1,84m",left,€1.000.000,"Jun 30, 2025",Left Midfield,€1.850.000.00,€0
+Ariel Lassiter,Chicago_Fire,MLS,30.0,30.0,,,,,,,,,
+Jack Burroughs,Coventry_City,Championship,30.0,30.0,24,"Scotland, England","1,88m",right,€0,"Jun 30, 2025",Right Midfield,€215.847.00,€0
+Omari Glasgow,Chicago_Fire,MLS,30.0,30.0,21,Guyana,"1,75m",right,€0,"Dec 31, 2026",Right Midfield,€0.00,€0
+Noah Weißhaupt,Freiburg,Bundesliga,30.0,30.0,,,,,,,,,
+Nurettin Korkmaz,Kayserispor,Süper_Lig,30.0,30.0,22,Türkiye,"1,78m",left,€0,"Jun 30, 2025",Left Winger,€70.000.00,€0
+Luis Sinisterra,Bournemouth,EPL,30.0,30.0,25,Colombia,"1,72m",right,€17.000.000,-,Left Winger,€4.008.580.00,€0
+Luis Rioja,Alaves,La_Liga,30.0,30.0,,,,,,,,,
+Andreas Schjelderup,Benfica,Primeira_Liga,30.0,30.0,20,Norway,"1,76m",right,€15.000.000,"Jun 30, 2028",Left Winger,€360.000.00,€0
+Gianluca Prestianni,Benfica,Primeira_Liga,30.0,30.0,19,"Argentina, Italy","1,66m",right,€8.000.000,"Jun 30, 2029",Right Winger,€700.000.00,€0
+Bruma,Benfica,Primeira_Liga,30.0,30.0,30,"Portugal, Guinea-Bissau","1,73m",right,€8.000.000,"Jun 30, 2028",Left Winger,€1.540.000.00,€0
+Portu,Girona,La_Liga,30.0,30.0,32,Spain,"1,67m",right,€2.500.000,"Jun 30, 2027",Right Winger,€1.800.000.00,€0
+Sergi Canós,Valencia,La_Liga,30.0,30.0,28,Spain,"1,77m",right,€1.500.000,"Jun 30, 2027",Left Winger,€1.500.000.00,€0
+Joel Jorquera,Moreirense,Primeira_Liga,30.0,30.0,24,Spain,"1,71m",right,€0,"Jun 30, 2027",Left Winger,€250.000.00,€0
+Gerson Sousa,Estrela,Primeira_Liga,30.0,30.0,22,Portugal,"1,78m",right,€1.300.000,"Jun 30, 2025",Right Winger,€200.000.00,€0
+Gabriel Silva,Sporting_CP,Primeira_Liga,30.0,30.0,,,,,,,,,
+Biel,Sporting_CP,Primeira_Liga,30.0,30.0,24,Brazil,"1,70m",right,€5.000.000,"Jun 30, 2029",Left Winger,€1.150.000.00,€0
+Ansu Fati,Barcelona,La_Liga,30.0,30.0,22,"Spain, Guinea-Bissau","1,78m",right,€5.000.000,"Jun 30, 2027",Left Winger,€13.950.000.00,€1.000.000.000
+Brian Mansilla,Arouca,Primeira_Liga,30.0,30.0,22,Uruguay,"1,76m",left,€1.000.000,"Jun 30, 2025",Left Winger,€280.000.00,€0
+Kenedy,Valladolid,La_Liga,30.0,30.0,29,Brazil,"1,80m",left,€0,"Jun 30, 2027",Left Winger,€1.620.000.00,€0
+Korede Osundina,Casa_Pia,Primeira_Liga,30.0,30.0,21,"United States, Nigeria","1,83m",both,€0,"Jun 30, 2028",Right Winger,€70.000.00,€0
+Jeremy Agbonifo,Lens,Ligue_1,30.0,30.0,19,"Sweden, Nigeria","1,78m",left,€5.000.000,"Jun 30, 2025",Right Winger,€220.000.00,€0
+Kazeem Olaigbe,Rennes,Ligue_1,30.0,30.0,22,"Belgium, Nigeria","1,78m",right,€4.000.000,"Jun 30, 2029",Left Winger,€450.000.00,€0
+Tiago Gouveia,Benfica,Primeira_Liga,30.0,30.0,23,Portugal,"1,76m",right,€4.000.000,"Jun 30, 2028",Right Winger,€580.000.00,€0
+Sergio Bermejo,Gil_Vicente_FC,Primeira_Liga,30.0,30.0,27,Spain,"1,70m",left,€0,"Jun 30, 2027",Right Winger,€480.000.00,€0
+Pere Milla,Espanyol,La_Liga,30.0,30.0,32,Spain,"1,80m",left,€1.500.000,"Jun 30, 2027",Left Winger,€520.000.00,€0
+João Marques,Gil_Vicente_FC,Primeira_Liga,30.0,30.0,23,Portugal,"1,79m",right,€3.000.000,"Jun 30, 2025",Left Winger,€480.000.00,€0
+Adnan Januzaj,Las_Palmas,La_Liga,30.0,30.0,30,"Belgium, Kosovo","1,86m",left,€1.200.000,"Jun 30, 2025",Right Winger,€3.200.000.00,€0
+Yassir Zabiri,Famalicão,Primeira_Liga,30.0,30.0,20,Morocco,"1,77m",right,€0,"Jun 30, 2028",Right Winger,€70.000.00,€0
+Benito Ramírez,Las_Palmas,La_Liga,30.0,30.0,29,Spain,"1,79m",left,€0,"Jun 30, 2025",Left Winger,€380.000.00,€0
+Gboly Ariyibi,Boavista,Primeira_Liga,30.0,30.0,30,"England, Nigeria","1,83m",right,€0,"Jun 30, 2025",Left Winger,,
+Tobías Medina,Rio_Ave,Primeira_Liga,30.0,30.0,21,Argentina,"1,70m",left,€1.000.000,"Jun 30, 2028",Left Winger,€80.000.00,€0
+Valery Fernández,Mallorca,La_Liga,30.0,30.0,25,Spain,"1,82m",right,€2.500.000,"Jun 30, 2025",Right Winger,€360.000.00,€0
+Adriel Moraes,Santa_Clara,Primeira_Liga,30.0,30.0,19,Brazil,"1,70m",,€0,-,Right Winger,,
+Úmaro Embaló,Vitoria_Guimaraes,Primeira_Liga,30.0,30.0,23,"Portugal, Guinea-Bissau","1,70m",left,€1.000.000,"Jun 30, 2025",Right Winger,€150.000.00,€0
+Vando Félix,Vitoria_Guimaraes,Primeira_Liga,30.0,30.0,22,Guinea-Bissau,"1,79m",right,€1.000.000,"Jun 30, 2029",Left Winger,€150.000.00,€0
+Chiquinho,Mallorca,La_Liga,30.0,30.0,25,"Portugal, Cape Verde","1,79m",right,€2.500.000,"Jun 30, 2025",Left Winger,€600.000.00,€0
+William Gomes,Porto,Primeira_Liga,30.0,30.0,19,Brazil,"1,71m",left,€9.000.000,"Jun 30, 2029",Left Winger,€480.000.00,€0
+Rafik Guitane,Braga,Primeira_Liga,30.0,30.0,,,,,,,,,
+João Marques,Braga,Primeira_Liga,30.0,30.0,,,,,,,,,
+Arkaitz Mariezkurrena,Real_Sociedad,La_Liga,30.0,30.0,20,Spain,-,,€0,"Jun 30, 2029",Left Winger,,
+Duk,Leganes,La_Liga,30.0,30.0,25,"Cape Verde, Portugal","1,82m",right,€1.200.000,"Jun 30, 2025",Left Winger,,
+Ibrahim Mbaye,Paris_Saint_Germain,Ligue_1,30.0,30.0,17,"France, Senegal",-,right,€2.000.000,"Jun 30, 2027",Right Winger,€120.000.00,€0
+Tajon Buchanan,Villareal,La_Liga,30.0,30.0,26,"Canada, Jamaica","1,83m",right,€6.000.000,"Jun 30, 2025",Right Winger,,
+Taylor Booth,Utrecht,Eredivisie,30.0,30.0,,,,,,,,,
+Andu Kelati,Holstein_Kiel,Bundesliga,30.0,30.0,22,"Germany, Eritrea","1,81m",right,€0,"Jun 30, 2028",Left Winger,€140.000.00,€0
+Andreas Skov Olsen,Wolfsburg,Bundesliga,30.0,30.0,25,Denmark,"1,87m",left,€16.000.000,"Jun 30, 2029",Right Winger,€3.400.000.00,€0
+Óscar Perea,Strasbourg,Ligue_1,30.0,30.0,19,Colombia,"1,74m",right,€2.500.000,"Jun 30, 2029",Left Winger,€720.000.00,€0
+Samuel Amo-Ameyaw,Strasbourg,Ligue_1,30.0,30.0,18,"England, Ghana","1,74m",left,€2.000.000,"Jun 30, 2025",Right Winger,€120.000.00,€0
+Kevin Paredes,Wolfsburg,Bundesliga,30.0,30.0,21,"United States, Dominican Republic","1,75m",left,€7.500.000,"Jun 30, 2026",Left Midfield,€900.000.00,€0
+Bazoumana Touré,Hoffenheim,Bundesliga,30.0,30.0,19,Cote d'Ivoire,-,left,€9.000.000,"Jun 30, 2029",Left Winger,€840.000.00,€0
+Jacob Bruun Larsen,Hoffenheim,Bundesliga,30.0,30.0,,,,,,,,,
+Eros Maddy,Auxerre,Ligue_1,30.0,30.0,24,"Netherlands, Liberia","1,77m",right,€0,"Jun 30, 2027",Right Winger,€240.000.00,€0
+Aristide Zossou,Auxerre,Ligue_1,30.0,30.0,19,"Cote d'Ivoire, Benin","1,78m",right,€0,"Jun 30, 2029",Left Winger,€90.000.00,€0
+Lasso Coulibaly,Auxerre,Ligue_1,30.0,30.0,22,Cote d'Ivoire,"1,76m",right,€1.500.000,"Jun 30, 2028",Right Winger,€360.000.00,€0
+Arnaud Nordin,Mainz_05,Bundesliga,30.0,30.0,26,"France, Martinique","1,70m",both,€6.000.000,"Jun 30, 2028",Right Winger,€1.700.000.00,€0
+Cole Campbell,Dortmund,Bundesliga,30.0,30.0,19,"United States, Iceland","1,70m",left,€1.500.000,"Jun 30, 2028",Right Winger,€180.000.00,€0
+Julien Duranville,Dortmund,Bundesliga,30.0,30.0,18,Belgium,"1,73m",right,€8.500.000,-,Left Winger,€240.000.00,€0
+Abdenego Nankishi,Werder_Bremen,Bundesliga,30.0,30.0,22,"Germany, Angola","1,78m",left,€0,"Jun 30, 2025",Left Winger,€90.000.00,€0
+Samuel Bamba,Bochum,Bundesliga,30.0,30.0,21,"Germany, DR Congo","1,79m",both,€0,"Jun 30, 2027",Right Winger,€280.000.00,€0
+Koji Miyoshi,Bochum,Bundesliga,30.0,30.0,28,Japan,"1,67m",left,€1.800.000,"Jun 30, 2028",Right Midfield,€760.000.00,€0
+Junior Dina Ebimbe,Eintracht_Frankfurt,Bundesliga,30.0,30.0,24,"France, Cameroon","1,84m",right,€7.000.000,"Jun 30, 2027",Right Midfield,,
+Romeo Aigbekaen,St_Pauli,Bundesliga,30.0,30.0,20,"Germany, Nigeria","1,89m",both,€0,"Jun 30, 2028",Left Winger,€140.000.00,€0
+Arnaut Danjuma,Villareal,La_Liga,30.0,30.0,,,,,,,,,
+Mohamed Daramy,Reims,Ligue_1,30.0,30.0,23,"Denmark, Sierra Leone","1,80m",right,€5.000.000,"Jun 30, 2028",Left Winger,€1.500.000.00,€0
+Ibrahim Salah,Brest,Ligue_1,30.0,30.0,23,"Morocco, Belgium","1,86m",right,€4.000.000,"Jun 30, 2025",Left Winger,€1.080.000.00,€0
+Lucas Michal,Monaco,Ligue_1,30.0,30.0,19,"France, Martinique",-,right,€0,"Jun 30, 2029",Left Winger,,
+Krépin Diatta,Monaco,Ligue_1,30.0,30.0,26,Senegal,"1,75m",right,€10.000.000,"Jun 30, 2025",Right Winger,€3.000.000.00,€0
+Fer López,Celta_Vigo,La_Liga,30.0,30.0,20,Spain,"1,88m",left,€1.500.000,"Jun 30, 2028",Right Winger,,
+Franco Cervi,Celta_Vigo,La_Liga,30.0,30.0,30,"Argentina, Italy","1,66m",left,€0,"Jun 30, 2026",Left Winger,€1.200.000.00,€0
+Othmane Maamma,Montpellier,Ligue_1,30.0,30.0,19,"Morocco, France","1,82m",both,€0,"Jun 30, 2027",Right Winger,€120.000.00,€0
+Jacob Bruun Larsen,Stuttgart,Bundesliga,30.0,30.0,26,Denmark,"1,83m",right,€6.000.000,"Jun 30, 2027",Left Winger,€2.260.000.00,€0
+Frans Krätzig,Stuttgart,Bundesliga,30.0,30.0,,,,,,,,,
+Justin Diehl,Stuttgart,Bundesliga,30.0,30.0,20,"Germany, Ghana","1,74m",right,€3.500.000,"Jun 30, 2029",Left Winger,€470.000.00,€0
+Ben Old,Saint_Etienne,Ligue_1,30.0,30.0,22,New Zealand,"1,73m",left,€0,"Jun 30, 2028",Left Winger,€240.000.00,€0
+David Preu,Union_Berlin,Bundesliga,30.0,30.0,20,Germany,"1,72m",right,€0,"Jun 30, 2025",Left Winger,€100.000.00,€0
+Noah Edjouma,Toulouse,Ligue_1,30.0,30.0,19,"France, Cameroon","1,82m",right,€0,"Jun 30, 2027",Right Winger,,
+Rafik Messali,Toulouse,Ligue_1,30.0,30.0,22,"Algeria, France","1,77m",right,€0,"Jun 30, 2026",Right Midfield,,
+Tidiam Gomis,RB_Leipzig,Bundesliga,30.0,30.0,18,"France, Senegal","1,83m",right,€3.000.000,"Jun 30, 2029",Left Winger,€570.000.00,€0
+Scott Banks,St_Pauli,Bundesliga,30.0,30.0,23,"Scotland, Wales","1,83m",left,€0,-,Right Winger,€140.000.00,€0
+Suso,Sevilla,La_Liga,30.0,30.0,31,Spain,"1,77m",left,€2.500.000,"Jun 30, 2025",Right Winger,€2.800.000.00,€0
+Miliano Jonathans,Utrecht,Eredivisie,30.0,30.0,21,Netherlands,"1,78m",left,€0,"Jun 30, 2028",Right Winger,€300.000.00,€0
+Nimfasha Berchimas,Charlotte,MLS,30.0,30.0,17,"United States, Burundi","1,72m",right,€0,"Dec 31, 2026",Left Winger,€79.190.00,€0
+Marcus Rashford,Aston_Villa,EPL,30.0,30.0,27,"England, St. Kitts & Nevis","1,85m",right,€50.000.000,"Jun 30, 2025",Left Winger,,
+Yusuf Demir,Galatasaray,Süper_Lig,30.0,30.0,21,Austria,"1,73m",left,€2.200.000,"Jun 30, 2026",Right Winger,€1.420.000.00,€0
+Ahmed Kutucu,Galatasaray,Süper_Lig,30.0,30.0,25,"Türkiye, Germany","1,81m",right,€5.500.000,"Jun 30, 2028",Left Winger,€900.000.00,€0
+Chiedozie Ogbene,Ipswich_Town,EPL,30.0,30.0,28,"Ireland, Nigeria","1,81m",right,€8.000.000,"Jun 30, 2028",Right Winger,,
+Reiss Nelson,Fulham,EPL,30.0,30.0,25,"England, Jamaica","1,75m",right,€18.000.000,"Jun 30, 2025",Right Winger,€6.167.047.00,€0
+Sinan Gümüş,Eyüpspor,Süper_Lig,30.0,30.0,,,,,,,,,
+Hüseyin Maldar,Eyüpspor,Süper_Lig,30.0,30.0,,,,,,,,,
+Willian,Fulham,EPL,30.0,30.0,36,Brazil,"1,75m",right,€1.000.000,"Jun 30, 2025",Left Winger,€3.083.523.00,€0
+Martial Godo,Fulham,EPL,30.0,30.0,22,"England, Cote d'Ivoire","1,69m",right,€0,"Jun 30, 2028",Left Winger,€185.011.00,€0
+Florent Muslija,Freiburg,Bundesliga,30.0,30.0,26,"Kosovo, Germany","1,72m",right,€2.000.000,"Jun 30, 2028",Left Winger,€550.000.00,€0
+Federico Chiesa,Liverpool,EPL,30.0,30.0,27,Italy,"1,75m",right,€18.000.000,"Jun 30, 2028",Right Winger,€9.250.570.00,€0
+Keny Arroyo,Beşiktaş,Süper_Lig,30.0,30.0,,,,,,,,,
+Hamidou Keyta,Konyaspor,Süper_Lig,30.0,30.0,30,"France, Senegal","1,86m",both,€0,"Jun 30, 2026",Left Winger,€400.000.00,€0
+Ryan Fraser,Southampton,EPL,30.0,30.0,31,Scotland,"1,63m",right,€3.000.000,"Jun 30, 2026",Left Winger,€2.466.819.00,€0
+Oscar Pettersson,Go_Ahead_Eag,Eredivisie,30.0,30.0,25,Sweden,"1,78m",right,€0,"Jun 30, 2028",Right Winger,€180.000.00,€0
+Tyrique George,Chelsea,EPL,30.0,30.0,19,"England, Nigeria","1,81m",right,€3.500.000,"Jun 30, 2027",Left Winger,€462.528.00,€0
+Donyell Malen,Aston_Villa,EPL,30.0,30.0,26,"Netherlands, Suriname","1,76m",right,€25.000.000,-,Right Winger,,
+Levent Mercan,Fenerbahçe,Süper_Lig,30.0,30.0,,,,,,,,€850.000.00,€0
+Oliver Edvardsen,Ajax,Eredivisie,30.0,30.0,26,Norway,"1,75m",right,€5.000.000,"Jun 30, 2028",Left Winger,,
+Burak Kapacak,Fenerbahçe,Süper_Lig,30.0,30.0,,,,,,,,€1.000.000.00,€0
+Brandon Cambridge,Charlotte,MLS,30.0,30.0,23,"Canada, United States","1,83m",,€0,"Dec 31, 2025",Right Winger,€79.190.00,€0
+Tyger Smalls,Charlotte,MLS,30.0,30.0,22,England,"1,85m",,€0,"Dec 31, 2025",Left Winger,€63.024.00,€0
+CJ Fodrey,Austin,MLS,30.0,30.0,21,United States,"1,88m",,€0,"Dec 31, 2027",Left Winger,€79.190.00,€0
+Emre Gökay,Sivasspor,Süper_Lig,30.0,30.0,19,Türkiye,"1,81m",left,€1.000.000,"Jun 30, 2025",Right Winger,€80.000.00,€0
+Queensy Menig,Sivasspor,Süper_Lig,30.0,30.0,29,"Netherlands, Suriname","1,74m",right,€0,"Jun 30, 2026",Left Winger,€1.500.000.00,€0
+Gökdeniz Tunç,Adana_Demirspor,Süper_Lig,30.0,30.0,18,Türkiye,-,,€0,"Jun 30, 2026",Left Winger,,
+Osman Kaynak,Adana_Demirspor,Süper_Lig,30.0,30.0,18,Türkiye,-,left,€0,-,Right Winger,€50.000.00,€0
+Doğanay Avcı,Rizespor,Süper_Lig,30.0,30.0,19,Türkiye,"1,87m",right,€0,"Jun 30, 2028",Left Winger,€60.000.00,€0
+Emrecan Bulut,Rizespor,Süper_Lig,30.0,30.0,22,Türkiye,"1,85m",right,€0,"Jun 30, 2028",Left Winger,€250.000.00,€0
+Carlos Forbs,Wolverhampton_Wanderers,EPL,30.0,30.0,21,"Portugal, Guinea-Bissau","1,69m",left,€8.000.000,"Jun 30, 2025",Left Winger,€1.233.409.00,€0
+Romain Esse,Crystal_Palace,EPL,30.0,30.0,19,"England, Cote d'Ivoire","1,78m",left,€12.000.000,"Jun 30, 2030",Right Winger,,
+Jordan Ayew,Crystal_Palace,EPL,30.0,30.0,,,,,,,,,
+Haqi Osman,BB_Bodrumspor,Süper_Lig,30.0,30.0,23,Ghana,"1,73m",right,€0,"Jun 30, 2027",Left Winger,€100.000.00,€0
+Patryk Szysz,Başakşehir,Süper_Lig,30.0,30.0,27,Poland,"1,77m",left,€0,"Jun 30, 2025",Right Winger,€530.000.00,€0
+Marco Asensio,Aston_Villa,EPL,30.0,30.0,29,"Spain, Netherlands","1,82m",left,€20.000.000,"Jun 30, 2025",Right Winger,,
+Christian Rasmussen,Ajax,Eredivisie,30.0,30.0,22,Denmark,"1,84m",left,€2.000.000,"Jun 30, 2027",Right Winger,€780.000.00,€0
+Kaj de Rooij,Zwolle,Eredivisie,30.0,30.0,24,Netherlands,"1,84m",right,€0,"Jun 30, 2025",Right Winger,€150.000.00,€0
+Adrian Blake,Utrecht,Eredivisie,30.0,30.0,19,"England, Jamaica","1,70m",right,€0,"Jun 30, 2027",Left Winger,€70.000.00,€0
+Taylor Booth,Twente,Eredivisie,30.0,30.0,23,"United States, Italy","1,74m",right,€2.500.000,"Jun 30, 2028",Right Winger,€400.000.00,€0
+Giandro Sambo,Heracles_Almelo,Eredivisie,30.0,30.0,18,"Curacao, Netherlands","1,81m",right,€0,"Jun 30, 2027",Left Winger,€60.000.00,€0
+Bryan Limbombe,Heracles_Almelo,Eredivisie,30.0,30.0,23,"Belgium, DR Congo","1,72m",right,€0,"Jun 30, 2027",Left Winger,€100.000.00,€0
+Raheem Sterling,Arsenal,EPL,30.0,30.0,30,"England, Jamaica","1,70m",right,€15.000.000,"May 31, 2025",Right Winger,€6.783.751.00,€0
+Luc Nieuwenhuijs,NEC_Nijmegen,Eredivisie,30.0,30.0,18,Netherlands,"1,75m",right,€0,"Jun 30, 2027",Left Winger,€60.000.00,€0
+Lars Olden Larsen,NEC_Nijmegen,Eredivisie,30.0,30.0,26,Norway,"1,75m",right,€0,"Jun 30, 2027",Right Winger,€780.000.00,€0
+Reiss Nelson,Arsenal,EPL,30.0,30.0,,,,,,,,,
+Sem van Duijn,AZ_Alkmaar,Eredivisie,30.0,30.0,21,Netherlands,"1,81m",right,€0,"Jun 30, 2027",Left Winger,,
+Ro-Zangelo Daal,AZ_Alkmaar,Eredivisie,30.0,30.0,21,Netherlands,"1,73m",right,€0,"Jun 30, 2028",Left Winger,€150.000.00,€0
+Jayden Addai,AZ_Alkmaar,Eredivisie,30.0,30.0,19,"Netherlands, Ghana","1,77m",left,€1.500.000,"Jun 30, 2028",Right Winger,€240.000.00,€0
+Ilias Takidine,RKC_Waalwijk,Eredivisie,30.0,30.0,24,"Belgium, Morocco","1,71m",right,€0,"Jun 30, 2025",Left Winger,€100.000.00,€0
+Alexander Jakobsen,RKC_Waalwijk,Eredivisie,30.0,30.0,31,"Egypt, Denmark","1,80m",both,€0,"Jun 30, 2025",Left Winger,€300.000.00,€0
+Juanmi,Real_Betis,La_Liga,30.0,30.0,,,,,,,,,
+Ali Jasim,Almere_City,Eredivisie,30.0,30.0,21,Iraq,"1,78m",right,€0,"Jun 30, 2025",Left Winger,€200.000.00,€0
+Faiz Mattoir,Almere_City,Eredivisie,30.0,30.0,24,"Comoros, France","1,69m",right,€0,"Jun 30, 2025",Left Winger,€150.000.00,€0
+Ruben Providence,Almere_City,Eredivisie,30.0,30.0,23,"Haiti, France","1,78m",right,€0,"Jun 30, 2027",Left Winger,€200.000.00,€0
+Solly March,Brighton_and_Hove_Albion,EPL,30.0,30.0,30,England,"1,80m",left,€8.000.000,"Jun 30, 2026",Right Winger,€3.083.523.00,€0
+Naci Ünüvar,Twente,Eredivisie,30.0,30.0,21,"Türkiye, Netherlands","1,68m",right,€2.000.000,"Jun 30, 2028",Left Winger,€490.000.00,€0
+Gustavo Nunes,Brentford,EPL,30.0,30.0,19,Brazil,"1,73m",right,€10.000.000,"Jun 30, 2030",Left Winger,€1.541.762.00,€0
+Eric da Silva Moreira,Nottingham_Forest,EPL,30.0,30.0,19,"Germany, Portugal","1,85m",right,€1.000.000,"Jun 30, 2028",Right Midfield,,
+Eser Gürbüz,Heerenveen,Eredivisie,30.0,30.0,18,"Netherlands, Türkiye",-,,€0,"Jun 30, 2028",Right Winger,,
+Ché Nunnely,Heerenveen,Eredivisie,30.0,30.0,26,"Suriname, Netherlands","1,70m",right,€0,"Jun 30, 2025",Right Winger,€540.000.00,€0
+Oscar Bobb,Manchester_City,EPL,30.0,30.0,21,"Norway, The Gambia","1,75m",left,€25.000.000,"Jun 30, 2029",Right Winger,,
+Ayoub Oufkir,Sparta_R'dam,Eredivisie,30.0,30.0,19,"Netherlands, Morocco","1,70m",left,€0,"Jun 30, 2027",Right Winger,€60.000.00,€0
+Luis Guilherme,West_Ham_United,EPL,30.0,30.0,19,Brazil,"1,75m",left,€18.000.000,"Jun 30, 2029",Right Winger,€1.541.762.00,€0
+Fofin Turay,Groningen,Eredivisie,30.0,30.0,20,"Netherlands, Guinea","1,78m",right,€0,"Jun 30, 2025",Left Winger,€70.000.00,€0
+Noam Emeran,Groningen,Eredivisie,30.0,30.0,22,"France, Rwanda","1,79m",left,€0,"Jun 30, 2027",Left Winger,€120.000.00,€0
+Khaled Razak,Willem_II,Eredivisie,30.0,30.0,19,Netherlands,"1,74m",left,€0,"Jun 30, 2027",Right Winger,,
+Couhaib Driouech,PSV_Eindhoven,Eredivisie,30.0,30.0,23,"Morocco, Netherlands","1,75m",right,€5.000.000,"Jun 30, 2029",Left Winger,€590.000.00,€0
+Mikey Moore,Tottenham_Hotspur,EPL,30.0,30.0,17,England,"1,80m",right,€15.000.000,"Jun 30, 2027",Left Winger,€308.352.00,€0
+Roy Kuijpers,NAC_Breda,Eredivisie,30.0,30.0,25,Netherlands,"1,75m",right,€0,"Jun 30, 2025",Right Winger,€120.000.00,€0
+Saná Fernandes,NAC_Breda,Eredivisie,30.0,30.0,19,"Portugal, Guinea-Bissau","1,65m",right,€0,"Jun 30, 2025",Left Winger,€390.000.00,€0
+Ramón Sosa,Nottingham_Forest,EPL,30.0,30.0,25,"Paraguay, Argentina","1,79m",right,€13.000.000,"Jun 30, 2029",Left Winger,,
+Aymen Sliti,Feyenoord,Eredivisie,30.0,30.0,19,"Netherlands, Tunisia","1,79m",left,€0,"Jun 30, 2026",Left Winger,,
+Luka Ivanušec,Feyenoord,Eredivisie,30.0,30.0,26,Croatia,"1,75m",right,€5.000.000,"Jun 30, 2028",Left Winger,,
+Ian Poveda,Sunderland,Championship,30.0,30.0,25,"Colombia, England","1,67m",left,€0,"Jun 30, 2027",Right Winger,€555.034.00,€0
