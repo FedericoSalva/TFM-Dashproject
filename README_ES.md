@@ -1,6 +1,6 @@
 # ⚽ TFM-Dashproject
 
-Proyecto final del Máster en Big Data, Game Analysis y Scouting.  
+Proyecto final del MÁSTER DE FORMACIÓN PERMANENTE EN BIG DATA, ANÁLISIS EN JUEGO Y SCOUTING EN FÚTBOL.  
 Este repositorio reúne scripts, análisis y visualizaciones para la evaluación avanzada de equipos y jugadores, con un enfoque específico en la Juventus temporada 2024/2025.
 
 ---
